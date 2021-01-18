@@ -1,0 +1,1698 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<ogr>
+  <fiche_emploi_metier>
+    <numero>11</numero>
+    <bloc_code_rome>
+      <code_rome>A1101</code_rome>
+      <intitule>Conduite d'engins agricoles et forestiers</intitule>
+      <code_ogr>6</code_ogr>
+    </bloc_code_rome>
+    <appellation>
+      <item>
+        <libelle>Chauffeur / Chauffeuse de machines agricoles</libelle>
+        <libelle_court>Chauffeur / Chauffeuse de machines agricoles</libelle_court>
+        <code_ogr>11987</code_ogr>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Conducteur / Conductrice d'abatteuses</libelle>
+        <libelle_court>Conducteur / Conductrice d'abatteuses</libelle_court>
+        <code_ogr>12862</code_ogr>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Conducteur / Conductrice d'automoteur de récolte</libelle>
+        <libelle_court>Conducteur / Conductrice d'automoteur de récolte</libelle_court>
+        <code_ogr>38874</code_ogr>
+        <priorisation>1</priorisation>
+      </item>
+    </appellation>
+    <definition>
+Réalise des travaux mécanisés agricoles, sylvicoles ou forestiers (préparation des sols, semis, récolte, abattage d'arbres, ...) selon les objectifs de production (quantité, qualité, ...), la commande du client, les règles d'hygiène, de sécurité et la réglementation environnementale.
+</definition>
+    <acces_emploi_metier>
+Cet emploi/métier est accessible avec un CAP/BEP dans le secteur agricole (production agricole, agroéquipement, ...) ou forestier (travaux forestiers, ...).
+Il est également accessible avec une expérience professionnelle dans le même secteur sans diplôme particulier. 
+Un Certificat de Spécialisation Agricole -CSA- tracteurs et machines agricoles (utilisation et maintenance) peut en faciliter l'accès.
+Un Bac ou un BTS peut être demandé selon la technicité des engins utilisés.
+Les permis C, C1, CE, C1E (précédemment C et EC) peuvent être requis.
+</acces_emploi_metier>
+    <formations_associees>
+</formations_associees>
+    <condition_exercice_activite>
+L'activité de cet emploi/métier s'exerce au sein de structures agricoles (exploitation, Entreprise de Travaux Agricoles -ETA-, Coopérative d'Utilisation du Matériel Agricole -CUMA-, ...) ou forestières (pépinières forestières, Entreprises de Travaux Forestiers - ETF, exploitations forestières, ...), en contact avec différents intervenants (techniciens de coopératives, clients, ...).
+Elle varie selon le secteur (agricole, forestier), le type d'équipement et le degré de mécanisation de la structure.
+L'activité peut impliquer la manipulation de charges. 
+Le port d'Equipements de Protection Individuelle -EPI- (casque anti-bruit, lunettes, pantalon de sécurité, ...) peut être exigé.
+Cet emploi/métier peut s'exercer en horaires fractionnés, en soirée, les fins de semaines, jours fériés et être soumis à des pics d'activité.
+</condition_exercice_activite>
+    <classement_emploi_metier>
+</classement_emploi_metier>
+    <environnement_de_travail>
+      <item>
+        <libelle>Coopérative agricole</libelle>
+        <code_ogr>23833</code_ogr>
+        <libelle_environnement>STRUCTURES</libelle_environnement>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Entreprise de travaux agricoles</libelle>
+        <code_ogr>23902</code_ogr>
+        <libelle_environnement>STRUCTURES</libelle_environnement>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Entreprise de travaux forestiers</libelle>
+        <code_ogr>23904</code_ogr>
+        <libelle_environnement>STRUCTURES</libelle_environnement>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Exploitation agricole</libelle>
+        <code_ogr>23929</code_ogr>
+        <libelle_environnement>STRUCTURES</libelle_environnement>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Exploitation forestière</libelle>
+        <code_ogr>23932</code_ogr>
+        <libelle_environnement>STRUCTURES</libelle_environnement>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Exploitation viticole / vinicole</libelle>
+        <code_ogr>23933</code_ogr>
+        <libelle_environnement>STRUCTURES</libelle_environnement>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Pépinière</libelle>
+        <code_ogr>24033</code_ogr>
+        <libelle_environnement>STRUCTURES</libelle_environnement>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Travail en indépendant</libelle>
+        <code_ogr>24844</code_ogr>
+        <libelle_environnement>CONDITIONS</libelle_environnement>
+        <priorisation>1</priorisation>
+      </item>
+    </environnement_de_travail>
+    <les_activites_de_base>
+      <activite_de_base>
+        <item>
+          <libelle>Préparer le matériel, les matériaux et les outillages</libelle>
+          <code_ogr>125978</code_ogr>
+          <position>1</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Identifier le type d'intervention</libelle>
+          <code_ogr>122704</code_ogr>
+          <position>2</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Sécuriser un équipement</libelle>
+          <code_ogr>122564</code_ogr>
+          <position>3</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Atteler un équipement</libelle>
+          <code_ogr>122563</code_ogr>
+          <position>4</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Conduire les engins agricoles vers le lieu de production (champs, forêt), de stockage, de livraison (fermes, coopératives)</libelle>
+          <code_ogr>100003</code_ogr>
+          <position>5</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Matérialiser une implantation de parcelle ou de passage</libelle>
+          <code_ogr>123536</code_ogr>
+          <position>6</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Approvisionner des engins d'exploitation</libelle>
+          <code_ogr>121951</code_ogr>
+          <position>7</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Réaliser une opération de maintenance</libelle>
+          <code_ogr>125816</code_ogr>
+          <position>8</position>
+          <priorisation>1</priorisation>
+        </item>
+      </activite_de_base>
+      <savoir_theorique_et_proceduraux>
+        <item>
+          <libelle>Procédures de maintenance de matériel</libelle>
+          <code_ogr>116765</code_ogr>
+          <position>1</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Procédures de maintenance de locaux</libelle>
+          <code_ogr>116766</code_ogr>
+          <position>2</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Pneumatique</libelle>
+          <code_ogr>104547</code_ogr>
+          <position>3</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Utilisation de système informatique (embarqué ou fixe)</libelle>
+          <code_ogr>109995</code_ogr>
+          <position>4</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Utilisation d'engins forestiers</libelle>
+          <code_ogr>100010</code_ogr>
+          <position>5</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Mécanique</libelle>
+          <code_ogr>104514</code_ogr>
+          <position>6</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Techniques culturales</libelle>
+          <code_ogr>100011</code_ogr>
+          <position>7</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Techniques de préservation de la biodiversité</libelle>
+          <code_ogr>100057</code_ogr>
+          <position>8</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Biologie végétale</libelle>
+          <code_ogr>100131</code_ogr>
+          <position>9</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Engins agricoles</libelle>
+          <code_ogr>122001</code_ogr>
+          <position>10</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Règles de sécurité</libelle>
+          <code_ogr>100017</code_ogr>
+          <position>11</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Utilisation d'outillages manuels</libelle>
+          <code_ogr>118331</code_ogr>
+          <position>12</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Techniques de soudage</libelle>
+          <code_ogr>100007</code_ogr>
+          <position>13</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Gestes et postures de manutention</libelle>
+          <code_ogr>100016</code_ogr>
+          <position>14</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Normes environnementales</libelle>
+          <code_ogr>100015</code_ogr>
+          <position>15</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Agronomie</libelle>
+          <code_ogr>100104</code_ogr>
+          <position>16</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Hydraulique</libelle>
+          <code_ogr>104425</code_ogr>
+          <position>17</position>
+          <priorisation>1</priorisation>
+        </item>
+      </savoir_theorique_et_proceduraux>
+      <savoir_action>
+</savoir_action>
+    </les_activites_de_base>
+    <les_activites_specifique>
+      <bloc>
+        <position_bloc>
+1
+</position_bloc>
+        <activite_specifique>
+          <item>
+            <libelle>Utiliser un engin nécessitant une habilitation</libelle>
+            <code_ogr>120405</code_ogr>
+            <type_affichage>SIMPLE</type_affichage>
+            <libelle_impression/>
+            <libelle_entete_regroupement/>
+            <position>1</position>
+            <priorisation>1</priorisation>
+          </item>
+        </activite_specifique>
+        <savoir_theorique_et_proceduraux>
+          <item>
+            <libelle>Engins compacts (CACES R 482-A) - A partir du 01/01/2020</libelle>
+            <code_ogr>200039</code_ogr>
+            <position>1</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>Engins d¿extraction à déplacement séquentiel (CACES R 482-B1) - A partir du 01/01/2020</libelle>
+            <code_ogr>200040</code_ogr>
+            <position>2</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>Engins de sondage ou de forage à déplacement séquentiel (CACES R 482-B2) - A partir du 01/01/2020</libelle>
+            <code_ogr>200041</code_ogr>
+            <position>3</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>Engins rail-route à déplacement séquentiel (CACES R482-B3) - A partir du 01/01/2020</libelle>
+            <code_ogr>200042</code_ogr>
+            <position>4</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>Engins de transport (CACES R 482-E) - A partir du 01/01/2020</libelle>
+            <code_ogr>200047</code_ogr>
+            <position>5</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>Chariots de manutention tout-terrain (CACES R 482-F) - A partir du 01/01/2020</libelle>
+            <code_ogr>200048</code_ogr>
+            <position>6</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>Chariots à mât rétractable (CACES R 489-5) - A partir du 01/01/2020</libelle>
+            <code_ogr>200074</code_ogr>
+            <position>7</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>Grues de chargement (CACES R 490) - A partir du 01/01/2020</libelle>
+            <code_ogr>200077</code_ogr>
+            <position>8</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>Tracteur et petits engins de chantiers mobiles (CACES R 372-1)</libelle>
+            <code_ogr>123701</code_ogr>
+            <position>9</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>Engins d'extraction ou de chargement à déplacement séquentiel (CACES R 372-2)</libelle>
+            <code_ogr>123704</code_ogr>
+            <position>10</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>Engins de transport ou d'extraction transport (CACES R 372-8)</libelle>
+            <code_ogr>123717</code_ogr>
+            <position>11</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>Engins de manutention, chariot de chantier (CACES R 372-9)</libelle>
+            <code_ogr>123699</code_ogr>
+            <position>12</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>Chariots élévateurs à mât rétractable (CACES R 389-5)</libelle>
+            <code_ogr>123721</code_ogr>
+            <position>13</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>Grues auxiliaires de chargement de véhicules (CACES R 390)</libelle>
+            <code_ogr>120408</code_ogr>
+            <position>14</position>
+            <priorisation>1</priorisation>
+          </item>
+        </savoir_theorique_et_proceduraux>
+        <savoir_action>
+</savoir_action>
+      </bloc>
+      <bloc>
+        <position_bloc>
+2
+</position_bloc>
+        <activite_specifique>
+          <item>
+            <libelle>Stocker un produit</libelle>
+            <code_ogr>117548</code_ogr>
+            <type_affichage>SIMPLE</type_affichage>
+            <libelle_impression/>
+            <libelle_entete_regroupement/>
+            <position>1</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>Débarder une grume</libelle>
+            <code_ogr>117489</code_ogr>
+            <type_affichage>SIMPLE</type_affichage>
+            <libelle_impression/>
+            <libelle_entete_regroupement/>
+            <position>2</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>Empiler des grumes</libelle>
+            <code_ogr>117492</code_ogr>
+            <type_affichage>SIMPLE</type_affichage>
+            <libelle_impression/>
+            <libelle_entete_regroupement/>
+            <position>3</position>
+            <priorisation>1</priorisation>
+          </item>
+        </activite_specifique>
+        <savoir_theorique_et_proceduraux>
+          <item>
+            <libelle>Caractéristiques des écosystèmes</libelle>
+            <code_ogr>100019</code_ogr>
+            <position>1</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>Utilisation de débusqueur</libelle>
+            <code_ogr>100018</code_ogr>
+            <position>2</position>
+            <priorisation>1</priorisation>
+          </item>
+        </savoir_theorique_et_proceduraux>
+        <savoir_action>
+</savoir_action>
+      </bloc>
+      <bloc>
+        <position_bloc>
+3
+</position_bloc>
+        <activite_specifique>
+          <item>
+            <libelle>Récolter un produit à maturité selon les consignes de calibrage</libelle>
+            <code_ogr>122853</code_ogr>
+            <type_affichage>SIMPLE</type_affichage>
+            <libelle_impression/>
+            <libelle_entete_regroupement/>
+            <position>1</position>
+            <priorisation>1</priorisation>
+          </item>
+        </activite_specifique>
+        <savoir_theorique_et_proceduraux>
+          <item>
+            <libelle>Techniques de pressage</libelle>
+            <code_ogr>122856</code_ogr>
+            <position>1</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>Techniques de moissonnage</libelle>
+            <code_ogr>122855</code_ogr>
+            <position>2</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>Techniques de fauchage</libelle>
+            <code_ogr>122854</code_ogr>
+            <position>3</position>
+            <priorisation>1</priorisation>
+          </item>
+        </savoir_theorique_et_proceduraux>
+        <savoir_action>
+</savoir_action>
+      </bloc>
+      <bloc>
+        <position_bloc>
+4
+</position_bloc>
+        <activite_specifique>
+          <item>
+            <libelle>Abattre un arbre</libelle>
+            <code_ogr>122822</code_ogr>
+            <type_affichage>SIMPLE</type_affichage>
+            <libelle_impression/>
+            <libelle_entete_regroupement/>
+            <position>1</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>Débiter un arbre selon son usage</libelle>
+            <code_ogr>122579</code_ogr>
+            <type_affichage>SIMPLE</type_affichage>
+            <libelle_impression/>
+            <libelle_entete_regroupement/>
+            <position>2</position>
+            <priorisation>1</priorisation>
+          </item>
+        </activite_specifique>
+        <savoir_theorique_et_proceduraux>
+</savoir_theorique_et_proceduraux>
+        <savoir_action>
+</savoir_action>
+      </bloc>
+      <bloc>
+        <position_bloc>
+5
+</position_bloc>
+        <activite_specifique>
+          <item>
+            <libelle>Préparer les sols et les plantations (épandage, semis, récolte, ...)</libelle>
+            <code_ogr>122730</code_ogr>
+            <type_affichage>SIMPLE</type_affichage>
+            <libelle_impression/>
+            <libelle_entete_regroupement/>
+            <position>1</position>
+            <priorisation>1</priorisation>
+          </item>
+        </activite_specifique>
+        <savoir_theorique_et_proceduraux>
+</savoir_theorique_et_proceduraux>
+        <savoir_action>
+</savoir_action>
+      </bloc>
+      <bloc>
+        <position_bloc>
+6
+</position_bloc>
+        <activite_specifique>
+          <item>
+            <libelle>Entretenir un espace extérieur</libelle>
+            <code_ogr>124544</code_ogr>
+            <type_affichage>SIMPLE</type_affichage>
+            <libelle_impression/>
+            <libelle_entete_regroupement/>
+            <position>1</position>
+            <priorisation>1</priorisation>
+          </item>
+        </activite_specifique>
+        <savoir_theorique_et_proceduraux>
+</savoir_theorique_et_proceduraux>
+        <savoir_action>
+</savoir_action>
+      </bloc>
+      <bloc>
+        <position_bloc>
+7
+</position_bloc>
+        <activite_specifique>
+          <item>
+            <libelle>Créer et entretenir des pistes</libelle>
+            <code_ogr>126171</code_ogr>
+            <type_affichage>SIMPLE</type_affichage>
+            <libelle_impression/>
+            <libelle_entete_regroupement/>
+            <position>1</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>Réaliser l'entretien du matériel</libelle>
+            <code_ogr>116663</code_ogr>
+            <type_affichage>SIMPLE</type_affichage>
+            <libelle_impression/>
+            <libelle_entete_regroupement/>
+            <position>2</position>
+            <priorisation>1</priorisation>
+          </item>
+        </activite_specifique>
+        <savoir_theorique_et_proceduraux>
+</savoir_theorique_et_proceduraux>
+        <savoir_action>
+</savoir_action>
+      </bloc>
+    </les_activites_specifique>
+    <les_mobilites>
+      <proche>
+        <mobilite>
+          <appellation_source/>
+          <code_rome_cible>A1416 - Polyculture, élevage</code_rome_cible>
+          <appellation_cible/>
+        </mobilite>
+      </proche>
+      <si_evolution>
+        <mobilite>
+          <appellation_source/>
+          <code_rome_cible>A1201 - Bûcheronnage et élagage</code_rome_cible>
+          <appellation_cible/>
+        </mobilite>
+        <mobilite>
+          <appellation_source/>
+          <code_rome_cible>A1202 - Entretien des espaces naturels</code_rome_cible>
+          <appellation_cible/>
+        </mobilite>
+        <mobilite>
+          <appellation_source/>
+          <code_rome_cible>A1203 - Aménagement et entretien des espaces verts</code_rome_cible>
+          <appellation_cible/>
+        </mobilite>
+      </si_evolution>
+    </les_mobilites>
+  </fiche_emploi_metier>
+  <fiche_emploi_metier>
+    <numero>19</numero>
+    <bloc_code_rome>
+      <code_rome>A1201</code_rome>
+      <intitule>Bûcheronnage et élagage</intitule>
+      <code_ogr>7</code_ogr>
+    </bloc_code_rome>
+    <appellation>
+      <item>
+        <libelle>Arboriste</libelle>
+        <libelle_court>Arboriste</libelle_court>
+        <code_ogr>11105</code_ogr>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Arboriste grimpeur / grimpeuse</libelle>
+        <libelle_court>Arboriste grimpeur / grimpeuse</libelle_court>
+        <code_ogr>11106</code_ogr>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Bûcheron / Bûcheronne</libelle>
+        <libelle_court>Bûcheron / Bûcheronne</libelle_court>
+        <code_ogr>11606</code_ogr>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Bûcheron élagueur / Bûcheronne élagueuse</libelle>
+        <libelle_court>Bûcheron élagueur / Bûcheronne élagueuse</libelle_court>
+        <code_ogr>11607</code_ogr>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Charbonnier / Charbonnière</libelle>
+        <libelle_court>Charbonnier / Charbonnière</libelle_court>
+        <code_ogr>11740</code_ogr>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Commis / Commise de coupe</libelle>
+        <libelle_court>Commis / Commise de coupe</libelle_court>
+        <code_ogr>12755</code_ogr>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Éhouppeur / Éhouppeuse</libelle>
+        <libelle_court>Éhouppeur / Éhouppeuse</libelle_court>
+        <code_ogr>14607</code_ogr>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Élagueur / Élagueuse</libelle>
+        <libelle_court>Élagueur / Élagueuse</libelle_court>
+        <code_ogr>14608</code_ogr>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Élagueur / Élagueuse espaces verts</libelle>
+        <libelle_court>Élagueur / Élagueuse espaces verts</libelle_court>
+        <code_ogr>14609</code_ogr>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Élagueur-botteur / Élagueuse-botteuse</libelle>
+        <libelle_court>Élagueur-botteur / Élagueuse-botteuse</libelle_court>
+        <code_ogr>14610</code_ogr>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Élagueur-grimpeur / Élagueuse-grimpeuse</libelle>
+        <libelle_court>Élagueur-grimpeur / Élagueuse-grimpeuse</libelle_court>
+        <code_ogr>14611</code_ogr>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Grimpeur-élagueur / Grimpeuse-élagueuse</libelle>
+        <libelle_court>Grimpeur-élagueur / Grimpeuse-élagueuse</libelle_court>
+        <code_ogr>15429</code_ogr>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Homme / Femme de pied</libelle>
+        <libelle_court>Homme / Femme de pied</libelle_court>
+        <code_ogr>38435</code_ogr>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Ouvrier / Ouvrière d'exploitation forestière</libelle>
+        <libelle_court>Ouvrier / Ouvrière d'exploitation forestière</libelle_court>
+        <code_ogr>17483</code_ogr>
+        <priorisation>1</priorisation>
+      </item>
+    </appellation>
+    <definition>
+Réalise des opérations de coupe et d'entretien d'arbres (abattage, élagage, taille ...) sur sites forestiers, voies départementales, parcs et jardins, ..., selon les règles de sécurité, les normes environnementales et les impératifs de production (délais, quantités, ...). 
+Peut débarder les grumes. Peut estimer la valeur de coupes.
+Peut diriger une équipe ou diriger une entreprise de bûcheronnage, d'élagage, d'espaces verts.
+</definition>
+    <acces_emploi_metier>
+Cet emploi/métier est accessible avec un CAP/BEP Agricole en travaux forestiers et bûcheronnage. Un certificat de spécialisation "diagnostic et taille des arbres" peut être requis.
+Il est également accessible avec une expérience professionnelle dans le même secteur sans diplôme particulier.
+Un diplôme de niveau Bac (Bac Professionnel, Brevet de Technicien Agricole, ...) en gestion et conduite de travaux forestiers peut être demandé pour les fonctions d'encadrement.
+</acces_emploi_metier>
+    <formations_associees>
+</formations_associees>
+    <condition_exercice_activite>
+L'activité de cet emploi/métier s'exerce au sein de groupements de propriétaires forestiers, des Entreprises de Travaux Forestiers, d'entreprises du paysage, de l'Office National des Forêts, des collectivités territoriales ou pour le compte de particuliers, en relation avec différents intervenants (techniciens forestiers, conducteurs d'engins, ouvriers d'espaces verts, ... ).
+Elle varie selon le type d'intervention (jardins, espaces verts, forêts, élagage en zone urbaine, ...) et les saisons. 
+Elle peut s'exercer les fins de semaine et être soumise à des astreintes.
+La rémunération est généralement constituée d'un fixe ou s'effectue au rendement (cubage réalisé).
+L'activité peut s'effectuer en hauteur, sur voie de circulation routière ou piétonne.
+Le port d'équipements de protection (chaussures de sécurité, veste renforcée anti-coupe, harnais de sécurité, ...) est requis.
+</condition_exercice_activite>
+    <classement_emploi_metier>
+</classement_emploi_metier>
+    <environnement_de_travail>
+      <item>
+        <libelle>Centre Régional de la Propriété Forestière</libelle>
+        <code_ogr>23789</code_ogr>
+        <libelle_environnement>STRUCTURES</libelle_environnement>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Collectivité territoriale</libelle>
+        <code_ogr>23808</code_ogr>
+        <libelle_environnement>STRUCTURES</libelle_environnement>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Entreprise de travaux forestiers</libelle>
+        <code_ogr>23904</code_ogr>
+        <libelle_environnement>STRUCTURES</libelle_environnement>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Entreprise du paysage</libelle>
+        <code_ogr>23907</code_ogr>
+        <libelle_environnement>STRUCTURES</libelle_environnement>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Groupement de propriétaires forestiers</libelle>
+        <code_ogr>23955</code_ogr>
+        <libelle_environnement>STRUCTURES</libelle_environnement>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Office National des Forêts</libelle>
+        <code_ogr>24011</code_ogr>
+        <libelle_environnement>STRUCTURES</libelle_environnement>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Au domicile de particulier</libelle>
+        <code_ogr>23375</code_ogr>
+        <libelle_environnement>CONDITIONS</libelle_environnement>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Travail en indépendant</libelle>
+        <code_ogr>24844</code_ogr>
+        <libelle_environnement>CONDITIONS</libelle_environnement>
+        <priorisation>1</priorisation>
+      </item>
+    </environnement_de_travail>
+    <les_activites_de_base>
+      <activite_de_base>
+        <item>
+          <libelle>Recenser les arbres à couper ou élaguer</libelle>
+          <code_ogr>122698</code_ogr>
+          <position>1</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Déterminer l'abattage ou l'élagage selon la trajectoire de chute des arbres en prenant en compte l'environnement et les conditions climatiques</libelle>
+          <code_ogr>122575</code_ogr>
+          <position>2</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Organiser l'abattage d'un arbre ou d'une branche</libelle>
+          <code_ogr>125315</code_ogr>
+          <position>3</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Réaliser l'abattage des arbres désignés (positionnement des coins, tronçonnage de la base, ...) selon la trajectoire de chute voulue</libelle>
+          <code_ogr>100023</code_ogr>
+          <position>4</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Élaguer les branches d'un arbre</libelle>
+          <code_ogr>122580</code_ogr>
+          <position>5</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Tailler les arbres selon l'orientation de croissance ou la forme recherchée et supprimer les branches indésirables</libelle>
+          <code_ogr>100063</code_ogr>
+          <position>6</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Débiter un arbre selon son usage</libelle>
+          <code_ogr>122579</code_ogr>
+          <position>7</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Entretenir des équipements</libelle>
+          <code_ogr>124888</code_ogr>
+          <position>8</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Assurer une maintenance de premier niveau</libelle>
+          <code_ogr>119210</code_ogr>
+          <position>9</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Réaliser un suivi d'activité</libelle>
+          <code_ogr>119106</code_ogr>
+          <position>10</position>
+          <priorisation>1</priorisation>
+        </item>
+      </activite_de_base>
+      <savoir_theorique_et_proceduraux>
+        <item>
+          <libelle>Système de rétention d'un arbre</libelle>
+          <code_ogr>125314</code_ogr>
+          <position>1</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Techniques d'ébranchage</libelle>
+          <code_ogr>122578</code_ogr>
+          <position>2</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Physiologie végétale</libelle>
+          <code_ogr>100030</code_ogr>
+          <position>3</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Caractéristiques des écosystèmes</libelle>
+          <code_ogr>100019</code_ogr>
+          <position>4</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Techniques de taille de végétaux</libelle>
+          <code_ogr>100032</code_ogr>
+          <position>5</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Techniques de coupe et d'abattage</libelle>
+          <code_ogr>100033</code_ogr>
+          <position>6</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Techniques de grimper</libelle>
+          <code_ogr>100034</code_ogr>
+          <position>7</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Techniques d'haubanage</libelle>
+          <code_ogr>100035</code_ogr>
+          <position>8</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Utilisation d'engins forestiers</libelle>
+          <code_ogr>100010</code_ogr>
+          <position>9</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Règles de sécurité</libelle>
+          <code_ogr>100017</code_ogr>
+          <position>10</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Utilisation d'outils de taille</libelle>
+          <code_ogr>120676</code_ogr>
+          <position>11</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Engins agricoles</libelle>
+          <code_ogr>122001</code_ogr>
+          <position>12</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Techniques d'affûtage</libelle>
+          <code_ogr>100029</code_ogr>
+          <position>13</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Techniques de soudage</libelle>
+          <code_ogr>100007</code_ogr>
+          <position>14</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Gestes et postures de manutention</libelle>
+          <code_ogr>100016</code_ogr>
+          <position>15</position>
+          <priorisation>1</priorisation>
+        </item>
+      </savoir_theorique_et_proceduraux>
+      <savoir_action>
+</savoir_action>
+    </les_activites_de_base>
+    <les_activites_specifique>
+      <bloc>
+        <position_bloc>
+1
+</position_bloc>
+        <activite_specifique>
+          <item>
+            <libelle>Établir un devis d'intervention</libelle>
+            <code_ogr>121021</code_ogr>
+            <type_affichage>SIMPLE</type_affichage>
+            <libelle_impression/>
+            <libelle_entete_regroupement/>
+            <position>1</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>Estimer la valeur de coupes</libelle>
+            <code_ogr>123995</code_ogr>
+            <type_affichage>SIMPLE</type_affichage>
+            <libelle_impression/>
+            <libelle_entete_regroupement/>
+            <position>2</position>
+            <priorisation>1</priorisation>
+          </item>
+        </activite_specifique>
+        <savoir_theorique_et_proceduraux>
+          <item>
+            <libelle>Chiffrage/calcul de coût</libelle>
+            <code_ogr>100038</code_ogr>
+            <position>1</position>
+            <priorisation>1</priorisation>
+          </item>
+        </savoir_theorique_et_proceduraux>
+        <savoir_action>
+</savoir_action>
+      </bloc>
+      <bloc>
+        <position_bloc>
+2
+</position_bloc>
+        <activite_specifique>
+          <item>
+            <libelle>Monter les accessoires d'engins forestiers</libelle>
+            <code_ogr>125144</code_ogr>
+            <type_affichage>SIMPLE</type_affichage>
+            <libelle_impression/>
+            <libelle_entete_regroupement/>
+            <position>1</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>Contrôler le fonctionnement d'un équipement de sécurité</libelle>
+            <code_ogr>124169</code_ogr>
+            <type_affichage>SIMPLE</type_affichage>
+            <libelle_impression/>
+            <libelle_entete_regroupement/>
+            <position>2</position>
+            <priorisation>1</priorisation>
+          </item>
+        </activite_specifique>
+        <savoir_theorique_et_proceduraux>
+</savoir_theorique_et_proceduraux>
+        <savoir_action>
+</savoir_action>
+      </bloc>
+      <bloc>
+        <position_bloc>
+3
+</position_bloc>
+        <activite_specifique>
+          <item>
+            <libelle>Ranger des troncs</libelle>
+            <code_ogr>122566</code_ogr>
+            <type_affichage>SIMPLE</type_affichage>
+            <libelle_impression/>
+            <libelle_entete_regroupement/>
+            <position>1</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>Classer des troncs selon l'usage du bois</libelle>
+            <code_ogr>122565</code_ogr>
+            <type_affichage>SIMPLE</type_affichage>
+            <libelle_impression/>
+            <libelle_entete_regroupement/>
+            <position>2</position>
+            <priorisation>1</priorisation>
+          </item>
+        </activite_specifique>
+        <savoir_theorique_et_proceduraux>
+</savoir_theorique_et_proceduraux>
+        <savoir_action>
+</savoir_action>
+      </bloc>
+      <bloc>
+        <position_bloc>
+4
+</position_bloc>
+        <activite_specifique>
+          <item>
+            <libelle>Positionner et régler une machine d'abattage</libelle>
+            <code_ogr>122728</code_ogr>
+            <type_affichage>SIMPLE</type_affichage>
+            <libelle_impression/>
+            <libelle_entete_regroupement/>
+            <position>1</position>
+            <priorisation>1</priorisation>
+          </item>
+        </activite_specifique>
+        <savoir_theorique_et_proceduraux>
+</savoir_theorique_et_proceduraux>
+        <savoir_action>
+</savoir_action>
+      </bloc>
+      <bloc>
+        <position_bloc>
+5
+</position_bloc>
+        <activite_specifique>
+          <item>
+            <libelle>Débarder une grume</libelle>
+            <code_ogr>117489</code_ogr>
+            <type_affichage>SIMPLE</type_affichage>
+            <libelle_impression/>
+            <libelle_entete_regroupement/>
+            <position>1</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>Empiler des grumes</libelle>
+            <code_ogr>117492</code_ogr>
+            <type_affichage>SIMPLE</type_affichage>
+            <libelle_impression/>
+            <libelle_entete_regroupement/>
+            <position>2</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>Stocker un produit</libelle>
+            <code_ogr>117548</code_ogr>
+            <type_affichage>SIMPLE</type_affichage>
+            <libelle_impression/>
+            <libelle_entete_regroupement/>
+            <position>3</position>
+            <priorisation>1</priorisation>
+          </item>
+        </activite_specifique>
+        <savoir_theorique_et_proceduraux>
+</savoir_theorique_et_proceduraux>
+        <savoir_action>
+</savoir_action>
+      </bloc>
+      <bloc>
+        <position_bloc>
+6
+</position_bloc>
+        <activite_specifique>
+          <item>
+            <libelle>Réaliser une action curative sur un arbre après intervention</libelle>
+            <code_ogr>122574</code_ogr>
+            <type_affichage>SIMPLE</type_affichage>
+            <libelle_impression/>
+            <libelle_entete_regroupement/>
+            <position>1</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>Appliquer des produits phytosanitaires</libelle>
+            <code_ogr>122000</code_ogr>
+            <type_affichage>SIMPLE</type_affichage>
+            <libelle_impression/>
+            <libelle_entete_regroupement/>
+            <position>2</position>
+            <priorisation>1</priorisation>
+          </item>
+        </activite_specifique>
+        <savoir_theorique_et_proceduraux>
+          <item>
+            <libelle>Techniques de soins aux arbres ou ceps</libelle>
+            <code_ogr>100039</code_ogr>
+            <position>1</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>Réglementation phytosanitaire</libelle>
+            <code_ogr>101869</code_ogr>
+            <position>2</position>
+            <priorisation>1</priorisation>
+          </item>
+        </savoir_theorique_et_proceduraux>
+        <savoir_action>
+</savoir_action>
+      </bloc>
+      <bloc>
+        <position_bloc>
+7
+</position_bloc>
+        <activite_specifique>
+          <item>
+            <libelle>Suivre l'état des stocks</libelle>
+            <code_ogr>116932</code_ogr>
+            <type_affichage>SIMPLE</type_affichage>
+            <libelle_impression/>
+            <libelle_entete_regroupement/>
+            <position>1</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>Définir des besoins en approvisionnement</libelle>
+            <code_ogr>125971</code_ogr>
+            <type_affichage>SIMPLE</type_affichage>
+            <libelle_impression/>
+            <libelle_entete_regroupement/>
+            <position>2</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>Préparer les commandes</libelle>
+            <code_ogr>119860</code_ogr>
+            <type_affichage>SIMPLE</type_affichage>
+            <libelle_impression/>
+            <libelle_entete_regroupement/>
+            <position>3</position>
+            <priorisation>1</priorisation>
+          </item>
+        </activite_specifique>
+        <savoir_theorique_et_proceduraux>
+          <item>
+            <libelle>Logiciels de gestion de stocks</libelle>
+            <code_ogr>119508</code_ogr>
+            <position>1</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>Gestion des stocks et des approvisionnements</libelle>
+            <code_ogr>119000</code_ogr>
+            <position>2</position>
+            <priorisation>1</priorisation>
+          </item>
+        </savoir_theorique_et_proceduraux>
+        <savoir_action>
+</savoir_action>
+      </bloc>
+      <bloc>
+        <position_bloc>
+8
+</position_bloc>
+        <activite_specifique>
+          <item>
+            <libelle>Coordonner l'activité d'une équipe</libelle>
+            <code_ogr>102359</code_ogr>
+            <type_affichage>SIMPLE</type_affichage>
+            <libelle_impression/>
+            <libelle_entete_regroupement/>
+            <position>1</position>
+            <priorisation>1</priorisation>
+          </item>
+        </activite_specifique>
+        <savoir_theorique_et_proceduraux>
+          <item>
+            <libelle>Management</libelle>
+            <code_ogr>119842</code_ogr>
+            <position>1</position>
+            <priorisation>1</priorisation>
+          </item>
+        </savoir_theorique_et_proceduraux>
+        <savoir_action>
+</savoir_action>
+      </bloc>
+    </les_activites_specifique>
+    <les_mobilites>
+      <proche>
+</proche>
+      <si_evolution>
+        <mobilite>
+          <appellation_source/>
+          <code_rome_cible>A1101 - Conduite d'engins agricoles et forestiers</code_rome_cible>
+          <appellation_cible/>
+        </mobilite>
+        <mobilite>
+          <appellation_source/>
+          <code_rome_cible>A1203 - Aménagement et entretien des espaces verts</code_rome_cible>
+          <appellation_cible/>
+        </mobilite>
+        <mobilite>
+          <appellation_source/>
+          <code_rome_cible>A1205 - Sylviculture</code_rome_cible>
+          <appellation_cible/>
+        </mobilite>
+        <mobilite>
+          <appellation_source/>
+          <code_rome_cible>A1405 - Arboriculture et viticulture</code_rome_cible>
+          <appellation_cible/>
+        </mobilite>
+        <mobilite>
+          <appellation_source/>
+          <code_rome_cible>A1414 - Horticulture et maraîchage</code_rome_cible>
+          <appellation_cible/>
+        </mobilite>
+        <mobilite>
+          <appellation_source/>
+          <code_rome_cible>F1702 - Construction de routes et voies</code_rome_cible>
+          <appellation_cible/>
+        </mobilite>
+        <mobilite>
+          <appellation_source/>
+          <code_rome_cible>F1705 - Pose de canalisations</code_rome_cible>
+          <appellation_cible/>
+        </mobilite>
+      </si_evolution>
+    </les_mobilites>
+  </fiche_emploi_metier>
+  <fiche_emploi_metier>
+    <numero>15</numero>
+    <bloc_code_rome>
+      <code_rome>A1202</code_rome>
+      <intitule>Entretien des espaces naturels</intitule>
+      <code_ogr>8</code_ogr>
+    </bloc_code_rome>
+    <appellation>
+      <item>
+        <libelle>Agent / Agente d'aménagement des circuits pédestres, équestres et Vtt</libelle>
+        <libelle_court>Agent(e) aménagement des circuits pédestres, équestres, VTT</libelle_court>
+        <code_ogr>10382</code_ogr>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Agent / Agente d'aménagement des haies et fossés</libelle>
+        <libelle_court>Agent / Agente d'aménagement des haies et fossés</libelle_court>
+        <code_ogr>10383</code_ogr>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Agent / Agente d'entretien de la nature</libelle>
+        <libelle_court>Agent / Agente d'entretien de la nature</libelle_court>
+        <code_ogr>10664</code_ogr>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Agent / Agente d'entretien de l'espace rural</libelle>
+        <libelle_court>Agent / Agente d'entretien de l'espace rural</libelle_court>
+        <code_ogr>10667</code_ogr>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Agent / Agente d'entretien des espaces naturels</libelle>
+        <libelle_court>Agent / Agente d'entretien des espaces naturels</libelle_court>
+        <code_ogr>10673</code_ogr>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Agent / Agente d'entretien des rivières</libelle>
+        <libelle_court>Agent / Agente d'entretien des rivières</libelle_court>
+        <code_ogr>10677</code_ogr>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Agent / Agente d'entretien nature du littoral</libelle>
+        <libelle_court>Agent / Agente d'entretien nature du littoral</libelle_court>
+        <code_ogr>10685</code_ogr>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Agent / Agente d'entretien nature et biodiversité</libelle>
+        <libelle_court>Agent / Agente d'entretien nature et biodiversité</libelle_court>
+        <code_ogr>38323</code_ogr>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Chef d'équipe d'entretien d'espaces naturels</libelle>
+        <libelle_court>Chef d'équipe d'entretien d'espaces naturels</libelle_court>
+        <code_ogr>12440</code_ogr>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Ouvrier / Ouvrière de génie écologique</libelle>
+        <libelle_court>Ouvrier / Ouvrière de génie écologique</libelle_court>
+        <code_ogr>200080</code_ogr>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Ouvrier / Ouvrière d'entretien des espaces naturels</libelle>
+        <libelle_court>Ouvrier / Ouvrière d'entretien des espaces naturels</libelle_court>
+        <code_ogr>17474</code_ogr>
+        <priorisation>1</priorisation>
+      </item>
+    </appellation>
+    <definition>
+Aménage et entretient des écosystèmes (espaces naturels) afin de préserver leurs qualités biologiques selon les règles de sécurité et la réglementation environnementale.
+Peut installer des équipements de préservation du littoral.
+Peut coordonner une équipe.
+</definition>
+    <acces_emploi_metier>
+Cet emploi/métier est accessible avec un CAP/BEP dans le domaine de l'environnement et de l'agriculture.
+Il est également accessible avec une expérience professionnelle sans diplôme particulier.
+La vaccination anti-tétanique peut être requise. 
+Un ou plusieurs Certificat(s) d'Aptitude à la Conduite En Sécurité -CACES- conditionné(s) par une aptitude médicale à renouveler périodiquement peu(ven)t être exigé(s).
+Les permis BE, C, C1 (précédemment EB et C) peuvent être requis.
+</acces_emploi_metier>
+    <formations_associees>
+</formations_associees>
+    <condition_exercice_activite>
+L'activité de cet emploi/métier s'exerce au sein d'entreprises de génie écologique, de parcs naturels, de collectivités territoriales, en relation avec différents intervenants (éco garde, conducteurs de travaux, services de la voirie, ...).
+Elle varie selon le lieu d'intervention (parc naturel, espace rural, rivière, littoral, ...).
+Elle s'effectue à l'extérieur et peut impliquer la manipulation de charges.
+Le port d'équipements de protection (veste renforcée anti-coupe, protecteurs anti-bruit, ...) peut être requis.
+</condition_exercice_activite>
+    <classement_emploi_metier>
+</classement_emploi_metier>
+    <environnement_de_travail>
+      <item>
+        <libelle>Collectivité territoriale</libelle>
+        <code_ogr>23808</code_ogr>
+        <libelle_environnement>STRUCTURES</libelle_environnement>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Entreprise d'insertion</libelle>
+        <code_ogr>23906</code_ogr>
+        <libelle_environnement>STRUCTURES</libelle_environnement>
+        <priorisation>1</priorisation>
+      </item>
+      <item>
+        <libelle>Parc naturel</libelle>
+        <code_ogr>24031</code_ogr>
+        <libelle_environnement>STRUCTURES</libelle_environnement>
+        <priorisation>1</priorisation>
+      </item>
+    </environnement_de_travail>
+    <les_activites_de_base>
+      <activite_de_base>
+        <item>
+          <libelle>Préparer le matériel, les matériaux et les outillages</libelle>
+          <code_ogr>125978</code_ogr>
+          <position>1</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Identifier le type d'intervention</libelle>
+          <code_ogr>122704</code_ogr>
+          <position>2</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Entretenir un espace extérieur</libelle>
+          <code_ogr>124544</code_ogr>
+          <position>3</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Collecter des déchets</libelle>
+          <code_ogr>117475</code_ogr>
+          <position>4</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Assurer une maintenance de premier niveau</libelle>
+          <code_ogr>119210</code_ogr>
+          <position>5</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Entretenir des équipements</libelle>
+          <code_ogr>124888</code_ogr>
+          <position>6</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Installer un élément de protection d'espace naturel</libelle>
+          <code_ogr>125433</code_ogr>
+          <position>7</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Préparer les sols et les plantations (épandage, semis, récolte, ...)</libelle>
+          <code_ogr>122730</code_ogr>
+          <position>8</position>
+          <priorisation>1</priorisation>
+        </item>
+      </activite_de_base>
+      <savoir_theorique_et_proceduraux>
+        <item>
+          <libelle>Techniques de débroussaillage</libelle>
+          <code_ogr>124552</code_ogr>
+          <position>1</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Techniques de fauchage</libelle>
+          <code_ogr>122854</code_ogr>
+          <position>2</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Techniques de faucardage</libelle>
+          <code_ogr>124553</code_ogr>
+          <position>3</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Caractéristiques des écosystèmes</libelle>
+          <code_ogr>100019</code_ogr>
+          <position>4</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Pédologie (formation, évolution et caractéristiques des sols, ...)</libelle>
+          <code_ogr>103163</code_ogr>
+          <position>5</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Techniques culturales</libelle>
+          <code_ogr>100011</code_ogr>
+          <position>6</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Techniques de maçonnerie</libelle>
+          <code_ogr>100596</code_ogr>
+          <position>7</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Botanique</libelle>
+          <code_ogr>100158</code_ogr>
+          <position>8</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Normes environnementales</libelle>
+          <code_ogr>100015</code_ogr>
+          <position>9</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Réglementation des espaces et espèces protégés</libelle>
+          <code_ogr>100050</code_ogr>
+          <position>10</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Classification des espèces animales</libelle>
+          <code_ogr>100051</code_ogr>
+          <position>11</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Lecture de plan, de schéma</libelle>
+          <code_ogr>103070</code_ogr>
+          <position>12</position>
+          <priorisation>1</priorisation>
+        </item>
+        <item>
+          <libelle>Techniques de taille de végétaux</libelle>
+          <code_ogr>100032</code_ogr>
+          <position>13</position>
+          <priorisation>1</priorisation>
+        </item>
+      </savoir_theorique_et_proceduraux>
+      <savoir_action>
+</savoir_action>
+    </les_activites_de_base>
+    <les_activites_specifique>
+      <bloc>
+        <position_bloc>
+1
+</position_bloc>
+        <activite_specifique>
+          <item>
+            <libelle>Utiliser un engin nécessitant une habilitation</libelle>
+            <code_ogr>120405</code_ogr>
+            <type_affichage>SIMPLE</type_affichage>
+            <libelle_impression/>
+            <libelle_entete_regroupement/>
+            <position>1</position>
+            <priorisation>1</priorisation>
+          </item>
+        </activite_specifique>
+        <savoir_theorique_et_proceduraux>
+          <item>
+            <libelle>Engins compacts (CACES R 482-A) - A partir du 01/01/2020</libelle>
+            <code_ogr>200039</code_ogr>
+            <position>1</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>Plates-formes élévatrices mobiles de personnel  (CACES R 486) - A partir du 01/01/2020</libelle>
+            <code_ogr>200059</code_ogr>
+            <position>2</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>PEMP du groupe A (CACES R 486-A) - A partir du 01/01/2020</libelle>
+            <code_ogr>200060</code_ogr>
+            <position>3</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>PEMP du groupe B (CACES R 486-B) - A partir du 01/01/2020</libelle>
+            <code_ogr>200061</code_ogr>
+            <position>4</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>Conduite hors production des PEMP des types 1 et 3 (CACES R 486-C) - A partir du 01/01/2020</libelle>
+            <code_ogr>200062</code_ogr>
+            <position>5</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>Grues de chargement (CACES R 490) - A partir du 01/01/2020</libelle>
+            <code_ogr>200077</code_ogr>
+            <position>6</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>Tracteur et petits engins de chantiers mobiles (CACES R 372-1)</libelle>
+            <code_ogr>123701</code_ogr>
+            <position>7</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>Plates-formes élévatrices mobiles de personnes ou PEMP (CACES R 386)</libelle>
+            <code_ogr>121311</code_ogr>
+            <position>8</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>Grues auxiliaires de chargement de véhicules (CACES R 390)</libelle>
+            <code_ogr>120408</code_ogr>
+            <position>9</position>
+            <priorisation>1</priorisation>
+          </item>
+        </savoir_theorique_et_proceduraux>
+        <savoir_action>
+</savoir_action>
+      </bloc>
+      <bloc>
+        <position_bloc>
+2
+</position_bloc>
+        <activite_specifique>
+          <item>
+            <libelle>Réaliser les opérations d'ouverture et d'aménagement de sentiers pour le public</libelle>
+            <code_ogr>113863</code_ogr>
+            <type_affichage>SIMPLE</type_affichage>
+            <libelle_impression/>
+            <libelle_entete_regroupement/>
+            <position>1</position>
+            <priorisation>1</priorisation>
+          </item>
+        </activite_specifique>
+        <savoir_theorique_et_proceduraux>
+</savoir_theorique_et_proceduraux>
+        <savoir_action>
+</savoir_action>
+      </bloc>
+      <bloc>
+        <position_bloc>
+3
+</position_bloc>
+        <activite_specifique>
+          <item>
+            <libelle>Entretenir une plantation</libelle>
+            <code_ogr>122581</code_ogr>
+            <type_affichage>SIMPLE</type_affichage>
+            <libelle_impression/>
+            <libelle_entete_regroupement/>
+            <position>1</position>
+            <priorisation>1</priorisation>
+          </item>
+        </activite_specifique>
+        <savoir_theorique_et_proceduraux>
+          <item>
+            <libelle>Tronçonnage</libelle>
+            <code_ogr>122745</code_ogr>
+            <position>1</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>Techniques de taille des arbustes</libelle>
+            <code_ogr>122746</code_ogr>
+            <position>2</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>Techniques d'élagage</libelle>
+            <code_ogr>100100</code_ogr>
+            <position>3</position>
+            <priorisation>1</priorisation>
+          </item>
+          <item>
+            <libelle>Utilisation d'outils de taille</libelle>
+            <code_ogr>120676</code_ogr>
+            <position>4</position>
+            <priorisation>1</priorisation>
+          </item>
+        </savoir_theorique_et_proceduraux>
+        <savoir_action>
+</savoir_action>
+      </bloc>
+      <bloc>
+        <position_bloc>
+4
+</position_bloc>
+        <activite_specifique>
+          <item>
+            <libelle>Réaliser la restauration écologique de milieux naturels (lande, marais, mare, ...)</libelle>
+            <code_ogr>113865</code_ogr>
+            <type_affichage>SIMPLE</type_affichage>
+            <libelle_impression/>
+            <libelle_entete_regroupement/>
+            <position>1</position>
+            <priorisation>1</priorisation>
+          </item>
+        </activite_specifique>
+        <savoir_theorique_et_proceduraux>
+          <item>
+            <libelle>Techniques de préservation de la biodiversité</libelle>
+            <code_ogr>100057</code_ogr>
+            <position>1</position>
+            <priorisation>1</priorisation>
+          </item>
+        </savoir_theorique_et_proceduraux>
+        <savoir_action>
+</savoir_action>
+      </bloc>
+      <bloc>
+        <position_bloc>
+5
+</position_bloc>
+        <activite_specifique>
+          <item>
+            <libelle>Réaliser la pose et l'entretien de filets, murets de soutènement pour la stabilisation des dunes</libelle>
+            <code_ogr>113866</code_ogr>
+            <type_affichage>SIMPLE</type_affichage>
+            <libelle_impression/>
+            <libelle_entete_regroupement/>
+            <position>1</position>
+            <priorisation>1</priorisation>
+          </item>
+        </activite_specifique>
+        <savoir_theorique_et_proceduraux>
+</savoir_theorique_et_proceduraux>
+        <savoir_action>
+</savoir_action>
+      </bloc>
+      <bloc>
+        <position_bloc>
+6
+</position_bloc>
+        <activite_specifique>
+          <item>
+            <libelle>Coordonner l'activité d'une équipe</libelle>
+            <code_ogr>102359</code_ogr>
+            <type_affichage>SIMPLE</type_affichage>
+            <libelle_impression/>
+            <libelle_entete_regroupement/>
+            <position>1</position>
+            <priorisation>1</priorisation>
+          </item>
+        </activite_specifique>
+        <savoir_theorique_et_proceduraux>
+          <item>
+            <libelle>Management</libelle>
+            <code_ogr>119842</code_ogr>
+            <position>1</position>
+            <priorisation>1</priorisation>
+          </item>
+        </savoir_theorique_et_proceduraux>
+        <savoir_action>
+</savoir_action>
+      </bloc>
+    </les_activites_specifique>
+    <les_mobilites>
+      <proche>
+        <mobilite>
+          <appellation_source/>
+          <code_rome_cible>A1203 - Aménagement et entretien des espaces verts</code_rome_cible>
+          <appellation_cible/>
+        </mobilite>
+      </proche>
+      <si_evolution>
+        <mobilite>
+          <appellation_source/>
+          <code_rome_cible>A1204 - Protection du patrimoine naturel</code_rome_cible>
+          <appellation_cible/>
+        </mobilite>
+        <mobilite>
+          <appellation_source/>
+          <code_rome_cible>K2303 - Nettoyage des espaces urbains</code_rome_cible>
+          <appellation_cible/>
+        </mobilite>
+      </si_evolution>
+    </les_mobilites>
+  </fiche_emploi_metier>
+</ogr>

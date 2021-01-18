@@ -52,6 +52,7 @@
 
 <!-- Fiche "A1101" devient un skos:Concept -->
 <skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1101">
+	<rdf:type rdf:resource="http://data.sparna.fr/ontologies/rome/FicheEmploiMetier" />
 	<skos:inScheme rdf:resource="http://vocabs.sparna.fr/rome"/>
 	<skos:notation>A1101</skos:notation>
 	<skos:prefLabel xml:lang="fr">Conduite d'engins agricoles et forestiers</skos:prefLabel>
@@ -59,6 +60,7 @@
 </skos:Concept>
 
 <skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1201">
+	<rdf:type rdf:resource="http://data.sparna.fr/ontologies/rome/FicheEmploiMetier" />
 	<skos:inScheme rdf:resource="http://vocabs.sparna.fr/rome"/>
 	<skos:notation>A1201</skos:notation>
 	<skos:prefLabel xml:lang="fr">Bûcheronnage et élagage</skos:prefLabel>
@@ -66,6 +68,7 @@
 </skos:Concept>
 
 <skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1202">
+	<rdf:type rdf:resource="http://data.sparna.fr/ontologies/rome/FicheEmploiMetier" />
 	<skos:inScheme rdf:resource="http://vocabs.sparna.fr/rome"/>
 	<skos:notation>A1202</skos:notation>
 	<skos:prefLabel xml:lang="fr">Entretien des espaces naturels</skos:prefLabel>

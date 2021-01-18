@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#"
+	xmlns:isothes="http://purl.org/iso25964/skos-thes#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+<!-- Attention : même URI que dans le fichier d'arborescence -->
+<rdf:Description rdf:about="http://vocabs.sparna.fr/rome/A1101">
+	<skos:altLabel xml:lang="fr">Chauffeur / Chauffeuse de machines agricoles</skos:altLabel>
+	<skos:altLabel xml:lang="fr">Conducteur / Conductrice d'abatteuses</skos:altLabel>
+	<skos:altLabel xml:lang="fr">Conducteur / Conductrice d'automoteur de récolte</skos:altLabel>
+	<skos:definition xml:lang="fr">Réalise des travaux mécanisés agricoles, sylvicoles ou forestiers (préparation des sols, semis, récolte, abattage d'arbres, ...) selon les objectifs de production (quantité, qualité, ...), la commande du client, les règles d'hygiène, de sécurité et la réglementation environnementale.</skos:definition>
+	<rome:acces xml:lang="fr">Cet emploi/métier est accessible avec un CAP/BEP dans le secteur agricole (production agricole, agroéquipement, ...) ou forestier (travaux forestiers, ...).
+Il est également accessible avec une expérience professionnelle dans le même secteur sans diplôme particulier. 
+Un Certificat de Spécialisation Agricole -CSA- tracteurs et machines agricoles (utilisation et maintenance) peut en faciliter l'accès.
+Un Bac ou un BTS peut être demandé selon la technicité des engins utilisés.
+Les permis C, C1, CE, C1E (précédemment C et EC) peuvent être requis.</rome:accesEmploiMetier>
+	<rome:conditions xml:lang="fr">L'activité de cet emploi/métier s'exerce au sein de structures agricoles (exploitation, Entreprise de Travaux Agricoles -ETA-, Coopérative d'Utilisation du Matériel Agricole -CUMA-, ...) ou forestières (pépinières forestières, Entreprises de Travaux Forestiers - ETF, exploitations forestières, ...), en contact avec différents intervenants (techniciens de coopératives, clients, ...).
+Elle varie selon le secteur (agricole, forestier), le type d'équipement et le degré de mécanisation de la structure.
+L'activité peut impliquer la manipulation de charges. 
+Le port d'Equipements de Protection Individuelle -EPI- (casque anti-bruit, lunettes, pantalon de sécurité, ...) peut être exigé.
+Cet emploi/métier peut s'exercer en horaires fractionnés, en soirée, les fins de semaines, jours fériés et être soumis à des pics d'activité.</rome:conditions>
+	<rome:mobiliteProche rdf:resource="http://vocabs.sparna.fr/rome/A1416" />
+	<rome:mobiliteEvolution rdf:resource="http://vocabs.sparna.fr/rome/A1201" />
+	<rome:mobiliteEvolution rdf:resource="http://vocabs.sparna.fr/rome/A1202" />
+	<rome:mobiliteEvolution rdf:resource="http://vocabs.sparna.fr/rome/A1203" />
+	<rome:activitesDeBase>
+		<rome:MobilisationCompetenceActivite>
+			<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activite_125978" />
+			<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activite_1227048" />
+			<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competence_116765" />
+			<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competence_116766" />
+		</rome:MobilisationCompetenceActivite>
+	</rome:activitesDeBase>
+	<rome:activite>
+		<rome:MobilisationCompetenceActivite>
+			<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activite_120405" />
+			<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competence_200039" />
+			<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competence_200040" />
+			<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competence_200041" />
+		</rome:MobilisationCompetenceActivite>
+	</rome:activite>
+	<rome:activite>
+		<rome:MobilisationCompetenceActivite>
+			<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activite_117548" />
+			<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activite_117489" />
+			<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activite_117492" />
+			<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competence_100019" />
+			<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competence_100018" />
+		</rome:MobilisationCompetenceActivite>
+	</rome:activite>
+</rdf:Description>
+
+<!-- Attention : même URI que dans le fichier d'arborescence -->
+<rdf:Description rdf:about="http://vocabs.sparna.fr/rome/A1201">
+	
+</rdf:Description>
+
+<!-- Attention : même URI que dans le fichier d'arborescence -->
+<rdf:Description rdf:about="http://vocabs.sparna.fr/rome/A1202">
+	
+</rdf:Description>
+
+</skos:Concept>
+
+</rdf:RDF>
