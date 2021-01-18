@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<ogr>
+  <item_arborescence>
+    <libelle_referentiel>Arborescence  principale</libelle_referentiel>
+    <code_ogr>1</code_ogr>
+    <libelle_noeud>RACINE</libelle_noeud>
+    <code_item_arbor_associe>0</code_item_arbor_associe>
+    <code_noeud>Racine AP</code_noeud>
+    <code_ogr_pere/>
+    <code_pere/>
+    <libelle>Racine de l'arborescence principale</libelle>
+    <statut1>1</statut1>
+  </item_arborescence>
+  <item_arborescence>
+    <libelle_referentiel>Arborescence  principale</libelle_referentiel>
+    <code_ogr>21160</code_ogr>
+    <libelle_noeud>NOEUD</libelle_noeud>
+    <code_item_arbor_associe>0</code_item_arbor_associe>
+    <code_noeud>A</code_noeud>
+    <code_ogr_pere/>
+    <code_pere>Racine AP</code_pere>
+    <libelle>Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux</libelle>
+    <statut1>1</statut1>
+  </item_arborescence>
+  <item_arborescence>
+    <libelle_referentiel>Arborescence  principale</libelle_referentiel>
+    <code_ogr>21161</code_ogr>
+    <libelle_noeud>NOEUD</libelle_noeud>
+    <code_item_arbor_associe>0</code_item_arbor_associe>
+    <code_noeud>A11</code_noeud>
+    <code_ogr_pere/>
+    <code_pere>A</code_pere>
+    <libelle>Engins agricoles et forestiers</libelle>
+    <statut1>1</statut1>
+  </item_arborescence>
+  <item_arborescence>
+    <libelle_referentiel>Arborescence  principale</libelle_referentiel>
+    <code_ogr>21162</code_ogr>
+    <libelle_noeud>NOEUD</libelle_noeud>
+    <code_item_arbor_associe>0</code_item_arbor_associe>
+    <code_noeud>A12</code_noeud>
+    <code_ogr_pere/>
+    <code_pere>A</code_pere>
+    <libelle>Espaces naturels et espaces verts</libelle>
+    <statut1>1</statut1>
+  </item_arborescence>
+  <item_arborescence>
+    <libelle_referentiel>Arborescence  principale</libelle_referentiel>
+    <code_ogr>21166</code_ogr>
+    <libelle_noeud>FEUILLE</libelle_noeud>
+    <code_item_arbor_associe>6</code_item_arbor_associe>
+    <code_noeud>A1101</code_noeud>
+    <code_ogr_pere/>
+    <code_pere>A11</code_pere>
+    <libelle>Conduite d'engins agricoles et forestiers</libelle>
+    <statut1>1</statut1>
+  </item_arborescence>
+  <item_arborescence>
+    <libelle_referentiel>Arborescence  principale</libelle_referentiel>
+    <code_ogr>21167</code_ogr>
+    <libelle_noeud>FEUILLE</libelle_noeud>
+    <code_item_arbor_associe>7</code_item_arbor_associe>
+    <code_noeud>A1201</code_noeud>
+    <code_ogr_pere/>
+    <code_pere>A12</code_pere>
+    <libelle>Bûcheronnage et élagage</libelle>
+    <statut1>1</statut1>
+  </item_arborescence>
+  <item_arborescence>
+    <libelle_referentiel>Arborescence  principale</libelle_referentiel>
+    <code_ogr>21168</code_ogr>
+    <libelle_noeud>FEUILLE</libelle_noeud>
+    <code_item_arbor_associe>8</code_item_arbor_associe>
+    <code_noeud>A1202</code_noeud>
+    <code_ogr_pere></code_ogr_pere>
+    <code_pere>A12</code_pere>
+    <libelle>Entretien des espaces naturels</libelle>
+    <statut1>1</statut1>
+  </item_arborescence>
+</ogr>

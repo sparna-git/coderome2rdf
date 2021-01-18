@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#"
+	xmlns:isothes="http://purl.org/iso25964/skos-thes#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+<!-- Inséré en dur en entête -->
+<skos:ConceptScheme rdf:about="http://vocabs.sparna.fr/rome">
+	<skos:prefLabel xml:lang="fr">Code ROME</skos:prefLabel>
+	<!-- reference vers toutes les fichiers (codes Lettre-Chiffre-Chiffre-Chiffre-Chiffre), pas les premiers niveaux. Tout ce qui est déclaré skos:Concept, pas les skos:Collection -->
+	<skos:hasTopConept rdf:resource="http://vocabs.sparna.fr/rome/A1101" />
+	<skos:hasTopConept rdf:resource="http://vocabs.sparna.fr/rome/A1201" />
+	<skos:hasTopConept rdf:resource="http://vocabs.sparna.fr/rome/A1202" />
+</skos:ConceptScheme>
+
+<!-- Catégorie "A" devient une skos:Collection -->
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/A">
+	<skos:inScheme rdf:resource="http://vocabs.sparna.fr/rome"/>
+	<skos:notation>A</skos:notation>
+	<skos:prefLabel xml:lang="fr">Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux</skos:prefLabel>
+	<dcterms:identifier>21160</dcterms:identifier>
+	<!-- la référence vers tous les sous-niveaux -->
+	<skos:member rdf:resource="http://vocabs.sparna.fr/rome/A11" />
+</skos:Collection>
+
+<!-- Catégorie "A11" devient une skos:Collection -->
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/A11">
+	<skos:inScheme rdf:resource="http://vocabs.sparna.fr/rome"/>
+	<skos:notation>A11</skos:notation>
+	<skos:prefLabel xml:lang="fr">Engins agricoles et forestiers</skos:prefLabel>
+	<dcterms:identifier>21161</dcterms:identifier>
+	<!-- la référence vers tous les sous-niveaux -->
+	<skos:member rdf:resource="http://vocabs.sparna.fr/rome/A1101" />
+</skos:Collection>
+
+<!-- Catégorie "A12" devient une skos:Collection -->
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/A12">
+	<skos:inScheme rdf:resource="http://vocabs.sparna.fr/rome"/>
+	<skos:notation>A12</skos:notation>
+	<skos:prefLabel xml:lang="fr">Espaces naturels et espaces verts</skos:prefLabel>
+	<dcterms:identifier>21162</dcterms:identifier>
+	<!-- la référence vers tous les sous-niveaux -->
+	<skos:member rdf:resource="http://vocabs.sparna.fr/rome/A1201" />
+	<skos:member rdf:resource="http://vocabs.sparna.fr/rome/A1202" />
+</skos:Collection>
+
+<!-- Fiche "A1101" devient un skos:Concept -->
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1101">
+	<skos:inScheme rdf:resource="http://vocabs.sparna.fr/rome"/>
+	<skos:notation>A1101</skos:notation>
+	<skos:prefLabel xml:lang="fr">Conduite d'engins agricoles et forestiers</skos:prefLabel>
+	<dcterms:identifier>21166</dcterms:identifier>
+</skos:Concept>
+
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1201">
+	<skos:inScheme rdf:resource="http://vocabs.sparna.fr/rome"/>
+	<skos:notation>A1201</skos:notation>
+	<skos:prefLabel xml:lang="fr">Bûcheronnage et élagage</skos:prefLabel>
+	<dcterms:identifier>21167</dcterms:identifier>
+</skos:Concept>
+
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1202">
+	<skos:inScheme rdf:resource="http://vocabs.sparna.fr/rome"/>
+	<skos:notation>A1202</skos:notation>
+	<skos:prefLabel xml:lang="fr">Entretien des espaces naturels</skos:prefLabel>
+	<dcterms:identifier>21168</dcterms:identifier>
+</skos:Concept>
+
+</skos:Concept>
+
+</rdf:RDF>
