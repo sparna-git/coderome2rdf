@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rome="http://data.sparna.fr/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:isothes="http://purl.org/iso25964/skos-thes#" xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:owl="http://www.w3.org/2002/07/owl#">
+<skos:Concept>
+<rdf:Description rdf:about="http://vocabs.sparna.fr/rome/metiers/A1101">
+<skos:altLabel xml:lang="fr">Chauffeur / Chauffeuse de machines agricoles</skos:altLabel>
+<skos:altLabel xml:lang="fr">Conducteur / Conductrice d'abatteuses</skos:altLabel>
+<skos:altLabel xml:lang="fr">Conducteur / Conductrice d'automoteur de récolte</skos:altLabel>
+<skos:definition xml:lang="fr">
+			Réalise des travaux mécanisés agricoles, sylvicoles ou forestiers
+			(préparation des sols, semis, récolte, abattage d'arbres, ...) selon
+			les objectifs de production (quantité, qualité, ...), la commande du
+			client, les règles d'hygiène, de sécurité et la réglementation
+			environnementale.
+		</skos:definition>
+<rome:acces xml:lang="fr">
+			Cet emploi/métier est accessible avec un CAP/BEP dans le secteur
+			agricole (production agricole, agroéquipement, ...) ou forestier
+			(travaux forestiers, ...).
+			Il est également accessible avec une expérience professionnelle dans le
+			même secteur sans diplôme particulier.
+			Un Certificat de Spécialisation Agricole -CSA- tracteurs et machines
+			agricoles (utilisation et maintenance) peut en faciliter l'accès.
+			Un Bac ou un BTS peut être demandé selon la technicité des engins
+			utilisés.
+			Les permis C, C1, CE, C1E (précédemment C et EC) peuvent être requis.
+		</rome:acces>
+<rome:conditions xml:lang="fr">
+			L'activité de cet emploi/métier s'exerce au sein de structures agricoles
+			(exploitation, Entreprise de Travaux Agricoles -ETA-, Coopérative
+			d'Utilisation du Matériel Agricole -CUMA-, ...) ou forestières
+			(pépinières forestières, Entreprises de Travaux Forestiers - ETF,
+			exploitations forestières, ...), en contact avec différents
+			intervenants (techniciens de coopératives, clients, ...).
+			Elle varie selon le secteur (agricole, forestier), le type d'équipement
+			et le degré de mécanisation de la structure.
+			L'activité peut impliquer la manipulation de charges.
+			Le port d'Equipements de Protection Individuelle -EPI- (casque
+			anti-bruit, lunettes, pantalon de sécurité, ...) peut être exigé.
+			Cet emploi/métier peut s'exercer en horaires fractionnés, en soirée, les
+			fins de semaines, jours fériés et être soumis à des pics d'activité.
+		</rome:conditions>
+<rome:activitesDeBase>
+<rome:MobilisationCompetenceActivite>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/125978"/>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/122704"/>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/122564"/>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/122563"/>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/100003"/>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/123536"/>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/121951"/>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/125816"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/116765"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/116766"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/104547"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/109995"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/100010"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/104514"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/100011"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/100057"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/100131"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/122001"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/100017"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/118331"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/100007"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/100016"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/100015"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/100104"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/104425"/>
+</rome:MobilisationCompetenceActivite>
+</rome:activitesDeBase>
+<rome:activite>
+<rome:MobilisationCompetenceActivite>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/120405"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/200039"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/200040"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/200041"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/200042"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/200047"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/200048"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/200074"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/200077"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/123701"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/123704"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/123717"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/123699"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/123721"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/120408"/>
+</rome:MobilisationCompetenceActivite>
+</rome:activite>
+<rome:activite>
+<rome:MobilisationCompetenceActivite>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/117548"/>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/117489"/>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/117492"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/100019"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/100018"/>
+</rome:MobilisationCompetenceActivite>
+</rome:activite>
+<rome:activite>
+<rome:MobilisationCompetenceActivite>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/122853"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/122856"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/122855"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/122854"/>
+</rome:MobilisationCompetenceActivite>
+</rome:activite>
+<rome:activite>
+<rome:MobilisationCompetenceActivite>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/122822"/>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/122579"/>
+</rome:MobilisationCompetenceActivite>
+</rome:activite>
+<rome:activite>
+<rome:MobilisationCompetenceActivite>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/122730"/>
+</rome:MobilisationCompetenceActivite>
+</rome:activite>
+<rome:activite>
+<rome:MobilisationCompetenceActivite>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/124544"/>
+</rome:MobilisationCompetenceActivite>
+</rome:activite>
+<rome:activite>
+<rome:MobilisationCompetenceActivite>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/126171"/>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/116663"/>
+</rome:MobilisationCompetenceActivite>
+</rome:activite>
+<rome:mobiliteProche rdf:resource="http://vocabs.sparna.fr/rome/metiers/A1416"/>
+<rome:mobiliteEvolution rdf:resource="http://vocabs.sparna.fr/rome/metiers/A1201"/>
+<rome:mobiliteEvolution rdf:resource="http://vocabs.sparna.fr/rome/metiers/A1202"/>
+<rome:mobiliteEvolution rdf:resource="http://vocabs.sparna.fr/rome/metiers/A1203"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocabs.sparna.fr/rome/metiers/A1201">
+<skos:altLabel xml:lang="fr">Arboriste</skos:altLabel>
+<skos:altLabel xml:lang="fr">Arboriste grimpeur / grimpeuse</skos:altLabel>
+<skos:altLabel xml:lang="fr">Bûcheron / Bûcheronne</skos:altLabel>
+<skos:altLabel xml:lang="fr">Bûcheron élagueur / Bûcheronne élagueuse</skos:altLabel>
+<skos:altLabel xml:lang="fr">Charbonnier / Charbonnière</skos:altLabel>
+<skos:altLabel xml:lang="fr">Commis / Commise de coupe</skos:altLabel>
+<skos:altLabel xml:lang="fr">Éhouppeur / Éhouppeuse</skos:altLabel>
+<skos:altLabel xml:lang="fr">Élagueur / Élagueuse</skos:altLabel>
+<skos:altLabel xml:lang="fr">Élagueur / Élagueuse espaces verts</skos:altLabel>
+<skos:altLabel xml:lang="fr">Élagueur-botteur / Élagueuse-botteuse</skos:altLabel>
+<skos:altLabel xml:lang="fr">Élagueur-grimpeur / Élagueuse-grimpeuse</skos:altLabel>
+<skos:altLabel xml:lang="fr">Grimpeur-élagueur / Grimpeuse-élagueuse</skos:altLabel>
+<skos:altLabel xml:lang="fr">Homme / Femme de pied</skos:altLabel>
+<skos:altLabel xml:lang="fr">Ouvrier / Ouvrière d'exploitation forestière</skos:altLabel>
+<skos:definition xml:lang="fr">
+			Réalise des opérations de coupe et d'entretien d'arbres (abattage, élagage,
+			taille ...) sur sites forestiers, voies départementales, parcs et
+			jardins, ..., selon les règles de sécurité, les normes
+			environnementales et les impératifs de production (délais, quantités,
+			...).
+			Peut débarder les grumes. Peut estimer la valeur de coupes.
+			Peut diriger une équipe ou diriger une entreprise de bûcheronnage,
+			d'élagage, d'espaces verts.
+		</skos:definition>
+<rome:acces xml:lang="fr">
+			Cet emploi/métier est accessible avec un CAP/BEP Agricole en travaux
+			forestiers et bûcheronnage. Un certificat de spécialisation
+			"diagnostic et taille des arbres" peut être requis.
+			Il est également accessible avec une expérience professionnelle dans le
+			même secteur sans diplôme particulier.
+			Un diplôme de niveau Bac (Bac Professionnel, Brevet de Technicien
+			Agricole, ...) en gestion et conduite de travaux forestiers peut être
+			demandé pour les fonctions d'encadrement.
+		</rome:acces>
+<rome:conditions xml:lang="fr">
+			L'activité de cet emploi/métier s'exerce au sein de groupements de
+			propriétaires forestiers, des Entreprises de Travaux Forestiers,
+			d'entreprises du paysage, de l'Office National des Forêts, des
+			collectivités territoriales ou pour le compte de particuliers, en
+			relation avec différents intervenants (techniciens forestiers,
+			conducteurs d'engins, ouvriers d'espaces verts, ... ).
+			Elle varie selon le type d'intervention (jardins, espaces verts, forêts,
+			élagage en zone urbaine, ...) et les saisons.
+			Elle peut s'exercer les fins de semaine et être soumise à des astreintes.
+			La rémunération est généralement constituée d'un fixe ou s'effectue
+			au rendement (cubage réalisé).
+			L'activité peut s'effectuer en hauteur, sur voie de circulation routière ou
+			piétonne.
+			Le port d'équipements de protection (chaussures de sécurité, veste
+			renforcée anti-coupe, harnais de sécurité, ...) est requis.
+		</rome:conditions>
+<rome:activitesDeBase>
+<rome:MobilisationCompetenceActivite>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/122698"/>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/122575"/>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/125315"/>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/100023"/>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/122580"/>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/100063"/>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/122579"/>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/124888"/>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/119210"/>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/119106"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/125314"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/122578"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/100030"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/100019"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/100032"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/100033"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/100034"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/100035"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/100010"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/100017"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/120676"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/122001"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/100029"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/100007"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/100016"/>
+</rome:MobilisationCompetenceActivite>
+</rome:activitesDeBase>
+<rome:activite>
+<rome:MobilisationCompetenceActivite>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/121021"/>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/123995"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/100038"/>
+</rome:MobilisationCompetenceActivite>
+</rome:activite>
+<rome:activite>
+<rome:MobilisationCompetenceActivite>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/125144"/>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/124169"/>
+</rome:MobilisationCompetenceActivite>
+</rome:activite>
+<rome:activite>
+<rome:MobilisationCompetenceActivite>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/122566"/>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/122565"/>
+</rome:MobilisationCompetenceActivite>
+</rome:activite>
+<rome:activite>
+<rome:MobilisationCompetenceActivite>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/122728"/>
+</rome:MobilisationCompetenceActivite>
+</rome:activite>
+<rome:activite>
+<rome:MobilisationCompetenceActivite>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/117489"/>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/117492"/>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/117548"/>
+</rome:MobilisationCompetenceActivite>
+</rome:activite>
+<rome:activite>
+<rome:MobilisationCompetenceActivite>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/122574"/>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/122000"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/100039"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/101869"/>
+</rome:MobilisationCompetenceActivite>
+</rome:activite>
+<rome:activite>
+<rome:MobilisationCompetenceActivite>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/116932"/>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/125971"/>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/119860"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/119508"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/119000"/>
+</rome:MobilisationCompetenceActivite>
+</rome:activite>
+<rome:activite>
+<rome:MobilisationCompetenceActivite>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/102359"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/119842"/>
+</rome:MobilisationCompetenceActivite>
+</rome:activite>
+<rome:mobiliteEvolution rdf:resource="http://vocabs.sparna.fr/rome/metiers/A1101"/>
+<rome:mobiliteEvolution rdf:resource="http://vocabs.sparna.fr/rome/metiers/A1203"/>
+<rome:mobiliteEvolution rdf:resource="http://vocabs.sparna.fr/rome/metiers/A1205"/>
+<rome:mobiliteEvolution rdf:resource="http://vocabs.sparna.fr/rome/metiers/A1405"/>
+<rome:mobiliteEvolution rdf:resource="http://vocabs.sparna.fr/rome/metiers/A1414"/>
+<rome:mobiliteEvolution rdf:resource="http://vocabs.sparna.fr/rome/metiers/F1702"/>
+<rome:mobiliteEvolution rdf:resource="http://vocabs.sparna.fr/rome/metiers/F1705"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocabs.sparna.fr/rome/metiers/A1202">
+<skos:altLabel xml:lang="fr">Agent / Agente d'aménagement des circuits pédestres,
+					équestres et Vtt</skos:altLabel>
+<skos:altLabel xml:lang="fr">Agent / Agente d'aménagement des haies et fossés</skos:altLabel>
+<skos:altLabel xml:lang="fr">Agent / Agente d'entretien de la nature</skos:altLabel>
+<skos:altLabel xml:lang="fr">Agent / Agente d'entretien de l'espace rural</skos:altLabel>
+<skos:altLabel xml:lang="fr">Agent / Agente d'entretien des espaces naturels</skos:altLabel>
+<skos:altLabel xml:lang="fr">Agent / Agente d'entretien des rivières</skos:altLabel>
+<skos:altLabel xml:lang="fr">Agent / Agente d'entretien nature du littoral</skos:altLabel>
+<skos:altLabel xml:lang="fr">Agent / Agente d'entretien nature et biodiversité</skos:altLabel>
+<skos:altLabel xml:lang="fr">Chef d'équipe d'entretien d'espaces naturels</skos:altLabel>
+<skos:altLabel xml:lang="fr">Ouvrier / Ouvrière de génie écologique</skos:altLabel>
+<skos:altLabel xml:lang="fr">Ouvrier / Ouvrière d'entretien des espaces naturels
+				</skos:altLabel>
+<skos:definition xml:lang="fr">
+			Aménage et entretient des écosystèmes (espaces naturels) afin de préserver
+			leurs qualités biologiques selon les règles de sécurité et la
+			réglementation environnementale.
+			Peut installer des équipements de préservation du littoral.
+			Peut coordonner une équipe.
+		</skos:definition>
+<rome:acces xml:lang="fr">
+			Cet emploi/métier est accessible avec un CAP/BEP dans le domaine de
+			l'environnement et de l'agriculture.
+			Il est également accessible avec une expérience professionnelle sans
+			diplôme particulier.
+			La vaccination anti-tétanique peut être requise.
+			Un ou plusieurs Certificat(s) d'Aptitude à la Conduite En Sécurité
+			-CACES- conditionné(s) par une aptitude médicale à renouveler
+			périodiquement peu(ven)t être exigé(s).
+			Les permis BE, C, C1 (précédemment EB et C) peuvent être requis.
+		</rome:acces>
+<rome:conditions xml:lang="fr">
+			L'activité de cet emploi/métier s'exerce au sein d'entreprises de génie
+			écologique, de parcs naturels, de collectivités territoriales, en
+			relation avec différents intervenants (éco garde, conducteurs de
+			travaux, services de la voirie, ...).
+			Elle varie selon le lieu d'intervention (parc naturel, espace rural,
+			rivière, littoral, ...).
+			Elle s'effectue à l'extérieur et peut impliquer la manipulation de
+			charges.
+			Le port d'équipements de protection (veste renforcée anti-coupe,
+			protecteurs anti-bruit, ...) peut être requis.
+		</rome:conditions>
+<rome:activitesDeBase>
+<rome:MobilisationCompetenceActivite>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/125978"/>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/122704"/>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/124544"/>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/117475"/>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/119210"/>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/124888"/>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/125433"/>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/122730"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/124552"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/122854"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/124553"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/100019"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/103163"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/100011"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/100596"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/100158"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/100015"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/100050"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/100051"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/103070"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/100032"/>
+</rome:MobilisationCompetenceActivite>
+</rome:activitesDeBase>
+<rome:activite>
+<rome:MobilisationCompetenceActivite>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/120405"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/200039"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/200059"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/200060"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/200061"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/200062"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/200077"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/123701"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/121311"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/120408"/>
+</rome:MobilisationCompetenceActivite>
+</rome:activite>
+<rome:activite>
+<rome:MobilisationCompetenceActivite>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/113863"/>
+</rome:MobilisationCompetenceActivite>
+</rome:activite>
+<rome:activite>
+<rome:MobilisationCompetenceActivite>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/122581"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/122745"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/122746"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/100100"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/120676"/>
+</rome:MobilisationCompetenceActivite>
+</rome:activite>
+<rome:activite>
+<rome:MobilisationCompetenceActivite>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/113865"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/100057"/>
+</rome:MobilisationCompetenceActivite>
+</rome:activite>
+<rome:activite>
+<rome:MobilisationCompetenceActivite>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/113866"/>
+</rome:MobilisationCompetenceActivite>
+</rome:activite>
+<rome:activite>
+<rome:MobilisationCompetenceActivite>
+<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/102359"/>
+<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/119842"/>
+</rome:MobilisationCompetenceActivite>
+</rome:activite>
+<rome:mobiliteProche rdf:resource="http://vocabs.sparna.fr/rome/metiers/A1203"/>
+<rome:mobiliteEvolution rdf:resource="http://vocabs.sparna.fr/rome/metiers/A1204"/>
+<rome:mobiliteEvolution rdf:resource="http://vocabs.sparna.fr/rome/metiers/K2303"/>
+</rdf:Description>
+</skos:Concept>
+</rdf:RDF>
