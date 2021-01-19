@@ -1,0 +1,3548 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sparna-rome="http://data.sparna.fr/ROME/" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/A">
+<skos:prefLabel xml:lang="fr">Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/A11">
+<skos:prefLabel xml:lang="fr">Engins agricoles et forestiers</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/A12">
+<skos:prefLabel xml:lang="fr">Espaces naturels et espaces verts</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/A13">
+<skos:prefLabel xml:lang="fr">Etudes et assistance technique</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/A14">
+<skos:prefLabel xml:lang="fr">Production</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/A15">
+<skos:prefLabel xml:lang="fr">Soins aux animaux</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/B">
+<skos:prefLabel xml:lang="fr">Arts et Façonnage d'ouvrages d'art</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/B11">
+<skos:prefLabel xml:lang="fr">Arts plastiques</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/B12">
+<skos:prefLabel xml:lang="fr">Céramique</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/B13">
+<skos:prefLabel xml:lang="fr">Décoration</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/B14">
+<skos:prefLabel xml:lang="fr">Fibres et papier</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/B15">
+<skos:prefLabel xml:lang="fr">Instruments de musique</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/B16">
+<skos:prefLabel xml:lang="fr">Métal, verre, bijouterie et horlogerie</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/B17">
+<skos:prefLabel xml:lang="fr">Taxidermie</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/B18">
+<skos:prefLabel xml:lang="fr">Tissu et cuirs</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/C">
+<skos:prefLabel xml:lang="fr">Banque, Assurance, Immobilier</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/C11">
+<skos:prefLabel xml:lang="fr">Assurance</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/C12">
+<skos:prefLabel xml:lang="fr">Banque</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/C13">
+<skos:prefLabel xml:lang="fr">Finance</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/C14">
+<skos:prefLabel xml:lang="fr">Gestion administrative banque et assurances</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/C15">
+<skos:prefLabel xml:lang="fr">Immobilier</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/D">
+<skos:prefLabel xml:lang="fr">Commerce, Vente et Grande distribution</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/D11">
+<skos:prefLabel xml:lang="fr">Commerce alimentaire et métiers de bouche</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/D12">
+<skos:prefLabel xml:lang="fr">Commerce non alimentaire et de prestations de confort</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/D13">
+<skos:prefLabel xml:lang="fr">Direction de magasin de détail</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/D14">
+<skos:prefLabel xml:lang="fr">Force de vente</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/D15">
+<skos:prefLabel xml:lang="fr">Grande distribution</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/E">
+<skos:prefLabel xml:lang="fr">Communication, Média et Multimédia</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/E11">
+<skos:prefLabel xml:lang="fr">Edition et communication</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/E12">
+<skos:prefLabel xml:lang="fr">Images et sons</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/E13">
+<skos:prefLabel xml:lang="fr">Industries graphiques</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/E14">
+<skos:prefLabel xml:lang="fr">Publicité</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/F">
+<skos:prefLabel xml:lang="fr">Construction, Bâtiment et Travaux publics</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/F11">
+<skos:prefLabel xml:lang="fr">Conception et études</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/F12">
+<skos:prefLabel xml:lang="fr">Conduite et encadrement de chantier - travaux</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/F13">
+<skos:prefLabel xml:lang="fr">Engins de chantier</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/F14">
+<skos:prefLabel xml:lang="fr">Extraction</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/F15">
+<skos:prefLabel xml:lang="fr">Montage de structures</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/F16">
+<skos:prefLabel xml:lang="fr">Second oeuvre</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/F17">
+<skos:prefLabel xml:lang="fr">Travaux et gros oeuvre</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/G">
+<skos:prefLabel xml:lang="fr">Hôtellerie-Restauration, Tourisme, Loisirs et Animation</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/G11">
+<skos:prefLabel xml:lang="fr">Accueil et promotion touristique</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/G12">
+<skos:prefLabel xml:lang="fr">Animation d'activités de loisirs</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/G13">
+<skos:prefLabel xml:lang="fr">Conception, commercialisation et vente de produits touristiques</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/G14">
+<skos:prefLabel xml:lang="fr">Gestion et direction</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/G15">
+<skos:prefLabel xml:lang="fr">Personnel d'étage en hôtellerie</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/G16">
+<skos:prefLabel xml:lang="fr">Production culinaire</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/G17">
+<skos:prefLabel xml:lang="fr">Accueil en hôtellerie</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/G18">
+<skos:prefLabel xml:lang="fr">Service</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/H">
+<skos:prefLabel xml:lang="fr">Industrie</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/H11">
+<skos:prefLabel xml:lang="fr">Affaires et support technique client</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/H12">
+<skos:prefLabel xml:lang="fr">Conception, recherche, études et développement</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/H13">
+<skos:prefLabel xml:lang="fr">Hygiène Sécurité Environnement -HSE- industriels</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/H14">
+<skos:prefLabel xml:lang="fr">Méthodes et gestion industrielles</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/H15">
+<skos:prefLabel xml:lang="fr">Qualité et analyses industrielles</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/H21">
+<skos:prefLabel xml:lang="fr">Alimentaire</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/H22">
+<skos:prefLabel xml:lang="fr">Bois</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/H23">
+<skos:prefLabel xml:lang="fr">Chimie et pharmacie</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/H24">
+<skos:prefLabel xml:lang="fr">Cuir et textile</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/H25">
+<skos:prefLabel xml:lang="fr">Direction, encadrement et pilotage de fabrication et production industrielles</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/H26">
+<skos:prefLabel xml:lang="fr">Electronique et électricité</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/H27">
+<skos:prefLabel xml:lang="fr">Energie</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/H28">
+<skos:prefLabel xml:lang="fr">Matériaux de construction, céramique et verre</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/H29">
+<skos:prefLabel xml:lang="fr">Mécanique, travail des métaux et outillage</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/H31">
+<skos:prefLabel xml:lang="fr">Papier et carton</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/H32">
+<skos:prefLabel xml:lang="fr">Plastique, caoutchouc</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/H33">
+<skos:prefLabel xml:lang="fr">Préparation et conditionnement</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/H34">
+<skos:prefLabel xml:lang="fr">Traitements thermiques et traitements de surfaces</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/I">
+<skos:prefLabel xml:lang="fr">Installation et Maintenance</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/I11">
+<skos:prefLabel xml:lang="fr">Encadrement</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/I12">
+<skos:prefLabel xml:lang="fr">Entretien technique</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/I13">
+<skos:prefLabel xml:lang="fr">Equipements de production, équipements collectifs</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/I14">
+<skos:prefLabel xml:lang="fr">Equipements domestiques et informatique</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/I15">
+<skos:prefLabel xml:lang="fr">Travaux d'accès difficile</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/I16">
+<skos:prefLabel xml:lang="fr">Véhicules, engins, aéronefs</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/J">
+<skos:prefLabel xml:lang="fr">Santé</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/J11">
+<skos:prefLabel xml:lang="fr">Praticiens médicaux</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/J12">
+<skos:prefLabel xml:lang="fr">Praticiens médico-techniques</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/J13">
+<skos:prefLabel xml:lang="fr">Professionnels médico-techniques</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/J14">
+<skos:prefLabel xml:lang="fr">Rééducation et appareillage</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/J15">
+<skos:prefLabel xml:lang="fr">Soins paramédicaux</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/K">
+<skos:prefLabel xml:lang="fr">Services à la personne et à la collectivité</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/K11">
+<skos:prefLabel xml:lang="fr">Accompagnement de la personne</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/K12">
+<skos:prefLabel xml:lang="fr">Action sociale, socio-éducative et socio-culturelle</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/K13">
+<skos:prefLabel xml:lang="fr">Aide à la vie quotidienne</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/K14">
+<skos:prefLabel xml:lang="fr">Conception et mise en oeuvre des politiques publiques</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/K15">
+<skos:prefLabel xml:lang="fr">Contrôle public</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/K16">
+<skos:prefLabel xml:lang="fr">Culture et gestion documentaire</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/K17">
+<skos:prefLabel xml:lang="fr">Défense, sécurité publique et secours</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/K18">
+<skos:prefLabel xml:lang="fr">Développement territorial et emploi</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/K19">
+<skos:prefLabel xml:lang="fr">Droit</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/K21">
+<skos:prefLabel xml:lang="fr">Formation initiale et continue</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/K22">
+<skos:prefLabel xml:lang="fr">Nettoyage et propreté industriels</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/K23">
+<skos:prefLabel xml:lang="fr">Propreté et environnement urbain</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/K24">
+<skos:prefLabel xml:lang="fr">Recherche</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/K25">
+<skos:prefLabel xml:lang="fr">Sécurité privée</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/K26">
+<skos:prefLabel xml:lang="fr">Services funéraires</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/L">
+<skos:prefLabel xml:lang="fr">Spectacle</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/L11">
+<skos:prefLabel xml:lang="fr">Animation de spectacles</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/L12">
+<skos:prefLabel xml:lang="fr">Artistes - interprètes du spectacle</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/L13">
+<skos:prefLabel xml:lang="fr">Conception et production de spectacles</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/L14">
+<skos:prefLabel xml:lang="fr">Sport professionnel</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/L15">
+<skos:prefLabel xml:lang="fr">Techniciens du spectacle</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/M">
+<skos:prefLabel xml:lang="fr">Support à l'entreprise</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/M11">
+<skos:prefLabel xml:lang="fr">Achats</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/M12">
+<skos:prefLabel xml:lang="fr">Comptabilité et gestion</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/M13">
+<skos:prefLabel xml:lang="fr">Direction d'entreprise</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/M14">
+<skos:prefLabel xml:lang="fr">Organisation et études</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/M15">
+<skos:prefLabel xml:lang="fr">Ressources humaines</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/M16">
+<skos:prefLabel xml:lang="fr">Secrétariat et assistance</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/M17">
+<skos:prefLabel xml:lang="fr">Stratégie commerciale, marketing et supervision des ventes</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/M18">
+<skos:prefLabel xml:lang="fr">Systèmes d'information et de télécommunication</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/N">
+<skos:prefLabel xml:lang="fr">Transport et Logistique</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/N11">
+<skos:prefLabel xml:lang="fr">Magasinage, manutention des charges et déménagement</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/N12">
+<skos:prefLabel xml:lang="fr">Organisation de la circulation des marchandises</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/N13">
+<skos:prefLabel xml:lang="fr">Personnel d'encadrement de la logistique</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/N21">
+<skos:prefLabel xml:lang="fr">Personnel navigant du transport aérien</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/N22">
+<skos:prefLabel xml:lang="fr">Personnel sédentaire du transport aérien</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/N31">
+<skos:prefLabel xml:lang="fr">Personnel navigant du transport maritime et fluvial</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/N32">
+<skos:prefLabel xml:lang="fr">Personnel sédentaire du transport maritime et fluvial</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/N41">
+<skos:prefLabel xml:lang="fr">Personnel de conduite du transport routier</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/N42">
+<skos:prefLabel xml:lang="fr">Personnel d'encadrement du transport routier</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/N43">
+<skos:prefLabel xml:lang="fr">Personnel navigant du transport terrestre</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/N44">
+<skos:prefLabel xml:lang="fr">Personnel sédentaire du transport ferroviaire et réseau filo guidé</skos:prefLabel>
+</skos:Collection>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1101">
+<skos:prefLabel xml:lang="fr">Conduite d'engins agricoles et forestiers</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1201">
+<skos:prefLabel xml:lang="fr">Bûcheronnage et élagage</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1202">
+<skos:prefLabel xml:lang="fr">Entretien des espaces naturels</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1203">
+<skos:prefLabel xml:lang="fr">Aménagement et entretien des espaces verts</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1204">
+<skos:prefLabel xml:lang="fr">Protection du patrimoine naturel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1205">
+<skos:prefLabel xml:lang="fr">Sylviculture</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1301">
+<skos:prefLabel xml:lang="fr">Conseil et assistance technique en agriculture et environnement naturel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1302">
+<skos:prefLabel xml:lang="fr">Contrôle et diagnostic technique en agriculture</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1303">
+<skos:prefLabel xml:lang="fr">Ingénierie en agriculture et environnement naturel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1401">
+<skos:prefLabel xml:lang="fr">Aide agricole de production fruitière ou viticole</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1402">
+<skos:prefLabel xml:lang="fr">Aide agricole de production légumière ou végétale</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1403">
+<skos:prefLabel xml:lang="fr">Aide d'élevage agricole et aquacole</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1404">
+<skos:prefLabel xml:lang="fr">Aquaculture</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1405">
+<skos:prefLabel xml:lang="fr">Arboriculture et viticulture</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1406">
+<skos:prefLabel xml:lang="fr">Encadrement équipage de la pêche</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1407">
+<skos:prefLabel xml:lang="fr">Élevage bovin ou équin</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1408">
+<skos:prefLabel xml:lang="fr">Élevage d'animaux sauvages ou de compagnie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1409">
+<skos:prefLabel xml:lang="fr">Élevage de lapins et volailles</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1410">
+<skos:prefLabel xml:lang="fr">Élevage ovin ou caprin</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1411">
+<skos:prefLabel xml:lang="fr">Élevage porcin</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1412">
+<skos:prefLabel xml:lang="fr">Fabrication et affinage de fromages</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1413">
+<skos:prefLabel xml:lang="fr">Fermentation de boissons alcoolisées</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1414">
+<skos:prefLabel xml:lang="fr">Horticulture et maraîchage</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1415">
+<skos:prefLabel xml:lang="fr">Équipage de la pêche</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1416">
+<skos:prefLabel xml:lang="fr">Polyculture, élevage</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1417">
+<skos:prefLabel xml:lang="fr">Saliculture</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1501">
+<skos:prefLabel xml:lang="fr">Aide aux soins animaux</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1502">
+<skos:prefLabel xml:lang="fr">Podologie animale</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1503">
+<skos:prefLabel xml:lang="fr">Toilettage des animaux</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1504">
+<skos:prefLabel xml:lang="fr">Santé animale</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/B1101">
+<skos:prefLabel xml:lang="fr">Création en arts plastiques</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/B1201">
+<skos:prefLabel xml:lang="fr">Réalisation d'objets décoratifs et utilitaires en céramique et matériaux de synthèse</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/B1301">
+<skos:prefLabel xml:lang="fr">Décoration d'espaces de vente et d'exposition</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/B1302">
+<skos:prefLabel xml:lang="fr">Décoration d'objets d'art et artisanaux</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/B1303">
+<skos:prefLabel xml:lang="fr">Gravure - ciselure</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/B1401">
+<skos:prefLabel xml:lang="fr">Réalisation d'objets en lianes, fibres et brins végétaux</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/B1402">
+<skos:prefLabel xml:lang="fr">Reliure et restauration de livres et archives</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/B1501">
+<skos:prefLabel xml:lang="fr">Fabrication et réparation d'instruments de musique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/B1601">
+<skos:prefLabel xml:lang="fr">Métallerie d'art</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/B1602">
+<skos:prefLabel xml:lang="fr">Réalisation d'objets artistiques et fonctionnels en verre</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/B1603">
+<skos:prefLabel xml:lang="fr">Réalisation d'ouvrages en bijouterie, joaillerie et orfèvrerie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/B1604">
+<skos:prefLabel xml:lang="fr">Réparation - montage en systèmes horlogers</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/B1701">
+<skos:prefLabel xml:lang="fr">Conservation et reconstitution d'espèces animales</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/B1801">
+<skos:prefLabel xml:lang="fr">Réalisation d'articles de chapellerie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/B1802">
+<skos:prefLabel xml:lang="fr">Réalisation d'articles en cuir et matériaux souples (hors vêtement)</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/B1803">
+<skos:prefLabel xml:lang="fr">Réalisation de vêtements sur mesure ou en petite série</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/B1804">
+<skos:prefLabel xml:lang="fr">Réalisation d'ouvrages d'art en fils</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/B1805">
+<skos:prefLabel xml:lang="fr">Stylisme</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/B1806">
+<skos:prefLabel xml:lang="fr">Tapisserie - décoration en ameublement</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/C1101">
+<skos:prefLabel xml:lang="fr">Conception - développement produits d'assurances</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/C1102">
+<skos:prefLabel xml:lang="fr">Conseil clientèle en assurances</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/C1103">
+<skos:prefLabel xml:lang="fr">Courtage en assurances</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/C1104">
+<skos:prefLabel xml:lang="fr">Direction d'exploitation en assurances</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/C1105">
+<skos:prefLabel xml:lang="fr">Études actuarielles en assurances</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/C1106">
+<skos:prefLabel xml:lang="fr">Expertise risques en assurances</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/C1107">
+<skos:prefLabel xml:lang="fr">Indemnisations en assurances</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/C1108">
+<skos:prefLabel xml:lang="fr">Management de groupe et de service en assurances</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/C1109">
+<skos:prefLabel xml:lang="fr">Rédaction et gestion en assurances</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/C1110">
+<skos:prefLabel xml:lang="fr">Souscription d'assurances</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/C1201">
+<skos:prefLabel xml:lang="fr">Accueil et services bancaires</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/C1202">
+<skos:prefLabel xml:lang="fr">Analyse de crédits et risques bancaires</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/C1203">
+<skos:prefLabel xml:lang="fr">Relation clients banque/finance</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/C1204">
+<skos:prefLabel xml:lang="fr">Conception et expertise produits bancaires et financiers</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/C1205">
+<skos:prefLabel xml:lang="fr">Conseil en gestion de patrimoine financier</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/C1206">
+<skos:prefLabel xml:lang="fr">Gestion de clientèle bancaire</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/C1207">
+<skos:prefLabel xml:lang="fr">Management en exploitation bancaire</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/C1301">
+<skos:prefLabel xml:lang="fr">Front office marchés financiers</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/C1302">
+<skos:prefLabel xml:lang="fr">Gestion back et middle-office marchés financiers</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/C1303">
+<skos:prefLabel xml:lang="fr">Gestion de portefeuilles sur les marchés financiers</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/C1401">
+<skos:prefLabel xml:lang="fr">Gestion en banque et assurance</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/C1501">
+<skos:prefLabel xml:lang="fr">Gérance immobilière</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/C1502">
+<skos:prefLabel xml:lang="fr">Gestion locative immobilière</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/C1503">
+<skos:prefLabel xml:lang="fr">Management de projet immobilier</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/C1504">
+<skos:prefLabel xml:lang="fr">Transaction immobilière</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1101">
+<skos:prefLabel xml:lang="fr">Boucherie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1102">
+<skos:prefLabel xml:lang="fr">Boulangerie - viennoiserie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1103">
+<skos:prefLabel xml:lang="fr">Charcuterie - traiteur</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1104">
+<skos:prefLabel xml:lang="fr">Pâtisserie, confiserie, chocolaterie et glacerie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1105">
+<skos:prefLabel xml:lang="fr">Poissonnerie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1106">
+<skos:prefLabel xml:lang="fr">Vente en alimentation</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1107">
+<skos:prefLabel xml:lang="fr">Vente en gros de produits frais</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1201">
+<skos:prefLabel xml:lang="fr">Achat vente d'objets d'art, anciens ou d'occasion</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1202">
+<skos:prefLabel xml:lang="fr">Coiffure</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1203">
+<skos:prefLabel xml:lang="fr">Hydrothérapie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1204">
+<skos:prefLabel xml:lang="fr">Location de véhicules ou de matériel de loisirs</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1205">
+<skos:prefLabel xml:lang="fr">Nettoyage d'articles textiles ou cuirs</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1206">
+<skos:prefLabel xml:lang="fr">Réparation d'articles en cuir et matériaux souples</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1207">
+<skos:prefLabel xml:lang="fr">Retouches en habillement</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1208">
+<skos:prefLabel xml:lang="fr">Soins esthétiques et corporels</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1209">
+<skos:prefLabel xml:lang="fr">Vente de végétaux</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1210">
+<skos:prefLabel xml:lang="fr">Vente en animalerie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1211">
+<skos:prefLabel xml:lang="fr">Vente en articles de sport et loisirs</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1212">
+<skos:prefLabel xml:lang="fr">Vente en décoration et équipement du foyer</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1213">
+<skos:prefLabel xml:lang="fr">Vente en gros de matériel et équipement</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1214">
+<skos:prefLabel xml:lang="fr">Vente en habillement et accessoires de la personne</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1301">
+<skos:prefLabel xml:lang="fr">Management de magasin de détail</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1401">
+<skos:prefLabel xml:lang="fr">Assistanat commercial</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1402">
+<skos:prefLabel xml:lang="fr">Relation commerciale grands comptes et entreprises</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1403">
+<skos:prefLabel xml:lang="fr">Relation commerciale auprès de particuliers</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1404">
+<skos:prefLabel xml:lang="fr">Relation commerciale en vente de véhicules</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1405">
+<skos:prefLabel xml:lang="fr">Conseil en information médicale</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1406">
+<skos:prefLabel xml:lang="fr">Management en force de vente</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1407">
+<skos:prefLabel xml:lang="fr">Relation technico-commerciale</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1408">
+<skos:prefLabel xml:lang="fr">Téléconseil et télévente</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1501">
+<skos:prefLabel xml:lang="fr">Animation de vente</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1502">
+<skos:prefLabel xml:lang="fr">Management/gestion de rayon produits alimentaires</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1503">
+<skos:prefLabel xml:lang="fr">Management/gestion de rayon produits non alimentaires</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1504">
+<skos:prefLabel xml:lang="fr">Direction de magasin de grande distribution</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1505">
+<skos:prefLabel xml:lang="fr">Personnel de caisse</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1506">
+<skos:prefLabel xml:lang="fr">Marchandisage</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1507">
+<skos:prefLabel xml:lang="fr">Mise en rayon libre-service</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1508">
+<skos:prefLabel xml:lang="fr">Encadrement du personnel de caisses</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1509">
+<skos:prefLabel xml:lang="fr">Management de département en grande distribution</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1101">
+<skos:prefLabel xml:lang="fr">Animation de site multimédia</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1102">
+<skos:prefLabel xml:lang="fr">Écriture d'ouvrages, de livres</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1103">
+<skos:prefLabel xml:lang="fr">Communication</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1104">
+<skos:prefLabel xml:lang="fr">Conception de contenus multimédias</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1105">
+<skos:prefLabel xml:lang="fr">Coordination d'édition</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1106">
+<skos:prefLabel xml:lang="fr">Journalisme et information média</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1107">
+<skos:prefLabel xml:lang="fr">Organisation d'évènementiel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1108">
+<skos:prefLabel xml:lang="fr">Traduction, interprétariat</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1201">
+<skos:prefLabel xml:lang="fr">Photographie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1202">
+<skos:prefLabel xml:lang="fr">Production en laboratoire cinématographique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1203">
+<skos:prefLabel xml:lang="fr">Production en laboratoire photographique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1204">
+<skos:prefLabel xml:lang="fr">Projection cinéma</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1205">
+<skos:prefLabel xml:lang="fr">Réalisation de contenus multimédias</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1301">
+<skos:prefLabel xml:lang="fr">Conduite de machines d'impression</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1302">
+<skos:prefLabel xml:lang="fr">Conduite de machines de façonnage routage</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1303">
+<skos:prefLabel xml:lang="fr">Encadrement des industries graphiques</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1304">
+<skos:prefLabel xml:lang="fr">Façonnage et routage</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1305">
+<skos:prefLabel xml:lang="fr">Préparation et correction en édition et presse</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1306">
+<skos:prefLabel xml:lang="fr">Prépresse</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1307">
+<skos:prefLabel xml:lang="fr">Reprographie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1308">
+<skos:prefLabel xml:lang="fr">Intervention technique en industrie graphique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1401">
+<skos:prefLabel xml:lang="fr">Développement et promotion publicitaire</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1402">
+<skos:prefLabel xml:lang="fr">Élaboration de plan média</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1101">
+<skos:prefLabel xml:lang="fr">Architecture du BTP et du paysage</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1102">
+<skos:prefLabel xml:lang="fr">Conception - aménagement d'espaces intérieurs</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1103">
+<skos:prefLabel xml:lang="fr">Contrôle et diagnostic technique du bâtiment</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1104">
+<skos:prefLabel xml:lang="fr">Dessin BTP et paysage</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1105">
+<skos:prefLabel xml:lang="fr">Études géologiques</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1106">
+<skos:prefLabel xml:lang="fr">Ingénierie et études du BTP</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1107">
+<skos:prefLabel xml:lang="fr">Mesures topographiques</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1108">
+<skos:prefLabel xml:lang="fr">Métré de la construction</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1201">
+<skos:prefLabel xml:lang="fr">Conduite de travaux du BTP et de travaux paysagers</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1202">
+<skos:prefLabel xml:lang="fr">Direction de chantier du BTP</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1203">
+<skos:prefLabel xml:lang="fr">Direction et ingénierie d'exploitation de gisements et de carrières</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1204">
+<skos:prefLabel xml:lang="fr">Qualité Sécurité Environnement et protection santé du BTP</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1301">
+<skos:prefLabel xml:lang="fr">Conduite de grue</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1302">
+<skos:prefLabel xml:lang="fr">Conduite d'engins de terrassement et de carrière</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1401">
+<skos:prefLabel xml:lang="fr">Extraction liquide et gazeuse</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1402">
+<skos:prefLabel xml:lang="fr">Extraction solide</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1501">
+<skos:prefLabel xml:lang="fr">Montage de structures et de charpentes bois</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1502">
+<skos:prefLabel xml:lang="fr">Montage de structures métalliques</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1503">
+<skos:prefLabel xml:lang="fr">Réalisation - installation d'ossatures bois</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1601">
+<skos:prefLabel xml:lang="fr">Application et décoration en plâtre, stuc et staff</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1602">
+<skos:prefLabel xml:lang="fr">Électricité bâtiment</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1603">
+<skos:prefLabel xml:lang="fr">Installation d'équipements sanitaires et thermiques</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1604">
+<skos:prefLabel xml:lang="fr">Montage d'agencements</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1605">
+<skos:prefLabel xml:lang="fr">Montage de réseaux électriques et télécoms</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1606">
+<skos:prefLabel xml:lang="fr">Peinture en bâtiment</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1607">
+<skos:prefLabel xml:lang="fr">Pose de fermetures menuisées</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1608">
+<skos:prefLabel xml:lang="fr">Pose de revêtements rigides</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1609">
+<skos:prefLabel xml:lang="fr">Pose de revêtements souples</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1610">
+<skos:prefLabel xml:lang="fr">Pose et restauration de couvertures</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1611">
+<skos:prefLabel xml:lang="fr">Réalisation et restauration de façades</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1612">
+<skos:prefLabel xml:lang="fr">Taille et décoration de pierres</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1613">
+<skos:prefLabel xml:lang="fr">Travaux d'étanchéité et d'isolation</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1701">
+<skos:prefLabel xml:lang="fr">Construction en béton</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1702">
+<skos:prefLabel xml:lang="fr">Construction de routes et voies</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1703">
+<skos:prefLabel xml:lang="fr">Maçonnerie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1704">
+<skos:prefLabel xml:lang="fr">Préparation du gros oeuvre et des travaux publics</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1705">
+<skos:prefLabel xml:lang="fr">Pose de canalisations</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1706">
+<skos:prefLabel xml:lang="fr">Préfabrication en béton industriel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1101">
+<skos:prefLabel xml:lang="fr">Accueil touristique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1102">
+<skos:prefLabel xml:lang="fr">Promotion du tourisme local</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1201">
+<skos:prefLabel xml:lang="fr">Accompagnement de voyages, d'activités culturelles ou sportives</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1202">
+<skos:prefLabel xml:lang="fr">Animation d'activités culturelles ou ludiques</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1203">
+<skos:prefLabel xml:lang="fr">Animation de loisirs auprès d'enfants ou d'adolescents</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1204">
+<skos:prefLabel xml:lang="fr">Éducation en activités sportives</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1205">
+<skos:prefLabel xml:lang="fr">Personnel d'attractions ou de structures de loisirs</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1206">
+<skos:prefLabel xml:lang="fr">Personnel technique des jeux</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1301">
+<skos:prefLabel xml:lang="fr">Conception de produits touristiques</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1302">
+<skos:prefLabel xml:lang="fr">Optimisation de produits touristiques</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1303">
+<skos:prefLabel xml:lang="fr">Vente de voyages</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1401">
+<skos:prefLabel xml:lang="fr">Assistance de direction d'hôtel-restaurant</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1402">
+<skos:prefLabel xml:lang="fr">Management d'hôtel-restaurant</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1403">
+<skos:prefLabel xml:lang="fr">Gestion de structure de loisirs ou d'hébergement touristique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1404">
+<skos:prefLabel xml:lang="fr">Management d'établissement de restauration collective</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1501">
+<skos:prefLabel xml:lang="fr">Personnel d'étage</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1502">
+<skos:prefLabel xml:lang="fr">Personnel polyvalent d'hôtellerie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1503">
+<skos:prefLabel xml:lang="fr">Management du personnel d'étage</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1601">
+<skos:prefLabel xml:lang="fr">Management du personnel de cuisine</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1602">
+<skos:prefLabel xml:lang="fr">Personnel de cuisine</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1603">
+<skos:prefLabel xml:lang="fr">Personnel polyvalent en restauration</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1604">
+<skos:prefLabel xml:lang="fr">Fabrication de crêpes ou pizzas</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1605">
+<skos:prefLabel xml:lang="fr">Plonge en restauration</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1701">
+<skos:prefLabel xml:lang="fr">Conciergerie en hôtellerie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1702">
+<skos:prefLabel xml:lang="fr">Personnel du hall</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1703">
+<skos:prefLabel xml:lang="fr">Réception en hôtellerie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1801">
+<skos:prefLabel xml:lang="fr">Café, bar brasserie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1802">
+<skos:prefLabel xml:lang="fr">Management du service en restauration</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1803">
+<skos:prefLabel xml:lang="fr">Service en restauration</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1804">
+<skos:prefLabel xml:lang="fr">Sommellerie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1101">
+<skos:prefLabel xml:lang="fr">Assistance et support technique client</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1102">
+<skos:prefLabel xml:lang="fr">Management et ingénierie d'affaires</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1201">
+<skos:prefLabel xml:lang="fr">Expertise technique couleur en industrie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1202">
+<skos:prefLabel xml:lang="fr">Conception et dessin de produits électriques et électroniques</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1203">
+<skos:prefLabel xml:lang="fr">Conception et dessin produits mécaniques</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1204">
+<skos:prefLabel xml:lang="fr">Design industriel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1205">
+<skos:prefLabel xml:lang="fr">Études - modèles en industrie des matériaux souples</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1206">
+<skos:prefLabel xml:lang="fr">Management et ingénierie études, recherche et développement industriel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1207">
+<skos:prefLabel xml:lang="fr">Rédaction technique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1208">
+<skos:prefLabel xml:lang="fr">Intervention technique en études et conception en automatisme</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1209">
+<skos:prefLabel xml:lang="fr">Intervention technique en études et développement électronique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1210">
+<skos:prefLabel xml:lang="fr">Intervention technique en études, recherche et développement</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1301">
+<skos:prefLabel xml:lang="fr">Inspection de conformité</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1302">
+<skos:prefLabel xml:lang="fr">Management et ingénierie Hygiène Sécurité Environnement -HSE- industriels</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1303">
+<skos:prefLabel xml:lang="fr">Intervention technique en Hygiène Sécurité Environnement -HSE- industriel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1401">
+<skos:prefLabel xml:lang="fr">Management et ingénierie gestion industrielle et logistique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1402">
+<skos:prefLabel xml:lang="fr">Management et ingénierie méthodes et industrialisation</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1403">
+<skos:prefLabel xml:lang="fr">Intervention technique en gestion industrielle et logistique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1404">
+<skos:prefLabel xml:lang="fr">Intervention technique en méthodes et industrialisation</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1501">
+<skos:prefLabel xml:lang="fr">Direction de laboratoire d'analyse industrielle</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1502">
+<skos:prefLabel xml:lang="fr">Management et ingénierie qualité industrielle</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1503">
+<skos:prefLabel xml:lang="fr">Intervention technique en laboratoire d'analyse industrielle</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1504">
+<skos:prefLabel xml:lang="fr">Intervention technique en contrôle essai qualité en électricité et électronique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1505">
+<skos:prefLabel xml:lang="fr">Intervention technique en formulation et analyse sensorielle</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1506">
+<skos:prefLabel xml:lang="fr">Intervention technique qualité en mécanique et travail des métaux</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2101">
+<skos:prefLabel xml:lang="fr">Abattage et découpe des viandes</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2102">
+<skos:prefLabel xml:lang="fr">Conduite d'équipement de production alimentaire</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2201">
+<skos:prefLabel xml:lang="fr">Assemblage d'ouvrages en bois</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2202">
+<skos:prefLabel xml:lang="fr">Conduite d'équipement de fabrication de l'ameublement et du bois</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2203">
+<skos:prefLabel xml:lang="fr">Conduite d'installation de production de panneaux bois</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2204">
+<skos:prefLabel xml:lang="fr">Encadrement des industries de l'ameublement et du bois</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2205">
+<skos:prefLabel xml:lang="fr">Première transformation de bois d'oeuvre</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2206">
+<skos:prefLabel xml:lang="fr">Réalisation de menuiserie bois et tonnellerie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2207">
+<skos:prefLabel xml:lang="fr">Réalisation de meubles en bois</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2208">
+<skos:prefLabel xml:lang="fr">Réalisation d'ouvrages décoratifs en bois</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2209">
+<skos:prefLabel xml:lang="fr">Intervention technique en ameublement et bois</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2301">
+<skos:prefLabel xml:lang="fr">Conduite d'équipement de production chimique ou pharmaceutique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2401">
+<skos:prefLabel xml:lang="fr">Assemblage - montage d'articles en cuirs, peaux</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2402">
+<skos:prefLabel xml:lang="fr">Assemblage - montage de vêtements et produits textiles</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2403">
+<skos:prefLabel xml:lang="fr">Conduite de machine de fabrication de produits textiles</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2404">
+<skos:prefLabel xml:lang="fr">Conduite de machine de production et transformation des fils</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2405">
+<skos:prefLabel xml:lang="fr">Conduite de machine de textiles nontissés</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2406">
+<skos:prefLabel xml:lang="fr">Conduite de machine de traitement textile</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2407">
+<skos:prefLabel xml:lang="fr">Conduite de machine de transformation et de finition des cuirs et peaux</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2408">
+<skos:prefLabel xml:lang="fr">Conduite de machine d'impression textile</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2409">
+<skos:prefLabel xml:lang="fr">Coupe cuir, textile et matériaux souples</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2410">
+<skos:prefLabel xml:lang="fr">Mise en forme, repassage et finitions en industrie textile</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2411">
+<skos:prefLabel xml:lang="fr">Montage de prototype cuir et matériaux souples</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2412">
+<skos:prefLabel xml:lang="fr">Patronnage - gradation</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2413">
+<skos:prefLabel xml:lang="fr">Préparation de fils, montage de métiers textiles</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2414">
+<skos:prefLabel xml:lang="fr">Préparation et finition d'articles en cuir et matériaux souples</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2415">
+<skos:prefLabel xml:lang="fr">Contrôle en industrie du cuir et du textile</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2501">
+<skos:prefLabel xml:lang="fr">Encadrement de production de matériel électrique et électronique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2502">
+<skos:prefLabel xml:lang="fr">Management et ingénierie de production</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2503">
+<skos:prefLabel xml:lang="fr">Pilotage d'unité élémentaire de production mécanique ou de travail des métaux</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2504">
+<skos:prefLabel xml:lang="fr">Encadrement d'équipe en industrie de transformation</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2505">
+<skos:prefLabel xml:lang="fr">Encadrement d'équipe ou d'atelier en matériaux souples</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2601">
+<skos:prefLabel xml:lang="fr">Bobinage électrique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2602">
+<skos:prefLabel xml:lang="fr">Câblage électrique et électromécanique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2603">
+<skos:prefLabel xml:lang="fr">Conduite d'installation automatisée de production électrique, électronique et microélectronique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2604">
+<skos:prefLabel xml:lang="fr">Montage de produits électriques et électroniques</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2605">
+<skos:prefLabel xml:lang="fr">Montage et câblage électronique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2701">
+<skos:prefLabel xml:lang="fr">Pilotage d'installation énergétique et pétrochimique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2801">
+<skos:prefLabel xml:lang="fr">Conduite d'équipement de transformation du verre</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2802">
+<skos:prefLabel xml:lang="fr">Conduite d'installation de production de matériaux de construction</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2803">
+<skos:prefLabel xml:lang="fr">Façonnage et émaillage en industrie céramique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2804">
+<skos:prefLabel xml:lang="fr">Pilotage de centrale à béton prêt à l'emploi, ciment, enrobés et granulats</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2805">
+<skos:prefLabel xml:lang="fr">Pilotage d'installation de production verrière</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2901">
+<skos:prefLabel xml:lang="fr">Ajustement et montage de fabrication</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2902">
+<skos:prefLabel xml:lang="fr">Chaudronnerie - tôlerie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2903">
+<skos:prefLabel xml:lang="fr">Conduite d'équipement d'usinage</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2904">
+<skos:prefLabel xml:lang="fr">Conduite d'équipement de déformation des métaux</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2905">
+<skos:prefLabel xml:lang="fr">Conduite d'équipement de formage et découpage des matériaux</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2906">
+<skos:prefLabel xml:lang="fr">Conduite d'installation automatisée ou robotisée de fabrication mécanique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2907">
+<skos:prefLabel xml:lang="fr">Conduite d'installation de production des métaux</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2908">
+<skos:prefLabel xml:lang="fr">Modelage de matériaux non métalliques</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2909">
+<skos:prefLabel xml:lang="fr">Montage-assemblage mécanique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2910">
+<skos:prefLabel xml:lang="fr">Moulage sable</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2911">
+<skos:prefLabel xml:lang="fr">Réalisation de structures métalliques</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2912">
+<skos:prefLabel xml:lang="fr">Réglage d'équipement de production industrielle</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2913">
+<skos:prefLabel xml:lang="fr">Soudage manuel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2914">
+<skos:prefLabel xml:lang="fr">Réalisation et montage en tuyauterie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H3101">
+<skos:prefLabel xml:lang="fr">Conduite d'équipement de fabrication de papier ou de carton</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H3102">
+<skos:prefLabel xml:lang="fr">Conduite d'installation de pâte à papier</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H3201">
+<skos:prefLabel xml:lang="fr">Conduite d'équipement de formage des plastiques et caoutchoucs</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H3202">
+<skos:prefLabel xml:lang="fr">Réglage d'équipement de formage des plastiques et caoutchoucs</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H3203">
+<skos:prefLabel xml:lang="fr">Fabrication de pièces en matériaux composites</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H3301">
+<skos:prefLabel xml:lang="fr">Conduite d'équipement de conditionnement</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H3302">
+<skos:prefLabel xml:lang="fr">Opérations manuelles d'assemblage, tri ou emballage</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H3303">
+<skos:prefLabel xml:lang="fr">Préparation de matières et produits industriels (broyage, mélange, ...)</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H3401">
+<skos:prefLabel xml:lang="fr">Conduite de traitement d'abrasion de surface</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H3402">
+<skos:prefLabel xml:lang="fr">Conduite de traitement par dépôt de surface</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H3403">
+<skos:prefLabel xml:lang="fr">Conduite de traitement thermique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H3404">
+<skos:prefLabel xml:lang="fr">Peinture industrielle</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1101">
+<skos:prefLabel xml:lang="fr">Direction et ingénierie en entretien infrastructure et bâti</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1102">
+<skos:prefLabel xml:lang="fr">Management et ingénierie de maintenance industrielle</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1103">
+<skos:prefLabel xml:lang="fr">Supervision d'entretien et gestion de véhicules</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1201">
+<skos:prefLabel xml:lang="fr">Entretien d'affichage et mobilier urbain</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1202">
+<skos:prefLabel xml:lang="fr">Entretien et surveillance du tracé routier</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1203">
+<skos:prefLabel xml:lang="fr">Maintenance des bâtiments et des locaux</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1301">
+<skos:prefLabel xml:lang="fr">Installation et maintenance d'ascenseurs</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1302">
+<skos:prefLabel xml:lang="fr">Installation et maintenance d'automatismes</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1303">
+<skos:prefLabel xml:lang="fr">Installation et maintenance de distributeurs automatiques</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1304">
+<skos:prefLabel xml:lang="fr">Installation et maintenance d'équipements industriels et d'exploitation</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1305">
+<skos:prefLabel xml:lang="fr">Installation et maintenance électronique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1306">
+<skos:prefLabel xml:lang="fr">Installation et maintenance en froid, conditionnement d'air</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1307">
+<skos:prefLabel xml:lang="fr">Installation et maintenance télécoms et courants faibles</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1308">
+<skos:prefLabel xml:lang="fr">Maintenance d'installation de chauffage</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1309">
+<skos:prefLabel xml:lang="fr">Maintenance électrique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1310">
+<skos:prefLabel xml:lang="fr">Maintenance mécanique industrielle</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1401">
+<skos:prefLabel xml:lang="fr">Maintenance informatique et bureautique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1402">
+<skos:prefLabel xml:lang="fr">Réparation de biens électrodomestiques et multimédia</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1501">
+<skos:prefLabel xml:lang="fr">Intervention en grande hauteur</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1502">
+<skos:prefLabel xml:lang="fr">Intervention en milieu subaquatique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1503">
+<skos:prefLabel xml:lang="fr">Intervention en milieux et produits nocifs</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1601">
+<skos:prefLabel xml:lang="fr">Installation et maintenance en nautisme</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1602">
+<skos:prefLabel xml:lang="fr">Maintenance d'aéronefs</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1603">
+<skos:prefLabel xml:lang="fr">Maintenance d'engins de chantier, levage, manutention et de machines agricoles</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1604">
+<skos:prefLabel xml:lang="fr">Mécanique automobile et entretien de véhicules</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1605">
+<skos:prefLabel xml:lang="fr">Mécanique de marine</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1606">
+<skos:prefLabel xml:lang="fr">Réparation de carrosserie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1607">
+<skos:prefLabel xml:lang="fr">Réparation de cycles, motocycles et motoculteurs de loisirs</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1101">
+<skos:prefLabel xml:lang="fr">Médecine de prévention</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1102">
+<skos:prefLabel xml:lang="fr">Médecine généraliste et spécialisée</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1103">
+<skos:prefLabel xml:lang="fr">Médecine dentaire</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1104">
+<skos:prefLabel xml:lang="fr">Suivi de la grossesse et de l'accouchement</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1201">
+<skos:prefLabel xml:lang="fr">Biologie médicale</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1202">
+<skos:prefLabel xml:lang="fr">Pharmacie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1301">
+<skos:prefLabel xml:lang="fr">Personnel polyvalent des services hospitaliers</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1302">
+<skos:prefLabel xml:lang="fr">Analyses médicales</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1303">
+<skos:prefLabel xml:lang="fr">Assistance médico-technique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1304">
+<skos:prefLabel xml:lang="fr">Aide en puériculture</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1305">
+<skos:prefLabel xml:lang="fr">Conduite de véhicules sanitaires</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1306">
+<skos:prefLabel xml:lang="fr">Imagerie médicale</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1307">
+<skos:prefLabel xml:lang="fr">Préparation en pharmacie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1401">
+<skos:prefLabel xml:lang="fr">Audioprothèses</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1402">
+<skos:prefLabel xml:lang="fr">Diététique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1403">
+<skos:prefLabel xml:lang="fr">Ergothérapie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1404">
+<skos:prefLabel xml:lang="fr">Kinésithérapie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1405">
+<skos:prefLabel xml:lang="fr">Optique - lunetterie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1406">
+<skos:prefLabel xml:lang="fr">Orthophonie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1407">
+<skos:prefLabel xml:lang="fr">Orthoptique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1408">
+<skos:prefLabel xml:lang="fr">Ostéopathie et chiropraxie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1409">
+<skos:prefLabel xml:lang="fr">Pédicurie et podologie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1410">
+<skos:prefLabel xml:lang="fr">Prothèses dentaires</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1411">
+<skos:prefLabel xml:lang="fr">Prothèses et orthèses</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1412">
+<skos:prefLabel xml:lang="fr">Rééducation en psychomotricité</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1501">
+<skos:prefLabel xml:lang="fr">Soins d'hygiène, de confort du patient</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1502">
+<skos:prefLabel xml:lang="fr">Coordination de services médicaux ou paramédicaux</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1503">
+<skos:prefLabel xml:lang="fr">Soins infirmiers spécialisés en anesthésie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1504">
+<skos:prefLabel xml:lang="fr">Soins infirmiers spécialisés en bloc opératoire</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1505">
+<skos:prefLabel xml:lang="fr">Soins infirmiers spécialisés en prévention</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1506">
+<skos:prefLabel xml:lang="fr">Soins infirmiers généralistes</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1507">
+<skos:prefLabel xml:lang="fr">Soins infirmiers spécialisés en puériculture</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1101">
+<skos:prefLabel xml:lang="fr">Accompagnement et médiation familiale</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1102">
+<skos:prefLabel xml:lang="fr">Aide aux bénéficiaires d'une mesure de protection juridique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1103">
+<skos:prefLabel xml:lang="fr">Développement personnel et bien-être de la personne</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1104">
+<skos:prefLabel xml:lang="fr">Psychologie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1201">
+<skos:prefLabel xml:lang="fr">Action sociale</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1202">
+<skos:prefLabel xml:lang="fr">Éducation de jeunes enfants</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1203">
+<skos:prefLabel xml:lang="fr">Encadrement technique en insertion professionnelle</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1204">
+<skos:prefLabel xml:lang="fr">Médiation sociale et facilitation de la vie en société</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1205">
+<skos:prefLabel xml:lang="fr">Information sociale</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1206">
+<skos:prefLabel xml:lang="fr">Intervention socioculturelle</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1207">
+<skos:prefLabel xml:lang="fr">Intervention socioéducative</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1301">
+<skos:prefLabel xml:lang="fr">Accompagnement médicosocial</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1302">
+<skos:prefLabel xml:lang="fr">Assistance auprès d'adultes</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1303">
+<skos:prefLabel xml:lang="fr">Assistance auprès d'enfants</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1304">
+<skos:prefLabel xml:lang="fr">Services domestiques</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1305">
+<skos:prefLabel xml:lang="fr">Intervention sociale et familiale</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1401">
+<skos:prefLabel xml:lang="fr">Conception et pilotage de la politique des pouvoirs publics</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1402">
+<skos:prefLabel xml:lang="fr">Conseil en Santé Publique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1403">
+<skos:prefLabel xml:lang="fr">Management de structure de santé, sociale ou pénitentiaire</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1404">
+<skos:prefLabel xml:lang="fr">Mise en oeuvre et pilotage de la politique des pouvoirs publics</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1405">
+<skos:prefLabel xml:lang="fr">Représentation de l'État sur le territoire national ou international</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1501">
+<skos:prefLabel xml:lang="fr">Application des règles financières publiques</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1502">
+<skos:prefLabel xml:lang="fr">Contrôle et inspection des Affaires Sociales</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1503">
+<skos:prefLabel xml:lang="fr">Contrôle et inspection des impôts</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1504">
+<skos:prefLabel xml:lang="fr">Contrôle et inspection du Trésor Public</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1505">
+<skos:prefLabel xml:lang="fr">Protection des consommateurs et contrôle des échanges commerciaux</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1601">
+<skos:prefLabel xml:lang="fr">Gestion de l'information et de la documentation</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1602">
+<skos:prefLabel xml:lang="fr">Gestion de patrimoine culturel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1701">
+<skos:prefLabel xml:lang="fr">Personnel de la Défense</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1702">
+<skos:prefLabel xml:lang="fr">Direction de la sécurité civile et des secours</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1703">
+<skos:prefLabel xml:lang="fr">Direction opérationnelle de la défense</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1704">
+<skos:prefLabel xml:lang="fr">Management de la sécurité publique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1705">
+<skos:prefLabel xml:lang="fr">Sécurité civile et secours</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1706">
+<skos:prefLabel xml:lang="fr">Sécurité publique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1707">
+<skos:prefLabel xml:lang="fr">Surveillance municipale</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1801">
+<skos:prefLabel xml:lang="fr">Conseil en emploi et insertion socioprofessionnelle</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1802">
+<skos:prefLabel xml:lang="fr">Développement local</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1901">
+<skos:prefLabel xml:lang="fr">Aide et médiation judiciaire</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1902">
+<skos:prefLabel xml:lang="fr">Collaboration juridique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1903">
+<skos:prefLabel xml:lang="fr">Défense et conseil juridique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1904">
+<skos:prefLabel xml:lang="fr">Magistrature</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2101">
+<skos:prefLabel xml:lang="fr">Conseil en formation</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2102">
+<skos:prefLabel xml:lang="fr">Coordination pédagogique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2103">
+<skos:prefLabel xml:lang="fr">Direction d'établissement et d'enseignement</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2104">
+<skos:prefLabel xml:lang="fr">Éducation et surveillance au sein d'établissements d'enseignement</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2105">
+<skos:prefLabel xml:lang="fr">Enseignement artistique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2106">
+<skos:prefLabel xml:lang="fr">Enseignement des écoles</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2107">
+<skos:prefLabel xml:lang="fr">Enseignement général du second degré</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2108">
+<skos:prefLabel xml:lang="fr">Enseignement supérieur</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2109">
+<skos:prefLabel xml:lang="fr">Enseignement technique et professionnel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2110">
+<skos:prefLabel xml:lang="fr">Formation en conduite de véhicules</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2111">
+<skos:prefLabel xml:lang="fr">Formation professionnelle</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2112">
+<skos:prefLabel xml:lang="fr">Orientation scolaire et professionnelle</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2201">
+<skos:prefLabel xml:lang="fr">Blanchisserie industrielle</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2202">
+<skos:prefLabel xml:lang="fr">Lavage de vitres</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2203">
+<skos:prefLabel xml:lang="fr">Management et inspection en propreté de locaux</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2204">
+<skos:prefLabel xml:lang="fr">Nettoyage de locaux</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2301">
+<skos:prefLabel xml:lang="fr">Distribution et assainissement d'eau</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2302">
+<skos:prefLabel xml:lang="fr">Management et inspection en environnement urbain</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2303">
+<skos:prefLabel xml:lang="fr">Nettoyage des espaces urbains</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2304">
+<skos:prefLabel xml:lang="fr">Revalorisation de produits industriels</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2305">
+<skos:prefLabel xml:lang="fr">Salubrité et traitement de nuisibles</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2306">
+<skos:prefLabel xml:lang="fr">Supervision d'exploitation éco-industrielle</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2401">
+<skos:prefLabel xml:lang="fr">Recherche en sciences de l'homme et de la société</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2402">
+<skos:prefLabel xml:lang="fr">Recherche en sciences de l'univers, de la matière et du vivant</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2501">
+<skos:prefLabel xml:lang="fr">Gardiennage de locaux</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2502">
+<skos:prefLabel xml:lang="fr">Management de sécurité privée</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2503">
+<skos:prefLabel xml:lang="fr">Sécurité et surveillance privées</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2601">
+<skos:prefLabel xml:lang="fr">Conduite d'opérations funéraires</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2602">
+<skos:prefLabel xml:lang="fr">Conseil en services funéraires</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2603">
+<skos:prefLabel xml:lang="fr">Thanatopraxie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/L1101">
+<skos:prefLabel xml:lang="fr">Animation musicale et scénique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/L1102">
+<skos:prefLabel xml:lang="fr">Mannequinat et pose artistique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/L1103">
+<skos:prefLabel xml:lang="fr">Présentation de spectacles ou d'émissions</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/L1201">
+<skos:prefLabel xml:lang="fr">Danse</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/L1202">
+<skos:prefLabel xml:lang="fr">Musique et chant</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/L1203">
+<skos:prefLabel xml:lang="fr">Art dramatique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/L1204">
+<skos:prefLabel xml:lang="fr">Arts du cirque et arts visuels</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/L1301">
+<skos:prefLabel xml:lang="fr">Mise en scène de spectacles vivants</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/L1302">
+<skos:prefLabel xml:lang="fr">Production et administration spectacle, cinéma et audiovisuel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/L1303">
+<skos:prefLabel xml:lang="fr">Promotion d'artistes et de spectacles</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/L1304">
+<skos:prefLabel xml:lang="fr">Réalisation cinématographique et audiovisuelle</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/L1401">
+<skos:prefLabel xml:lang="fr">Sportif professionnel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/L1501">
+<skos:prefLabel xml:lang="fr">Coiffure et maquillage spectacle</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/L1502">
+<skos:prefLabel xml:lang="fr">Costume et habillage spectacle</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/L1503">
+<skos:prefLabel xml:lang="fr">Décor et accessoires spectacle</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/L1504">
+<skos:prefLabel xml:lang="fr">Éclairage spectacle</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/L1505">
+<skos:prefLabel xml:lang="fr">Image cinématographique et télévisuelle</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/L1506">
+<skos:prefLabel xml:lang="fr">Machinerie spectacle</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/L1507">
+<skos:prefLabel xml:lang="fr">Montage audiovisuel et post-production</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/L1508">
+<skos:prefLabel xml:lang="fr">Prise de son et sonorisation</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/L1509">
+<skos:prefLabel xml:lang="fr">Régie générale</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/L1510">
+<skos:prefLabel xml:lang="fr">Films d'animation et effets spéciaux</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1101">
+<skos:prefLabel xml:lang="fr">Achats</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1102">
+<skos:prefLabel xml:lang="fr">Direction des achats</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1201">
+<skos:prefLabel xml:lang="fr">Analyse et ingénierie financière</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1202">
+<skos:prefLabel xml:lang="fr">Audit et contrôle comptables et financiers</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1203">
+<skos:prefLabel xml:lang="fr">Comptabilité</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1204">
+<skos:prefLabel xml:lang="fr">Contrôle de gestion</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1205">
+<skos:prefLabel xml:lang="fr">Direction administrative et financière</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1206">
+<skos:prefLabel xml:lang="fr">Management de groupe ou de service comptable</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1207">
+<skos:prefLabel xml:lang="fr">Trésorerie et financement</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1301">
+<skos:prefLabel xml:lang="fr">Direction de grande entreprise ou d'établissement public</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1302">
+<skos:prefLabel xml:lang="fr">Direction de petite ou moyenne entreprise</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1401">
+<skos:prefLabel xml:lang="fr">Conduite d'enquêtes</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1402">
+<skos:prefLabel xml:lang="fr">Conseil en organisation et management d'entreprise</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1403">
+<skos:prefLabel xml:lang="fr">Études et prospectives socio-économiques</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1404">
+<skos:prefLabel xml:lang="fr">Management et gestion d'enquêtes</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1501">
+<skos:prefLabel xml:lang="fr">Assistanat en ressources humaines</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1502">
+<skos:prefLabel xml:lang="fr">Développement des ressources humaines</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1503">
+<skos:prefLabel xml:lang="fr">Management des ressources humaines</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1601">
+<skos:prefLabel xml:lang="fr">Accueil et renseignements</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1602">
+<skos:prefLabel xml:lang="fr">Opérations administratives</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1603">
+<skos:prefLabel xml:lang="fr">Distribution de documents</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1604">
+<skos:prefLabel xml:lang="fr">Assistanat de direction</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1605">
+<skos:prefLabel xml:lang="fr">Assistanat technique et administratif</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1606">
+<skos:prefLabel xml:lang="fr">Saisie de données</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1607">
+<skos:prefLabel xml:lang="fr">Secrétariat</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1608">
+<skos:prefLabel xml:lang="fr">Secrétariat comptable</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1609">
+<skos:prefLabel xml:lang="fr">Secrétariat et assistanat médical ou médico-social</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1701">
+<skos:prefLabel xml:lang="fr">Administration des ventes</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1702">
+<skos:prefLabel xml:lang="fr">Analyse de tendance</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1703">
+<skos:prefLabel xml:lang="fr">Management et gestion de produit</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1704">
+<skos:prefLabel xml:lang="fr">Management relation clientèle</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1705">
+<skos:prefLabel xml:lang="fr">Marketing</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1706">
+<skos:prefLabel xml:lang="fr">Promotion des ventes</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1707">
+<skos:prefLabel xml:lang="fr">Stratégie commerciale</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1801">
+<skos:prefLabel xml:lang="fr">Administration de systèmes d'information</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1802">
+<skos:prefLabel xml:lang="fr">Expertise et support en systèmes d'information</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1803">
+<skos:prefLabel xml:lang="fr">Direction des systèmes d'information</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1804">
+<skos:prefLabel xml:lang="fr">Études et développement de réseaux de télécoms</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1805">
+<skos:prefLabel xml:lang="fr">Études et développement informatique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1806">
+<skos:prefLabel xml:lang="fr">Conseil et maîtrise d'ouvrage en systèmes d'information</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1807">
+<skos:prefLabel xml:lang="fr">Exploitation de systèmes de communication et de commandement</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1808">
+<skos:prefLabel xml:lang="fr">Information géographique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1809">
+<skos:prefLabel xml:lang="fr">Information météorologique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1810">
+<skos:prefLabel xml:lang="fr">Production et exploitation de systèmes d'information</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N1101">
+<skos:prefLabel xml:lang="fr">Conduite d'engins de déplacement des charges</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N1102">
+<skos:prefLabel xml:lang="fr">Déménagement</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N1103">
+<skos:prefLabel xml:lang="fr">Magasinage et préparation de commandes</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N1104">
+<skos:prefLabel xml:lang="fr">Manoeuvre et conduite d'engins lourds de manutention</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N1105">
+<skos:prefLabel xml:lang="fr">Manutention manuelle de charges</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N1201">
+<skos:prefLabel xml:lang="fr">Affrètement transport</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N1202">
+<skos:prefLabel xml:lang="fr">Gestion des opérations de circulation internationale des marchandises</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N1301">
+<skos:prefLabel xml:lang="fr">Conception et organisation de la chaîne logistique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N1302">
+<skos:prefLabel xml:lang="fr">Direction de site logistique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N1303">
+<skos:prefLabel xml:lang="fr">Intervention technique d'exploitation logistique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N2101">
+<skos:prefLabel xml:lang="fr">Navigation commerciale aérienne</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N2102">
+<skos:prefLabel xml:lang="fr">Pilotage et navigation technique aérienne</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N2201">
+<skos:prefLabel xml:lang="fr">Personnel d'escale aéroportuaire</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N2202">
+<skos:prefLabel xml:lang="fr">Contrôle de la navigation aérienne</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N2203">
+<skos:prefLabel xml:lang="fr">Exploitation des pistes aéroportuaires</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N2204">
+<skos:prefLabel xml:lang="fr">Préparation des vols</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N2205">
+<skos:prefLabel xml:lang="fr">Direction d'escale et exploitation aéroportuaire</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N3101">
+<skos:prefLabel xml:lang="fr">Encadrement de la navigation maritime</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N3102">
+<skos:prefLabel xml:lang="fr">Équipage de la navigation maritime</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N3103">
+<skos:prefLabel xml:lang="fr">Navigation fluviale</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N3201">
+<skos:prefLabel xml:lang="fr">Exploitation des opérations portuaires et du transport maritime</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N3202">
+<skos:prefLabel xml:lang="fr">Exploitation du transport fluvial</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N3203">
+<skos:prefLabel xml:lang="fr">Manutention portuaire</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N4101">
+<skos:prefLabel xml:lang="fr">Conduite de transport de marchandises sur longue distance</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N4102">
+<skos:prefLabel xml:lang="fr">Conduite de transport de particuliers</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N4103">
+<skos:prefLabel xml:lang="fr">Conduite de transport en commun sur route</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N4104">
+<skos:prefLabel xml:lang="fr">Courses et livraisons express</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N4105">
+<skos:prefLabel xml:lang="fr">Conduite et livraison par tournées sur courte distance</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N4201">
+<skos:prefLabel xml:lang="fr">Direction d'exploitation des transports routiers de marchandises</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N4202">
+<skos:prefLabel xml:lang="fr">Direction d'exploitation des transports routiers de personnes</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N4203">
+<skos:prefLabel xml:lang="fr">Intervention technique d'exploitation des transports routiers de marchandises</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N4204">
+<skos:prefLabel xml:lang="fr">Intervention technique d'exploitation des transports routiers de personnes</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N4301">
+<skos:prefLabel xml:lang="fr">Conduite sur rails</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N4302">
+<skos:prefLabel xml:lang="fr">Contrôle des transports en commun</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N4401">
+<skos:prefLabel xml:lang="fr">Circulation du réseau ferré</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N4402">
+<skos:prefLabel xml:lang="fr">Exploitation et manoeuvre des remontées mécaniques</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N4403">
+<skos:prefLabel xml:lang="fr">Manoeuvre du réseau ferré</skos:prefLabel>
+</skos:Concept>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/001">
+<skos:prefLabel xml:lang="fr">Métiers de l'environnement et du développement durable</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/002">
+<skos:prefLabel xml:lang="fr">Métiers de la défense et de la sécurité publique (hors logistique, santé, tertiaire, restauration)</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/003">
+<skos:prefLabel xml:lang="fr">Métiers du patrimoine et de la restauration d'oeuvres d'art</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/004">
+<skos:prefLabel xml:lang="fr">Métiers de l'intelligence économique</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/005">
+<skos:prefLabel xml:lang="fr">Métiers de la recherche</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/006">
+<skos:prefLabel xml:lang="fr">Métiers de la mer, du nautisme et de la construction navale</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/007">
+<skos:prefLabel xml:lang="fr">Métiers de l'aéronautique</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/008">
+<skos:prefLabel xml:lang="fr">Métiers de la sécurité publique et privée</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/009">
+<skos:prefLabel xml:lang="fr">Métiers du multimédia</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/010">
+<skos:prefLabel xml:lang="fr">Métiers de l'humanitaire (hors santé et tertiaire)</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/011">
+<skos:prefLabel xml:lang="fr">Métiers du nucléaire</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/012">
+<skos:prefLabel xml:lang="fr">Métiers auprès des enfants</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/013">
+<skos:prefLabel xml:lang="fr">Métiers saisonniers, de vacances / Jobs d'été</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/014">
+<skos:prefLabel xml:lang="fr">Métiers des services à la personne à domicile</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/015">
+<skos:prefLabel xml:lang="fr">Métiers du sport et autour du sport</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/016">
+<skos:prefLabel xml:lang="fr">Métiers de l'ingénierie</skos:prefLabel>
+</skos:Collection>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/017">
+<skos:prefLabel xml:lang="fr">Métiers accessibles sans diplôme et sans expérience</skos:prefLabel>
+</skos:Collection>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1201">
+<skos:prefLabel xml:lang="fr">Bûcheronnage et élagage</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1202">
+<skos:prefLabel xml:lang="fr">Entretien des espaces naturels</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1203">
+<skos:prefLabel xml:lang="fr">Aménagement et entretien des espaces verts</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1203">
+<skos:prefLabel xml:lang="fr">Aménagement et entretien des espaces verts</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1204">
+<skos:prefLabel xml:lang="fr">Protection du patrimoine naturel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1204">
+<skos:prefLabel xml:lang="fr">Protection du patrimoine naturel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1204">
+<skos:prefLabel xml:lang="fr">Protection du patrimoine naturel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1205">
+<skos:prefLabel xml:lang="fr">Sylviculture</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1301">
+<skos:prefLabel xml:lang="fr">Conseil et assistance technique en agriculture et environnement naturel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1301">
+<skos:prefLabel xml:lang="fr">Conseil et assistance technique en agriculture et environnement naturel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1301">
+<skos:prefLabel xml:lang="fr">Conseil et assistance technique en agriculture et environnement naturel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1303">
+<skos:prefLabel xml:lang="fr">Ingénierie en agriculture et environnement naturel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1303">
+<skos:prefLabel xml:lang="fr">Ingénierie en agriculture et environnement naturel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1303">
+<skos:prefLabel xml:lang="fr">Ingénierie en agriculture et environnement naturel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1303">
+<skos:prefLabel xml:lang="fr">Ingénierie en agriculture et environnement naturel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1303">
+<skos:prefLabel xml:lang="fr">Ingénierie en agriculture et environnement naturel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1303">
+<skos:prefLabel xml:lang="fr">Ingénierie en agriculture et environnement naturel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1401">
+<skos:prefLabel xml:lang="fr">Aide agricole de production fruitière ou viticole</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1401">
+<skos:prefLabel xml:lang="fr">Aide agricole de production fruitière ou viticole</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1402">
+<skos:prefLabel xml:lang="fr">Aide agricole de production légumière ou végétale</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1402">
+<skos:prefLabel xml:lang="fr">Aide agricole de production légumière ou végétale</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1403">
+<skos:prefLabel xml:lang="fr">Aide d'élevage agricole et aquacole</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1403">
+<skos:prefLabel xml:lang="fr">Aide d'élevage agricole et aquacole</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1404">
+<skos:prefLabel xml:lang="fr">Aquaculture</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1406">
+<skos:prefLabel xml:lang="fr">Encadrement équipage de la pêche</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1412">
+<skos:prefLabel xml:lang="fr">Fabrication et affinage de fromages</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1413">
+<skos:prefLabel xml:lang="fr">Fermentation de boissons alcoolisées</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1415">
+<skos:prefLabel xml:lang="fr">Équipage de la pêche</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1417">
+<skos:prefLabel xml:lang="fr">Saliculture</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1501">
+<skos:prefLabel xml:lang="fr">Aide aux soins animaux</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1503">
+<skos:prefLabel xml:lang="fr">Toilettage des animaux</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/B1101">
+<skos:prefLabel xml:lang="fr">Création en arts plastiques</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/B1201">
+<skos:prefLabel xml:lang="fr">Réalisation d'objets décoratifs et utilitaires en céramique et matériaux de synthèse</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/B1302">
+<skos:prefLabel xml:lang="fr">Décoration d'objets d'art et artisanaux</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/B1402">
+<skos:prefLabel xml:lang="fr">Reliure et restauration de livres et archives</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/B1501">
+<skos:prefLabel xml:lang="fr">Fabrication et réparation d'instruments de musique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/B1601">
+<skos:prefLabel xml:lang="fr">Métallerie d'art</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/B1602">
+<skos:prefLabel xml:lang="fr">Réalisation d'objets artistiques et fonctionnels en verre</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/B1603">
+<skos:prefLabel xml:lang="fr">Réalisation d'ouvrages en bijouterie, joaillerie et orfèvrerie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/B1701">
+<skos:prefLabel xml:lang="fr">Conservation et reconstitution d'espèces animales</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/B1802">
+<skos:prefLabel xml:lang="fr">Réalisation d'articles en cuir et matériaux souples (hors vêtement)</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/B1804">
+<skos:prefLabel xml:lang="fr">Réalisation d'ouvrages d'art en fils</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/B1806">
+<skos:prefLabel xml:lang="fr">Tapisserie - décoration en ameublement</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/C1202">
+<skos:prefLabel xml:lang="fr">Analyse de crédits et risques bancaires</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1105">
+<skos:prefLabel xml:lang="fr">Poissonnerie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1105">
+<skos:prefLabel xml:lang="fr">Poissonnerie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1106">
+<skos:prefLabel xml:lang="fr">Vente en alimentation</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1201">
+<skos:prefLabel xml:lang="fr">Achat vente d'objets d'art, anciens ou d'occasion</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1202">
+<skos:prefLabel xml:lang="fr">Coiffure</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1203">
+<skos:prefLabel xml:lang="fr">Hydrothérapie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1203">
+<skos:prefLabel xml:lang="fr">Hydrothérapie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1204">
+<skos:prefLabel xml:lang="fr">Location de véhicules ou de matériel de loisirs</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1205">
+<skos:prefLabel xml:lang="fr">Nettoyage d'articles textiles ou cuirs</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1208">
+<skos:prefLabel xml:lang="fr">Soins esthétiques et corporels</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1211">
+<skos:prefLabel xml:lang="fr">Vente en articles de sport et loisirs</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1211">
+<skos:prefLabel xml:lang="fr">Vente en articles de sport et loisirs</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1211">
+<skos:prefLabel xml:lang="fr">Vente en articles de sport et loisirs</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1402">
+<skos:prefLabel xml:lang="fr">Relation commerciale grands comptes et entreprises</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1403">
+<skos:prefLabel xml:lang="fr">Relation commerciale auprès de particuliers</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1404">
+<skos:prefLabel xml:lang="fr">Relation commerciale en vente de véhicules</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1406">
+<skos:prefLabel xml:lang="fr">Management en force de vente</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1407">
+<skos:prefLabel xml:lang="fr">Relation technico-commerciale</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1501">
+<skos:prefLabel xml:lang="fr">Animation de vente</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1501">
+<skos:prefLabel xml:lang="fr">Animation de vente</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1505">
+<skos:prefLabel xml:lang="fr">Personnel de caisse</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1505">
+<skos:prefLabel xml:lang="fr">Personnel de caisse</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1507">
+<skos:prefLabel xml:lang="fr">Mise en rayon libre-service</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/D1507">
+<skos:prefLabel xml:lang="fr">Mise en rayon libre-service</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1101">
+<skos:prefLabel xml:lang="fr">Animation de site multimédia</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1101">
+<skos:prefLabel xml:lang="fr">Animation de site multimédia</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1102">
+<skos:prefLabel xml:lang="fr">Écriture d'ouvrages, de livres</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1103">
+<skos:prefLabel xml:lang="fr">Communication</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1103">
+<skos:prefLabel xml:lang="fr">Communication</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1103">
+<skos:prefLabel xml:lang="fr">Communication</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1103">
+<skos:prefLabel xml:lang="fr">Communication</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1103">
+<skos:prefLabel xml:lang="fr">Communication</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1104">
+<skos:prefLabel xml:lang="fr">Conception de contenus multimédias</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1106">
+<skos:prefLabel xml:lang="fr">Journalisme et information média</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1106">
+<skos:prefLabel xml:lang="fr">Journalisme et information média</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1106">
+<skos:prefLabel xml:lang="fr">Journalisme et information média</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1107">
+<skos:prefLabel xml:lang="fr">Organisation d'évènementiel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1108">
+<skos:prefLabel xml:lang="fr">Traduction, interprétariat</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1202">
+<skos:prefLabel xml:lang="fr">Production en laboratoire cinématographique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1203">
+<skos:prefLabel xml:lang="fr">Production en laboratoire photographique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1205">
+<skos:prefLabel xml:lang="fr">Réalisation de contenus multimédias</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1304">
+<skos:prefLabel xml:lang="fr">Façonnage et routage</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1401">
+<skos:prefLabel xml:lang="fr">Développement et promotion publicitaire</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/E1402">
+<skos:prefLabel xml:lang="fr">Élaboration de plan média</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1101">
+<skos:prefLabel xml:lang="fr">Architecture du BTP et du paysage</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1101">
+<skos:prefLabel xml:lang="fr">Architecture du BTP et du paysage</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1101">
+<skos:prefLabel xml:lang="fr">Architecture du BTP et du paysage</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1103">
+<skos:prefLabel xml:lang="fr">Contrôle et diagnostic technique du bâtiment</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1103">
+<skos:prefLabel xml:lang="fr">Contrôle et diagnostic technique du bâtiment</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1105">
+<skos:prefLabel xml:lang="fr">Études géologiques</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1105">
+<skos:prefLabel xml:lang="fr">Études géologiques</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1105">
+<skos:prefLabel xml:lang="fr">Études géologiques</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1105">
+<skos:prefLabel xml:lang="fr">Études géologiques</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1106">
+<skos:prefLabel xml:lang="fr">Ingénierie et études du BTP</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1106">
+<skos:prefLabel xml:lang="fr">Ingénierie et études du BTP</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1106">
+<skos:prefLabel xml:lang="fr">Ingénierie et études du BTP</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1106">
+<skos:prefLabel xml:lang="fr">Ingénierie et études du BTP</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1107">
+<skos:prefLabel xml:lang="fr">Mesures topographiques</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1107">
+<skos:prefLabel xml:lang="fr">Mesures topographiques</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1201">
+<skos:prefLabel xml:lang="fr">Conduite de travaux du BTP et de travaux paysagers</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1201">
+<skos:prefLabel xml:lang="fr">Conduite de travaux du BTP et de travaux paysagers</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1202">
+<skos:prefLabel xml:lang="fr">Direction de chantier du BTP</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1203">
+<skos:prefLabel xml:lang="fr">Direction et ingénierie d'exploitation de gisements et de carrières</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1203">
+<skos:prefLabel xml:lang="fr">Direction et ingénierie d'exploitation de gisements et de carrières</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1204">
+<skos:prefLabel xml:lang="fr">Qualité Sécurité Environnement et protection santé du BTP</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1204">
+<skos:prefLabel xml:lang="fr">Qualité Sécurité Environnement et protection santé du BTP</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1204">
+<skos:prefLabel xml:lang="fr">Qualité Sécurité Environnement et protection santé du BTP</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1301">
+<skos:prefLabel xml:lang="fr">Conduite de grue</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1302">
+<skos:prefLabel xml:lang="fr">Conduite d'engins de terrassement et de carrière</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1401">
+<skos:prefLabel xml:lang="fr">Extraction liquide et gazeuse</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1501">
+<skos:prefLabel xml:lang="fr">Montage de structures et de charpentes bois</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1501">
+<skos:prefLabel xml:lang="fr">Montage de structures et de charpentes bois</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1502">
+<skos:prefLabel xml:lang="fr">Montage de structures métalliques</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1503">
+<skos:prefLabel xml:lang="fr">Réalisation - installation d'ossatures bois</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1503">
+<skos:prefLabel xml:lang="fr">Réalisation - installation d'ossatures bois</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1601">
+<skos:prefLabel xml:lang="fr">Application et décoration en plâtre, stuc et staff</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1602">
+<skos:prefLabel xml:lang="fr">Électricité bâtiment</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1603">
+<skos:prefLabel xml:lang="fr">Installation d'équipements sanitaires et thermiques</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1604">
+<skos:prefLabel xml:lang="fr">Montage d'agencements</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1605">
+<skos:prefLabel xml:lang="fr">Montage de réseaux électriques et télécoms</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1607">
+<skos:prefLabel xml:lang="fr">Pose de fermetures menuisées</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1610">
+<skos:prefLabel xml:lang="fr">Pose et restauration de couvertures</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1610">
+<skos:prefLabel xml:lang="fr">Pose et restauration de couvertures</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1612">
+<skos:prefLabel xml:lang="fr">Taille et décoration de pierres</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1613">
+<skos:prefLabel xml:lang="fr">Travaux d'étanchéité et d'isolation</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1613">
+<skos:prefLabel xml:lang="fr">Travaux d'étanchéité et d'isolation</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1702">
+<skos:prefLabel xml:lang="fr">Construction de routes et voies</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1703">
+<skos:prefLabel xml:lang="fr">Maçonnerie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1704">
+<skos:prefLabel xml:lang="fr">Préparation du gros oeuvre et des travaux publics</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1704">
+<skos:prefLabel xml:lang="fr">Préparation du gros oeuvre et des travaux publics</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1705">
+<skos:prefLabel xml:lang="fr">Pose de canalisations</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/F1706">
+<skos:prefLabel xml:lang="fr">Préfabrication en béton industriel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1101">
+<skos:prefLabel xml:lang="fr">Accueil touristique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1102">
+<skos:prefLabel xml:lang="fr">Promotion du tourisme local</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1102">
+<skos:prefLabel xml:lang="fr">Promotion du tourisme local</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1201">
+<skos:prefLabel xml:lang="fr">Accompagnement de voyages, d'activités culturelles ou sportives</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1201">
+<skos:prefLabel xml:lang="fr">Accompagnement de voyages, d'activités culturelles ou sportives</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1201">
+<skos:prefLabel xml:lang="fr">Accompagnement de voyages, d'activités culturelles ou sportives</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1201">
+<skos:prefLabel xml:lang="fr">Accompagnement de voyages, d'activités culturelles ou sportives</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1202">
+<skos:prefLabel xml:lang="fr">Animation d'activités culturelles ou ludiques</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1202">
+<skos:prefLabel xml:lang="fr">Animation d'activités culturelles ou ludiques</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1202">
+<skos:prefLabel xml:lang="fr">Animation d'activités culturelles ou ludiques</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1202">
+<skos:prefLabel xml:lang="fr">Animation d'activités culturelles ou ludiques</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1202">
+<skos:prefLabel xml:lang="fr">Animation d'activités culturelles ou ludiques</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1203">
+<skos:prefLabel xml:lang="fr">Animation de loisirs auprès d'enfants ou d'adolescents</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1203">
+<skos:prefLabel xml:lang="fr">Animation de loisirs auprès d'enfants ou d'adolescents</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1203">
+<skos:prefLabel xml:lang="fr">Animation de loisirs auprès d'enfants ou d'adolescents</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1204">
+<skos:prefLabel xml:lang="fr">Éducation en activités sportives</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1204">
+<skos:prefLabel xml:lang="fr">Éducation en activités sportives</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1204">
+<skos:prefLabel xml:lang="fr">Éducation en activités sportives</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1204">
+<skos:prefLabel xml:lang="fr">Éducation en activités sportives</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1204">
+<skos:prefLabel xml:lang="fr">Éducation en activités sportives</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1205">
+<skos:prefLabel xml:lang="fr">Personnel d'attractions ou de structures de loisirs</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1205">
+<skos:prefLabel xml:lang="fr">Personnel d'attractions ou de structures de loisirs</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1206">
+<skos:prefLabel xml:lang="fr">Personnel technique des jeux</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1206">
+<skos:prefLabel xml:lang="fr">Personnel technique des jeux</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1403">
+<skos:prefLabel xml:lang="fr">Gestion de structure de loisirs ou d'hébergement touristique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1403">
+<skos:prefLabel xml:lang="fr">Gestion de structure de loisirs ou d'hébergement touristique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1403">
+<skos:prefLabel xml:lang="fr">Gestion de structure de loisirs ou d'hébergement touristique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1501">
+<skos:prefLabel xml:lang="fr">Personnel d'étage</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1501">
+<skos:prefLabel xml:lang="fr">Personnel d'étage</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1602">
+<skos:prefLabel xml:lang="fr">Personnel de cuisine</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1603">
+<skos:prefLabel xml:lang="fr">Personnel polyvalent en restauration</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1603">
+<skos:prefLabel xml:lang="fr">Personnel polyvalent en restauration</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1604">
+<skos:prefLabel xml:lang="fr">Fabrication de crêpes ou pizzas</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1605">
+<skos:prefLabel xml:lang="fr">Plonge en restauration</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1605">
+<skos:prefLabel xml:lang="fr">Plonge en restauration</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1702">
+<skos:prefLabel xml:lang="fr">Personnel du hall</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1702">
+<skos:prefLabel xml:lang="fr">Personnel du hall</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1801">
+<skos:prefLabel xml:lang="fr">Café, bar brasserie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1801">
+<skos:prefLabel xml:lang="fr">Café, bar brasserie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/G1803">
+<skos:prefLabel xml:lang="fr">Service en restauration</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1101">
+<skos:prefLabel xml:lang="fr">Assistance et support technique client</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1101">
+<skos:prefLabel xml:lang="fr">Assistance et support technique client</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1102">
+<skos:prefLabel xml:lang="fr">Management et ingénierie d'affaires</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1102">
+<skos:prefLabel xml:lang="fr">Management et ingénierie d'affaires</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1102">
+<skos:prefLabel xml:lang="fr">Management et ingénierie d'affaires</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1203">
+<skos:prefLabel xml:lang="fr">Conception et dessin produits mécaniques</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1206">
+<skos:prefLabel xml:lang="fr">Management et ingénierie études, recherche et développement industriel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1206">
+<skos:prefLabel xml:lang="fr">Management et ingénierie études, recherche et développement industriel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1206">
+<skos:prefLabel xml:lang="fr">Management et ingénierie études, recherche et développement industriel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1206">
+<skos:prefLabel xml:lang="fr">Management et ingénierie études, recherche et développement industriel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1206">
+<skos:prefLabel xml:lang="fr">Management et ingénierie études, recherche et développement industriel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1206">
+<skos:prefLabel xml:lang="fr">Management et ingénierie études, recherche et développement industriel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1207">
+<skos:prefLabel xml:lang="fr">Rédaction technique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1209">
+<skos:prefLabel xml:lang="fr">Intervention technique en études et développement électronique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1210">
+<skos:prefLabel xml:lang="fr">Intervention technique en études, recherche et développement</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1210">
+<skos:prefLabel xml:lang="fr">Intervention technique en études, recherche et développement</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1301">
+<skos:prefLabel xml:lang="fr">Inspection de conformité</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1302">
+<skos:prefLabel xml:lang="fr">Management et ingénierie Hygiène Sécurité Environnement -HSE- industriels</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1302">
+<skos:prefLabel xml:lang="fr">Management et ingénierie Hygiène Sécurité Environnement -HSE- industriels</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1302">
+<skos:prefLabel xml:lang="fr">Management et ingénierie Hygiène Sécurité Environnement -HSE- industriels</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1302">
+<skos:prefLabel xml:lang="fr">Management et ingénierie Hygiène Sécurité Environnement -HSE- industriels</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1302">
+<skos:prefLabel xml:lang="fr">Management et ingénierie Hygiène Sécurité Environnement -HSE- industriels</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1303">
+<skos:prefLabel xml:lang="fr">Intervention technique en Hygiène Sécurité Environnement -HSE- industriel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1303">
+<skos:prefLabel xml:lang="fr">Intervention technique en Hygiène Sécurité Environnement -HSE- industriel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1303">
+<skos:prefLabel xml:lang="fr">Intervention technique en Hygiène Sécurité Environnement -HSE- industriel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1401">
+<skos:prefLabel xml:lang="fr">Management et ingénierie gestion industrielle et logistique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1401">
+<skos:prefLabel xml:lang="fr">Management et ingénierie gestion industrielle et logistique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1402">
+<skos:prefLabel xml:lang="fr">Management et ingénierie méthodes et industrialisation</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1402">
+<skos:prefLabel xml:lang="fr">Management et ingénierie méthodes et industrialisation</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1403">
+<skos:prefLabel xml:lang="fr">Intervention technique en gestion industrielle et logistique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1404">
+<skos:prefLabel xml:lang="fr">Intervention technique en méthodes et industrialisation</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1501">
+<skos:prefLabel xml:lang="fr">Direction de laboratoire d'analyse industrielle</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1501">
+<skos:prefLabel xml:lang="fr">Direction de laboratoire d'analyse industrielle</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1501">
+<skos:prefLabel xml:lang="fr">Direction de laboratoire d'analyse industrielle</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1502">
+<skos:prefLabel xml:lang="fr">Management et ingénierie qualité industrielle</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1502">
+<skos:prefLabel xml:lang="fr">Management et ingénierie qualité industrielle</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1502">
+<skos:prefLabel xml:lang="fr">Management et ingénierie qualité industrielle</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1503">
+<skos:prefLabel xml:lang="fr">Intervention technique en laboratoire d'analyse industrielle</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1503">
+<skos:prefLabel xml:lang="fr">Intervention technique en laboratoire d'analyse industrielle</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1506">
+<skos:prefLabel xml:lang="fr">Intervention technique qualité en mécanique et travail des métaux</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H1506">
+<skos:prefLabel xml:lang="fr">Intervention technique qualité en mécanique et travail des métaux</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2101">
+<skos:prefLabel xml:lang="fr">Abattage et découpe des viandes</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2206">
+<skos:prefLabel xml:lang="fr">Réalisation de menuiserie bois et tonnellerie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2207">
+<skos:prefLabel xml:lang="fr">Réalisation de meubles en bois</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2208">
+<skos:prefLabel xml:lang="fr">Réalisation d'ouvrages décoratifs en bois</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2502">
+<skos:prefLabel xml:lang="fr">Management et ingénierie de production</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2502">
+<skos:prefLabel xml:lang="fr">Management et ingénierie de production</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2602">
+<skos:prefLabel xml:lang="fr">Câblage électrique et électromécanique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2604">
+<skos:prefLabel xml:lang="fr">Montage de produits électriques et électroniques</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2605">
+<skos:prefLabel xml:lang="fr">Montage et câblage électronique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2701">
+<skos:prefLabel xml:lang="fr">Pilotage d'installation énergétique et pétrochimique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2701">
+<skos:prefLabel xml:lang="fr">Pilotage d'installation énergétique et pétrochimique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2803">
+<skos:prefLabel xml:lang="fr">Façonnage et émaillage en industrie céramique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2901">
+<skos:prefLabel xml:lang="fr">Ajustement et montage de fabrication</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2902">
+<skos:prefLabel xml:lang="fr">Chaudronnerie - tôlerie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2902">
+<skos:prefLabel xml:lang="fr">Chaudronnerie - tôlerie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2902">
+<skos:prefLabel xml:lang="fr">Chaudronnerie - tôlerie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2903">
+<skos:prefLabel xml:lang="fr">Conduite d'équipement d'usinage</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2905">
+<skos:prefLabel xml:lang="fr">Conduite d'équipement de formage et découpage des matériaux</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2905">
+<skos:prefLabel xml:lang="fr">Conduite d'équipement de formage et découpage des matériaux</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2906">
+<skos:prefLabel xml:lang="fr">Conduite d'installation automatisée ou robotisée de fabrication mécanique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2907">
+<skos:prefLabel xml:lang="fr">Conduite d'installation de production des métaux</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2909">
+<skos:prefLabel xml:lang="fr">Montage-assemblage mécanique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2911">
+<skos:prefLabel xml:lang="fr">Réalisation de structures métalliques</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2913">
+<skos:prefLabel xml:lang="fr">Soudage manuel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2913">
+<skos:prefLabel xml:lang="fr">Soudage manuel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2914">
+<skos:prefLabel xml:lang="fr">Réalisation et montage en tuyauterie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H2914">
+<skos:prefLabel xml:lang="fr">Réalisation et montage en tuyauterie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H3203">
+<skos:prefLabel xml:lang="fr">Fabrication de pièces en matériaux composites</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H3203">
+<skos:prefLabel xml:lang="fr">Fabrication de pièces en matériaux composites</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H3302">
+<skos:prefLabel xml:lang="fr">Opérations manuelles d'assemblage, tri ou emballage</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H3303">
+<skos:prefLabel xml:lang="fr">Préparation de matières et produits industriels (broyage, mélange, ...)</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H3402">
+<skos:prefLabel xml:lang="fr">Conduite de traitement par dépôt de surface</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H3402">
+<skos:prefLabel xml:lang="fr">Conduite de traitement par dépôt de surface</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H3404">
+<skos:prefLabel xml:lang="fr">Peinture industrielle</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/H3404">
+<skos:prefLabel xml:lang="fr">Peinture industrielle</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1101">
+<skos:prefLabel xml:lang="fr">Direction et ingénierie en entretien infrastructure et bâti</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1101">
+<skos:prefLabel xml:lang="fr">Direction et ingénierie en entretien infrastructure et bâti</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1101">
+<skos:prefLabel xml:lang="fr">Direction et ingénierie en entretien infrastructure et bâti</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1102">
+<skos:prefLabel xml:lang="fr">Management et ingénierie de maintenance industrielle</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1102">
+<skos:prefLabel xml:lang="fr">Management et ingénierie de maintenance industrielle</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1201">
+<skos:prefLabel xml:lang="fr">Entretien d'affichage et mobilier urbain</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1202">
+<skos:prefLabel xml:lang="fr">Entretien et surveillance du tracé routier</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1203">
+<skos:prefLabel xml:lang="fr">Maintenance des bâtiments et des locaux</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1302">
+<skos:prefLabel xml:lang="fr">Installation et maintenance d'automatismes</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1302">
+<skos:prefLabel xml:lang="fr">Installation et maintenance d'automatismes</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1304">
+<skos:prefLabel xml:lang="fr">Installation et maintenance d'équipements industriels et d'exploitation</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1304">
+<skos:prefLabel xml:lang="fr">Installation et maintenance d'équipements industriels et d'exploitation</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1305">
+<skos:prefLabel xml:lang="fr">Installation et maintenance électronique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1305">
+<skos:prefLabel xml:lang="fr">Installation et maintenance électronique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1305">
+<skos:prefLabel xml:lang="fr">Installation et maintenance électronique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1306">
+<skos:prefLabel xml:lang="fr">Installation et maintenance en froid, conditionnement d'air</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1308">
+<skos:prefLabel xml:lang="fr">Maintenance d'installation de chauffage</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1309">
+<skos:prefLabel xml:lang="fr">Maintenance électrique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1309">
+<skos:prefLabel xml:lang="fr">Maintenance électrique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1310">
+<skos:prefLabel xml:lang="fr">Maintenance mécanique industrielle</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1310">
+<skos:prefLabel xml:lang="fr">Maintenance mécanique industrielle</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1401">
+<skos:prefLabel xml:lang="fr">Maintenance informatique et bureautique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1501">
+<skos:prefLabel xml:lang="fr">Intervention en grande hauteur</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1501">
+<skos:prefLabel xml:lang="fr">Intervention en grande hauteur</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1502">
+<skos:prefLabel xml:lang="fr">Intervention en milieu subaquatique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1502">
+<skos:prefLabel xml:lang="fr">Intervention en milieu subaquatique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1502">
+<skos:prefLabel xml:lang="fr">Intervention en milieu subaquatique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1503">
+<skos:prefLabel xml:lang="fr">Intervention en milieux et produits nocifs</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1503">
+<skos:prefLabel xml:lang="fr">Intervention en milieux et produits nocifs</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1503">
+<skos:prefLabel xml:lang="fr">Intervention en milieux et produits nocifs</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1601">
+<skos:prefLabel xml:lang="fr">Installation et maintenance en nautisme</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1602">
+<skos:prefLabel xml:lang="fr">Maintenance d'aéronefs</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1602">
+<skos:prefLabel xml:lang="fr">Maintenance d'aéronefs</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1604">
+<skos:prefLabel xml:lang="fr">Mécanique automobile et entretien de véhicules</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1605">
+<skos:prefLabel xml:lang="fr">Mécanique de marine</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1605">
+<skos:prefLabel xml:lang="fr">Mécanique de marine</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/I1607">
+<skos:prefLabel xml:lang="fr">Réparation de cycles, motocycles et motoculteurs de loisirs</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1102">
+<skos:prefLabel xml:lang="fr">Médecine généraliste et spécialisée</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1304">
+<skos:prefLabel xml:lang="fr">Aide en puériculture</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1402">
+<skos:prefLabel xml:lang="fr">Diététique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1402">
+<skos:prefLabel xml:lang="fr">Diététique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1403">
+<skos:prefLabel xml:lang="fr">Ergothérapie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1404">
+<skos:prefLabel xml:lang="fr">Kinésithérapie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1404">
+<skos:prefLabel xml:lang="fr">Kinésithérapie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1409">
+<skos:prefLabel xml:lang="fr">Pédicurie et podologie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1412">
+<skos:prefLabel xml:lang="fr">Rééducation en psychomotricité</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1501">
+<skos:prefLabel xml:lang="fr">Soins d'hygiène, de confort du patient</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1506">
+<skos:prefLabel xml:lang="fr">Soins infirmiers généralistes</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/J1507">
+<skos:prefLabel xml:lang="fr">Soins infirmiers spécialisés en puériculture</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1101">
+<skos:prefLabel xml:lang="fr">Accompagnement et médiation familiale</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1103">
+<skos:prefLabel xml:lang="fr">Développement personnel et bien-être de la personne</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1201">
+<skos:prefLabel xml:lang="fr">Action sociale</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1202">
+<skos:prefLabel xml:lang="fr">Éducation de jeunes enfants</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1205">
+<skos:prefLabel xml:lang="fr">Information sociale</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1206">
+<skos:prefLabel xml:lang="fr">Intervention socioculturelle</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1207">
+<skos:prefLabel xml:lang="fr">Intervention socioéducative</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1301">
+<skos:prefLabel xml:lang="fr">Accompagnement médicosocial</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1302">
+<skos:prefLabel xml:lang="fr">Assistance auprès d'adultes</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1302">
+<skos:prefLabel xml:lang="fr">Assistance auprès d'adultes</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1302">
+<skos:prefLabel xml:lang="fr">Assistance auprès d'adultes</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1303">
+<skos:prefLabel xml:lang="fr">Assistance auprès d'enfants</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1303">
+<skos:prefLabel xml:lang="fr">Assistance auprès d'enfants</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1303">
+<skos:prefLabel xml:lang="fr">Assistance auprès d'enfants</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1303">
+<skos:prefLabel xml:lang="fr">Assistance auprès d'enfants</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1304">
+<skos:prefLabel xml:lang="fr">Services domestiques</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1304">
+<skos:prefLabel xml:lang="fr">Services domestiques</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1305">
+<skos:prefLabel xml:lang="fr">Intervention sociale et familiale</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1401">
+<skos:prefLabel xml:lang="fr">Conception et pilotage de la politique des pouvoirs publics</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1404">
+<skos:prefLabel xml:lang="fr">Mise en oeuvre et pilotage de la politique des pouvoirs publics</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1405">
+<skos:prefLabel xml:lang="fr">Représentation de l'État sur le territoire national ou international</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1601">
+<skos:prefLabel xml:lang="fr">Gestion de l'information et de la documentation</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1601">
+<skos:prefLabel xml:lang="fr">Gestion de l'information et de la documentation</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1601">
+<skos:prefLabel xml:lang="fr">Gestion de l'information et de la documentation</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1601">
+<skos:prefLabel xml:lang="fr">Gestion de l'information et de la documentation</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1602">
+<skos:prefLabel xml:lang="fr">Gestion de patrimoine culturel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1602">
+<skos:prefLabel xml:lang="fr">Gestion de patrimoine culturel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1701">
+<skos:prefLabel xml:lang="fr">Personnel de la Défense</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1701">
+<skos:prefLabel xml:lang="fr">Personnel de la Défense</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1701">
+<skos:prefLabel xml:lang="fr">Personnel de la Défense</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1702">
+<skos:prefLabel xml:lang="fr">Direction de la sécurité civile et des secours</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1702">
+<skos:prefLabel xml:lang="fr">Direction de la sécurité civile et des secours</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1702">
+<skos:prefLabel xml:lang="fr">Direction de la sécurité civile et des secours</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1702">
+<skos:prefLabel xml:lang="fr">Direction de la sécurité civile et des secours</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1702">
+<skos:prefLabel xml:lang="fr">Direction de la sécurité civile et des secours</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1703">
+<skos:prefLabel xml:lang="fr">Direction opérationnelle de la défense</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1704">
+<skos:prefLabel xml:lang="fr">Management de la sécurité publique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1704">
+<skos:prefLabel xml:lang="fr">Management de la sécurité publique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1704">
+<skos:prefLabel xml:lang="fr">Management de la sécurité publique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1704">
+<skos:prefLabel xml:lang="fr">Management de la sécurité publique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1705">
+<skos:prefLabel xml:lang="fr">Sécurité civile et secours</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1705">
+<skos:prefLabel xml:lang="fr">Sécurité civile et secours</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1705">
+<skos:prefLabel xml:lang="fr">Sécurité civile et secours</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1705">
+<skos:prefLabel xml:lang="fr">Sécurité civile et secours</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1705">
+<skos:prefLabel xml:lang="fr">Sécurité civile et secours</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1705">
+<skos:prefLabel xml:lang="fr">Sécurité civile et secours</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1706">
+<skos:prefLabel xml:lang="fr">Sécurité publique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1706">
+<skos:prefLabel xml:lang="fr">Sécurité publique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1706">
+<skos:prefLabel xml:lang="fr">Sécurité publique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1707">
+<skos:prefLabel xml:lang="fr">Surveillance municipale</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1802">
+<skos:prefLabel xml:lang="fr">Développement local</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1802">
+<skos:prefLabel xml:lang="fr">Développement local</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1903">
+<skos:prefLabel xml:lang="fr">Défense et conseil juridique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1903">
+<skos:prefLabel xml:lang="fr">Défense et conseil juridique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K1903">
+<skos:prefLabel xml:lang="fr">Défense et conseil juridique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2104">
+<skos:prefLabel xml:lang="fr">Éducation et surveillance au sein d'établissements d'enseignement</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2105">
+<skos:prefLabel xml:lang="fr">Enseignement artistique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2106">
+<skos:prefLabel xml:lang="fr">Enseignement des écoles</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2106">
+<skos:prefLabel xml:lang="fr">Enseignement des écoles</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2106">
+<skos:prefLabel xml:lang="fr">Enseignement des écoles</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2107">
+<skos:prefLabel xml:lang="fr">Enseignement général du second degré</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2107">
+<skos:prefLabel xml:lang="fr">Enseignement général du second degré</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2108">
+<skos:prefLabel xml:lang="fr">Enseignement supérieur</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2108">
+<skos:prefLabel xml:lang="fr">Enseignement supérieur</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2201">
+<skos:prefLabel xml:lang="fr">Blanchisserie industrielle</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2202">
+<skos:prefLabel xml:lang="fr">Lavage de vitres</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2204">
+<skos:prefLabel xml:lang="fr">Nettoyage de locaux</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2301">
+<skos:prefLabel xml:lang="fr">Distribution et assainissement d'eau</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2301">
+<skos:prefLabel xml:lang="fr">Distribution et assainissement d'eau</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2302">
+<skos:prefLabel xml:lang="fr">Management et inspection en environnement urbain</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2302">
+<skos:prefLabel xml:lang="fr">Management et inspection en environnement urbain</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2303">
+<skos:prefLabel xml:lang="fr">Nettoyage des espaces urbains</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2303">
+<skos:prefLabel xml:lang="fr">Nettoyage des espaces urbains</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2304">
+<skos:prefLabel xml:lang="fr">Revalorisation de produits industriels</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2304">
+<skos:prefLabel xml:lang="fr">Revalorisation de produits industriels</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2305">
+<skos:prefLabel xml:lang="fr">Salubrité et traitement de nuisibles</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2306">
+<skos:prefLabel xml:lang="fr">Supervision d'exploitation éco-industrielle</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2401">
+<skos:prefLabel xml:lang="fr">Recherche en sciences de l'homme et de la société</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2401">
+<skos:prefLabel xml:lang="fr">Recherche en sciences de l'homme et de la société</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2402">
+<skos:prefLabel xml:lang="fr">Recherche en sciences de l'univers, de la matière et du vivant</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2402">
+<skos:prefLabel xml:lang="fr">Recherche en sciences de l'univers, de la matière et du vivant</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2402">
+<skos:prefLabel xml:lang="fr">Recherche en sciences de l'univers, de la matière et du vivant</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2402">
+<skos:prefLabel xml:lang="fr">Recherche en sciences de l'univers, de la matière et du vivant</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2402">
+<skos:prefLabel xml:lang="fr">Recherche en sciences de l'univers, de la matière et du vivant</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2501">
+<skos:prefLabel xml:lang="fr">Gardiennage de locaux</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2501">
+<skos:prefLabel xml:lang="fr">Gardiennage de locaux</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2501">
+<skos:prefLabel xml:lang="fr">Gardiennage de locaux</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2502">
+<skos:prefLabel xml:lang="fr">Management de sécurité privée</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2502">
+<skos:prefLabel xml:lang="fr">Management de sécurité privée</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2503">
+<skos:prefLabel xml:lang="fr">Sécurité et surveillance privées</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2503">
+<skos:prefLabel xml:lang="fr">Sécurité et surveillance privées</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2503">
+<skos:prefLabel xml:lang="fr">Sécurité et surveillance privées</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2602">
+<skos:prefLabel xml:lang="fr">Conseil en services funéraires</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/K2603">
+<skos:prefLabel xml:lang="fr">Thanatopraxie</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/L1101">
+<skos:prefLabel xml:lang="fr">Animation musicale et scénique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/L1201">
+<skos:prefLabel xml:lang="fr">Danse</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/L1203">
+<skos:prefLabel xml:lang="fr">Art dramatique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/L1204">
+<skos:prefLabel xml:lang="fr">Arts du cirque et arts visuels</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/L1204">
+<skos:prefLabel xml:lang="fr">Arts du cirque et arts visuels</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/L1303">
+<skos:prefLabel xml:lang="fr">Promotion d'artistes et de spectacles</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/L1401">
+<skos:prefLabel xml:lang="fr">Sportif professionnel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/L1401">
+<skos:prefLabel xml:lang="fr">Sportif professionnel</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/L1510">
+<skos:prefLabel xml:lang="fr">Films d'animation et effets spéciaux</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1101">
+<skos:prefLabel xml:lang="fr">Achats</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1101">
+<skos:prefLabel xml:lang="fr">Achats</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1102">
+<skos:prefLabel xml:lang="fr">Direction des achats</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1201">
+<skos:prefLabel xml:lang="fr">Analyse et ingénierie financière</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1201">
+<skos:prefLabel xml:lang="fr">Analyse et ingénierie financière</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1204">
+<skos:prefLabel xml:lang="fr">Contrôle de gestion</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1205">
+<skos:prefLabel xml:lang="fr">Direction administrative et financière</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1207">
+<skos:prefLabel xml:lang="fr">Trésorerie et financement</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1301">
+<skos:prefLabel xml:lang="fr">Direction de grande entreprise ou d'établissement public</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1302">
+<skos:prefLabel xml:lang="fr">Direction de petite ou moyenne entreprise</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1401">
+<skos:prefLabel xml:lang="fr">Conduite d'enquêtes</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1402">
+<skos:prefLabel xml:lang="fr">Conseil en organisation et management d'entreprise</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1402">
+<skos:prefLabel xml:lang="fr">Conseil en organisation et management d'entreprise</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1403">
+<skos:prefLabel xml:lang="fr">Études et prospectives socio-économiques</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1403">
+<skos:prefLabel xml:lang="fr">Études et prospectives socio-économiques</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1503">
+<skos:prefLabel xml:lang="fr">Management des ressources humaines</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1601">
+<skos:prefLabel xml:lang="fr">Accueil et renseignements</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1601">
+<skos:prefLabel xml:lang="fr">Accueil et renseignements</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1602">
+<skos:prefLabel xml:lang="fr">Opérations administratives</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1603">
+<skos:prefLabel xml:lang="fr">Distribution de documents</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1606">
+<skos:prefLabel xml:lang="fr">Saisie de données</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1607">
+<skos:prefLabel xml:lang="fr">Secrétariat</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1703">
+<skos:prefLabel xml:lang="fr">Management et gestion de produit</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1703">
+<skos:prefLabel xml:lang="fr">Management et gestion de produit</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1705">
+<skos:prefLabel xml:lang="fr">Marketing</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1705">
+<skos:prefLabel xml:lang="fr">Marketing</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1705">
+<skos:prefLabel xml:lang="fr">Marketing</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1705">
+<skos:prefLabel xml:lang="fr">Marketing</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1706">
+<skos:prefLabel xml:lang="fr">Promotion des ventes</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1707">
+<skos:prefLabel xml:lang="fr">Stratégie commerciale</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1801">
+<skos:prefLabel xml:lang="fr">Administration de systèmes d'information</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1801">
+<skos:prefLabel xml:lang="fr">Administration de systèmes d'information</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1802">
+<skos:prefLabel xml:lang="fr">Expertise et support en systèmes d'information</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1802">
+<skos:prefLabel xml:lang="fr">Expertise et support en systèmes d'information</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1802">
+<skos:prefLabel xml:lang="fr">Expertise et support en systèmes d'information</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1803">
+<skos:prefLabel xml:lang="fr">Direction des systèmes d'information</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1804">
+<skos:prefLabel xml:lang="fr">Études et développement de réseaux de télécoms</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1804">
+<skos:prefLabel xml:lang="fr">Études et développement de réseaux de télécoms</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1805">
+<skos:prefLabel xml:lang="fr">Études et développement informatique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1805">
+<skos:prefLabel xml:lang="fr">Études et développement informatique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1805">
+<skos:prefLabel xml:lang="fr">Études et développement informatique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1805">
+<skos:prefLabel xml:lang="fr">Études et développement informatique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1806">
+<skos:prefLabel xml:lang="fr">Conseil et maîtrise d'ouvrage en systèmes d'information</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1806">
+<skos:prefLabel xml:lang="fr">Conseil et maîtrise d'ouvrage en systèmes d'information</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1806">
+<skos:prefLabel xml:lang="fr">Conseil et maîtrise d'ouvrage en systèmes d'information</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1807">
+<skos:prefLabel xml:lang="fr">Exploitation de systèmes de communication et de commandement</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1807">
+<skos:prefLabel xml:lang="fr">Exploitation de systèmes de communication et de commandement</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1808">
+<skos:prefLabel xml:lang="fr">Information géographique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1808">
+<skos:prefLabel xml:lang="fr">Information géographique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1808">
+<skos:prefLabel xml:lang="fr">Information géographique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1808">
+<skos:prefLabel xml:lang="fr">Information géographique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1808">
+<skos:prefLabel xml:lang="fr">Information géographique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1809">
+<skos:prefLabel xml:lang="fr">Information météorologique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1809">
+<skos:prefLabel xml:lang="fr">Information météorologique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1809">
+<skos:prefLabel xml:lang="fr">Information météorologique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1809">
+<skos:prefLabel xml:lang="fr">Information météorologique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1809">
+<skos:prefLabel xml:lang="fr">Information météorologique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1810">
+<skos:prefLabel xml:lang="fr">Production et exploitation de systèmes d'information</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/M1810">
+<skos:prefLabel xml:lang="fr">Production et exploitation de systèmes d'information</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N1101">
+<skos:prefLabel xml:lang="fr">Conduite d'engins de déplacement des charges</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N1102">
+<skos:prefLabel xml:lang="fr">Déménagement</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N1103">
+<skos:prefLabel xml:lang="fr">Magasinage et préparation de commandes</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N1103">
+<skos:prefLabel xml:lang="fr">Magasinage et préparation de commandes</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N1104">
+<skos:prefLabel xml:lang="fr">Manoeuvre et conduite d'engins lourds de manutention</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N1105">
+<skos:prefLabel xml:lang="fr">Manutention manuelle de charges</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N1201">
+<skos:prefLabel xml:lang="fr">Affrètement transport</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N1202">
+<skos:prefLabel xml:lang="fr">Gestion des opérations de circulation internationale des marchandises</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N1301">
+<skos:prefLabel xml:lang="fr">Conception et organisation de la chaîne logistique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N1301">
+<skos:prefLabel xml:lang="fr">Conception et organisation de la chaîne logistique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N1302">
+<skos:prefLabel xml:lang="fr">Direction de site logistique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N1303">
+<skos:prefLabel xml:lang="fr">Intervention technique d'exploitation logistique</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N2101">
+<skos:prefLabel xml:lang="fr">Navigation commerciale aérienne</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N2102">
+<skos:prefLabel xml:lang="fr">Pilotage et navigation technique aérienne</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N2102">
+<skos:prefLabel xml:lang="fr">Pilotage et navigation technique aérienne</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N2102">
+<skos:prefLabel xml:lang="fr">Pilotage et navigation technique aérienne</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N2201">
+<skos:prefLabel xml:lang="fr">Personnel d'escale aéroportuaire</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N2202">
+<skos:prefLabel xml:lang="fr">Contrôle de la navigation aérienne</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N2202">
+<skos:prefLabel xml:lang="fr">Contrôle de la navigation aérienne</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N2203">
+<skos:prefLabel xml:lang="fr">Exploitation des pistes aéroportuaires</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N2203">
+<skos:prefLabel xml:lang="fr">Exploitation des pistes aéroportuaires</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N2203">
+<skos:prefLabel xml:lang="fr">Exploitation des pistes aéroportuaires</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N2204">
+<skos:prefLabel xml:lang="fr">Préparation des vols</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N2205">
+<skos:prefLabel xml:lang="fr">Direction d'escale et exploitation aéroportuaire</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N3101">
+<skos:prefLabel xml:lang="fr">Encadrement de la navigation maritime</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N3101">
+<skos:prefLabel xml:lang="fr">Encadrement de la navigation maritime</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N3101">
+<skos:prefLabel xml:lang="fr">Encadrement de la navigation maritime</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N3102">
+<skos:prefLabel xml:lang="fr">Équipage de la navigation maritime</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N3102">
+<skos:prefLabel xml:lang="fr">Équipage de la navigation maritime</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N3103">
+<skos:prefLabel xml:lang="fr">Navigation fluviale</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N3201">
+<skos:prefLabel xml:lang="fr">Exploitation des opérations portuaires et du transport maritime</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N3202">
+<skos:prefLabel xml:lang="fr">Exploitation du transport fluvial</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N3203">
+<skos:prefLabel xml:lang="fr">Manutention portuaire</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N3203">
+<skos:prefLabel xml:lang="fr">Manutention portuaire</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N4101">
+<skos:prefLabel xml:lang="fr">Conduite de transport de marchandises sur longue distance</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N4101">
+<skos:prefLabel xml:lang="fr">Conduite de transport de marchandises sur longue distance</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N4101">
+<skos:prefLabel xml:lang="fr">Conduite de transport de marchandises sur longue distance</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N4102">
+<skos:prefLabel xml:lang="fr">Conduite de transport de particuliers</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N4102">
+<skos:prefLabel xml:lang="fr">Conduite de transport de particuliers</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N4102">
+<skos:prefLabel xml:lang="fr">Conduite de transport de particuliers</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N4103">
+<skos:prefLabel xml:lang="fr">Conduite de transport en commun sur route</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N4104">
+<skos:prefLabel xml:lang="fr">Courses et livraisons express</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N4104">
+<skos:prefLabel xml:lang="fr">Courses et livraisons express</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N4105">
+<skos:prefLabel xml:lang="fr">Conduite et livraison par tournées sur courte distance</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N4105">
+<skos:prefLabel xml:lang="fr">Conduite et livraison par tournées sur courte distance</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/N4402">
+<skos:prefLabel xml:lang="fr">Exploitation et manoeuvre des remontées mécaniques</skos:prefLabel>
+</skos:Concept>
+</rdf:RDF>
