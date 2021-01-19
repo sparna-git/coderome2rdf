@@ -8,10 +8,11 @@
 	xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#"
 	xmlns:isothes="http://purl.org/iso25964/skos-thes#"
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:rome="http://data.sparna.fr/ontologies/rome#"
 	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
 
 <!-- Attention : même URI que dans le fichier d'arborescence -->
-<rdf:Description rdf:about="http://vocabs.sparna.fr/rome/A1101">
+<rdf:Description rdf:about="http://vocabs.sparna.fr/rome/metiers/A1101">
 	<skos:altLabel xml:lang="fr">Chauffeur / Chauffeuse de machines agricoles</skos:altLabel>
 	<skos:altLabel xml:lang="fr">Conducteur / Conductrice d'abatteuses</skos:altLabel>
 	<skos:altLabel xml:lang="fr">Conducteur / Conductrice d'automoteur de récolte</skos:altLabel>
@@ -26,44 +27,44 @@ Elle varie selon le secteur (agricole, forestier), le type d'équipement et le d
 L'activité peut impliquer la manipulation de charges. 
 Le port d'Equipements de Protection Individuelle -EPI- (casque anti-bruit, lunettes, pantalon de sécurité, ...) peut être exigé.
 Cet emploi/métier peut s'exercer en horaires fractionnés, en soirée, les fins de semaines, jours fériés et être soumis à des pics d'activité.</rome:conditions>
-	<rome:mobiliteProche rdf:resource="http://vocabs.sparna.fr/rome/A1416" />
-	<rome:mobiliteEvolution rdf:resource="http://vocabs.sparna.fr/rome/A1201" />
-	<rome:mobiliteEvolution rdf:resource="http://vocabs.sparna.fr/rome/A1202" />
-	<rome:mobiliteEvolution rdf:resource="http://vocabs.sparna.fr/rome/A1203" />
+	<rome:mobiliteProche rdf:resource="http://vocabs.sparna.fr/rome/metiers/A1416" />
+	<rome:mobiliteEvolution rdf:resource="http://vocabs.sparna.fr/rome/metiers/A1201" />
+	<rome:mobiliteEvolution rdf:resource="http://vocabs.sparna.fr/rome/metiers/A1202" />
+	<rome:mobiliteEvolution rdf:resource="http://vocabs.sparna.fr/rome/metiers/A1203" />
 	<rome:activitesDeBase>
 		<rome:MobilisationCompetenceActivite>
-			<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activite_125978" />
-			<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activite_1227048" />
-			<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competence_116765" />
-			<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competence_116766" />
+			<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/125978" />
+			<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/1227048" />
+			<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/116765" />
+			<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/116766" />
 		</rome:MobilisationCompetenceActivite>
 	</rome:activitesDeBase>
 	<rome:activite>
 		<rome:MobilisationCompetenceActivite>
-			<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activite_120405" />
-			<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competence_200039" />
-			<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competence_200040" />
-			<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competence_200041" />
+			<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/120405" />
+			<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/200039" />
+			<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/200040" />
+			<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/200041" />
 		</rome:MobilisationCompetenceActivite>
 	</rome:activite>
 	<rome:activite>
 		<rome:MobilisationCompetenceActivite>
-			<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activite_117548" />
-			<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activite_117489" />
-			<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activite_117492" />
-			<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competence_100019" />
-			<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competence_100018" />
+			<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/117548" />
+			<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/117489" />
+			<rome:activite rdf:resource="http://vocabs.sparna.fr/rome/activites/117492" />
+			<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/100019" />
+			<rome:competence rdf:resource="http://vocabs.sparna.fr/rome/competences/100018" />
 		</rome:MobilisationCompetenceActivite>
 	</rome:activite>
 </rdf:Description>
 
 <!-- Attention : même URI que dans le fichier d'arborescence -->
-<rdf:Description rdf:about="http://vocabs.sparna.fr/rome/A1201">
+<rdf:Description rdf:about="http://vocabs.sparna.fr/rome/metiers/A1201">
 	
 </rdf:Description>
 
 <!-- Attention : même URI que dans le fichier d'arborescence -->
-<rdf:Description rdf:about="http://vocabs.sparna.fr/rome/A1202">
+<rdf:Description rdf:about="http://vocabs.sparna.fr/rome/metiers/A1202">
 	
 </rdf:Description>
 
