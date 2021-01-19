@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<ogr>
+  <item_referentiel_competence>
+    <code_ogr>100007</code_ogr>
+    <libelle_competence>SAVOIRS THEORIQUES ET PROCEDURAUX</libelle_competence>
+    <libelle>Techniques de soudage</libelle>
+    <statut1>1</statut1>
+  </item_referentiel_competence>
+  <item_referentiel_competence>
+    <code_ogr>100010</code_ogr>
+    <libelle_competence>SAVOIRS THEORIQUES ET PROCEDURAUX</libelle_competence>
+    <libelle>Utilisation d'engins forestiers</libelle>
+    <statut1>1</statut1>
+  </item_referentiel_competence>
+  <item_referentiel_competence>
+    <code_ogr>200122</code_ogr>
+    <libelle_competence>SAVOIRS THEORIQUES ET PROCEDURAUX</libelle_competence>
+    <libelle>Interopérabilité des produits et des systèmes</libelle>
+    <statut1>1</statut1>
+  </item_referentiel_competence>
+</ogr>

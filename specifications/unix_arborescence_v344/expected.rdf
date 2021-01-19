@@ -8,68 +8,69 @@
 	xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#"
 	xmlns:isothes="http://purl.org/iso25964/skos-thes#"
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:rome="http://data.sparna.fr/ontologies/rome#"
 	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
 
 <!-- Inséré en dur en entête -->
-<skos:ConceptScheme rdf:about="http://vocabs.sparna.fr/rome">
-	<skos:prefLabel xml:lang="fr">Code ROME</skos:prefLabel>
+<skos:ConceptScheme rdf:about="http://vocabs.sparna.fr/rome/metiers">
+	<skos:prefLabel xml:lang="fr">Code ROME - Fiches Métiers</skos:prefLabel>
 	<!-- reference vers toutes les fichiers (codes Lettre-Chiffre-Chiffre-Chiffre-Chiffre), pas les premiers niveaux. Tout ce qui est déclaré skos:Concept, pas les skos:Collection -->
-	<skos:hasTopConcept rdf:resource="http://vocabs.sparna.fr/rome/A1101" />
-	<skos:hasTopConcept rdf:resource="http://vocabs.sparna.fr/rome/A1201" />
-	<skos:hasTopConcept rdf:resource="http://vocabs.sparna.fr/rome/A1202" />
+	<skos:hasTopConcept rdf:resource="http://vocabs.sparna.fr/rome/metiers/A1101" />
+	<skos:hasTopConcept rdf:resource="http://vocabs.sparna.fr/rome/metiers/A1201" />
+	<skos:hasTopConcept rdf:resource="http://vocabs.sparna.fr/rome/metiers/A1202" />
 </skos:ConceptScheme>
 
 <!-- Catégorie "A" devient une skos:Collection -->
-<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/A">
-	<skos:inScheme rdf:resource="http://vocabs.sparna.fr/rome"/>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/metiers/A">
+	<skos:inScheme rdf:resource="http://vocabs.sparna.fr/rome/metiers"/>
 	<skos:notation>A</skos:notation>
 	<skos:prefLabel xml:lang="fr">Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux</skos:prefLabel>
 	<dcterms:identifier>21160</dcterms:identifier>
 	<!-- la référence vers tous les sous-niveaux -->
-	<skos:member rdf:resource="http://vocabs.sparna.fr/rome/A11" />
+	<skos:member rdf:resource="http://vocabs.sparna.fr/rome/metiers/A11" />
 </skos:Collection>
 
 <!-- Catégorie "A11" devient une skos:Collection -->
-<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/A11">
-	<skos:inScheme rdf:resource="http://vocabs.sparna.fr/rome"/>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/metiers/A11">
+	<skos:inScheme rdf:resource="http://vocabs.sparna.fr/rome/metiers"/>
 	<skos:notation>A11</skos:notation>
 	<skos:prefLabel xml:lang="fr">Engins agricoles et forestiers</skos:prefLabel>
 	<dcterms:identifier>21161</dcterms:identifier>
 	<!-- la référence vers tous les sous-niveaux -->
-	<skos:member rdf:resource="http://vocabs.sparna.fr/rome/A1101" />
+	<skos:member rdf:resource="http://vocabs.sparna.fr/rome/metiers/A1101" />
 </skos:Collection>
 
 <!-- Catégorie "A12" devient une skos:Collection -->
-<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/A12">
-	<skos:inScheme rdf:resource="http://vocabs.sparna.fr/rome"/>
+<skos:Collection rdf:about="http://vocabs.sparna.fr/rome/metiers/A12">
+	<skos:inScheme rdf:resource="http://vocabs.sparna.fr/rome/metiers"/>
 	<skos:notation>A12</skos:notation>
 	<skos:prefLabel xml:lang="fr">Espaces naturels et espaces verts</skos:prefLabel>
 	<dcterms:identifier>21162</dcterms:identifier>
 	<!-- la référence vers tous les sous-niveaux -->
-	<skos:member rdf:resource="http://vocabs.sparna.fr/rome/A1201" />
-	<skos:member rdf:resource="http://vocabs.sparna.fr/rome/A1202" />
+	<skos:member rdf:resource="http://vocabs.sparna.fr/rome/metiers/A1201" />
+	<skos:member rdf:resource="http://vocabs.sparna.fr/rome/metiers/A1202" />
 </skos:Collection>
 
 <!-- Fiche "A1101" devient un skos:Concept -->
-<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1101">
-	<rdf:type rdf:resource="http://data.sparna.fr/ontologies/rome/FicheEmploiMetier" />
-	<skos:inScheme rdf:resource="http://vocabs.sparna.fr/rome"/>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/metiers/A1101">
+	<rdf:type rdf:resource="http://data.sparna.fr/ontologies/rome#FicheEmploiMetier" />
+	<skos:inScheme rdf:resource="http://vocabs.sparna.fr/rome/metiers"/>
 	<skos:notation>A1101</skos:notation>
 	<skos:prefLabel xml:lang="fr">Conduite d'engins agricoles et forestiers</skos:prefLabel>
 	<dcterms:identifier>21166</dcterms:identifier>
 </skos:Concept>
 
-<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1201">
-	<rdf:type rdf:resource="http://data.sparna.fr/ontologies/rome/FicheEmploiMetier" />
-	<skos:inScheme rdf:resource="http://vocabs.sparna.fr/rome"/>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/metiers/A1201">
+	<rdf:type rdf:resource="http://data.sparna.fr/ontologies/rome#FicheEmploiMetier" />
+	<skos:inScheme rdf:resource="http://vocabs.sparna.fr/rome/metiers"/>
 	<skos:notation>A1201</skos:notation>
 	<skos:prefLabel xml:lang="fr">Bûcheronnage et élagage</skos:prefLabel>
 	<dcterms:identifier>21167</dcterms:identifier>
 </skos:Concept>
 
-<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/A1202">
-	<rdf:type rdf:resource="http://data.sparna.fr/ontologies/rome/FicheEmploiMetier" />
-	<skos:inScheme rdf:resource="http://vocabs.sparna.fr/rome"/>
+<skos:Concept rdf:about="http://vocabs.sparna.fr/rome/metiers/A1202">
+	<rdf:type rdf:resource="http://data.sparna.fr/ontologies/rome#FicheEmploiMetier" />
+	<skos:inScheme rdf:resource="http://vocabs.sparna.fr/rome/metiers"/>
 	<skos:notation>A1202</skos:notation>
 	<skos:prefLabel xml:lang="fr">Entretien des espaces naturels</skos:prefLabel>
 	<dcterms:identifier>21168</dcterms:identifier>

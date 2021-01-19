@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#"
+	xmlns:isothes="http://purl.org/iso25964/skos-thes#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:rome="http://data.sparna.fr/ontologies/rome#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+<skos:ConceptScheme rdf:about="http://vocabs.sparna.fr/rome/activites">
+	<skos:prefLabel xml:lang="fr">Code ROME - Activités</skos:prefLabel>
+	<skos:hasTopConcept rdf:resource="http://vocabs.sparna.fr/rome/activites/100003" />
+	<skos:hasTopConcept rdf:resource="http://vocabs.sparna.fr/rome/activites/100023" />
+	<skos:hasTopConcept rdf:resource="http://vocabs.sparna.fr/rome/activites/200120" />
+</skos:ConceptScheme>
+
+<rome:Activite rdf:about="http://vocabs.sparna.fr/rome/activites/100003">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+	<skos:inScheme rdf:resource="http://vocabs.sparna.fr/rome/activites" />
+	<skos:prefLabel xml:lang="fr">Conduire les engins agricoles vers le lieu de production (champs, forêt), de stockage, de livraison (fermes, coopératives)</skos:prefLabel>
+</rome:Activite>
+
+<rome:Activite rdf:about="http://vocabs.sparna.fr/rome/activites/100023">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+	<skos:inScheme rdf:resource="http://vocabs.sparna.fr/rome/activites" />
+	<skos:prefLabel xml:lang="fr">Réaliser l'abattage des arbres désignés (positionnement des coins, tronçonnage de la base, ...) selon la trajectoire de chute voulue</skos:prefLabel>
+</rome:Activite>
+
+<rome:Activite rdf:about="http://vocabs.sparna.fr/rome/activites/200120">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+	<skos:inScheme rdf:resource="http://vocabs.sparna.fr/rome/activites" />
+	<skos:prefLabel xml:lang="fr">Conduire une voiture équipée d'un radar mobile selon un parcours prédéfini</skos:prefLabel>
+</rome:Activite>
+
+</skos:Concept>
+
+</rdf:RDF>

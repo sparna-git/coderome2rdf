@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<ogr>
+  <item_referentiel_activite>
+    <code_ogr>100003</code_ogr>
+    <libelle>Conduire les engins agricoles vers le lieu de production (champs, forêt), de stockage, de livraison (fermes, coopératives)</libelle>
+    <statut1>1</statut1>
+    <libelle_activite>ACTIVITE DE BASE ET/OU SPECIFIQUE</libelle_activite>
+    <libelle_application>SIMPLE</libelle_application>
+    <libelle_en_tete_rgpmt/>
+    <libelle_impression/>
+  </item_referentiel_activite>
+  <item_referentiel_activite>
+    <code_ogr>100023</code_ogr>
+    <libelle>Réaliser l'abattage des arbres désignés (positionnement des coins, tronçonnage de la base, ...) selon la trajectoire de chute voulue</libelle>
+    <statut1>1</statut1>
+    <libelle_activite>ACTIVITE DE BASE ET/OU SPECIFIQUE</libelle_activite>
+    <libelle_application>SIMPLE</libelle_application>
+    <libelle_en_tete_rgpmt/>
+    <libelle_impression/>
+  </item_referentiel_activite>
+  <item_referentiel_activite>
+    <code_ogr>200120</code_ogr>
+    <libelle>Conduire une voiture équipée d'un radar mobile selon un parcours prédéfini</libelle>
+    <statut1>1</statut1>
+    <libelle_activite>ACTIVITE DE BASE ET/OU SPECIFIQUE</libelle_activite>
+    <libelle_application>SIMPLE</libelle_application>
+    <libelle_en_tete_rgpmt/>
+    <libelle_impression/>
+  </item_referentiel_activite>
+</ogr>
