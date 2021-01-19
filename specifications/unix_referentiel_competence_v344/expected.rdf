@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#"
+	xmlns:isothes="http://purl.org/iso25964/skos-thes#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:rome="http://data.sparna.fr/ontologies/rome#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+<skos:ConceptScheme rdf:about="http://vocabs.sparna.fr/rome/competences">
+	<skos:prefLabel xml:lang="fr">Code ROME - Compétences</skos:prefLabel>
+	<skos:hasTopConcept rdf:resource="http://vocabs.sparna.fr/rome/competences/100007" />
+	<skos:hasTopConcept rdf:resource="http://vocabs.sparna.fr/rome/competences/100010" />
+	<skos:hasTopConcept rdf:resource="http://vocabs.sparna.fr/rome/competences/200122" />
+</skos:ConceptScheme>
+
+<rome:Competence rdf:about="http://vocabs.sparna.fr/rome/competences/100007">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+	<skos:inScheme rdf:resource="http://vocabs.sparna.fr/rome/competences" />
+	<skos:prefLabel xml:lang="fr">Techniques de soudage</skos:prefLabel>
+</rome:Competence>
+
+<rome:Competence rdf:about="http://vocabs.sparna.fr/rome/competences/100010">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+	<skos:inScheme rdf:resource="http://vocabs.sparna.fr/rome/competences" />
+	<skos:prefLabel xml:lang="fr">Utilisation d'engins forestiers</skos:prefLabel>
+</rome:Competence>
+
+<rome:Competence rdf:about="http://vocabs.sparna.fr/rome/competences/200122">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+	<skos:inScheme rdf:resource="http://vocabs.sparna.fr/rome/competences" />
+	<skos:prefLabel xml:lang="fr">Interopérabilité des produits et des systèmes</skos:prefLabel>
+</rome:Competence>
+
+</skos:Concept>
+
+</rdf:RDF>
