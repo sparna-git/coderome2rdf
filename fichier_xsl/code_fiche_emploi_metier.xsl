@@ -10,7 +10,7 @@
 	xmlns:isothes="http://purl.org/iso25964/skos-thes#"
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
 	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-	xmlns:rome="http://data.sparna.fr">
+	xmlns:rome="http://data.sparna.fr/">
 
 	<!-- - Mettre la racine de l'URI http://vocabs.sparna.fr/rome/ dans une 
 		variable globale en haut de la feuille de style - supprimer les xsl:if redondant 
@@ -34,7 +34,7 @@
 
 	<xsl:template match="fiche_emploi_metier">
 		<rdf:Description
-			rdf:about="{concat($URI,bloc_code_rome/code_rome)}">
+			rdf:about="{concat($URI,'metiers/',bloc_code_rome/code_rome)}">
 			<xsl:apply-templates />
 		</rdf:Description>
 	</xsl:template>
@@ -77,12 +77,12 @@
 
 	<xsl:template match="les_mobilites/proche/mobilite">
 		<rome:mobiliteProche
-			rdf:resource="{concat($URI,substring(code_rome_cible,1,5))}" />
+			rdf:resource="{concat($URI,'metiers/',substring(code_rome_cible,1,5))}" />
 	</xsl:template>
 
 	<xsl:template match="les_mobilites/si_evolution/mobilite">
 		<rome:mobiliteEvolution
-			rdf:resource="{concat($URI,substring(code_rome_cible,1,5))}" />
+			rdf:resource="{concat($URI,'metiers/',substring(code_rome_cible,1,5))}" />
 	</xsl:template>
 
 	<xsl:template match="les_activites_de_base">
@@ -90,14 +90,11 @@
 			<rome:MobilisationCompetenceActivite>
 				<xsl:for-each select="activite_de_base/item">
 					<rome:activite
-						rdf:resource="{concat($URI,'activite_',code_ogr)}" />
+						rdf:resource="{concat($URI,'activites/',code_ogr)}" />
 				</xsl:for-each>
 
 				<xsl:apply-templates
-					select="savoir_theorique_et_proceduraux/item" />
-				<!-- <xsl:for-each select="savoir_theorique_et_proceduraux/item"> <rome:competence 
-					rdf:resource="{concat('http://vocabs.sparna.fr/rome/competence_',code_ogr)}" 
-					/> </xsl:for-each> -->
+					select="savoir_theorique_et_proceduraux/item" />				
 			</rome:MobilisationCompetenceActivite>
 		</rome:activitesDeBase>
 	</xsl:template>
@@ -105,7 +102,7 @@
 
 	<xsl:template match="savoir_theorique_et_proceduraux/item">
 		<rome:competence
-			rdf:resource="{concat($URI,'competence_',code_ogr)}" />
+			rdf:resource="{concat($URI,'competences/',code_ogr)}" />
 	</xsl:template>
 
 	<xsl:template match="les_activites_specifique/bloc">
@@ -113,13 +110,10 @@
 			<rome:MobilisationCompetenceActivite>
 				<xsl:for-each select="activite_specifique/item">
 					<rome:activite
-						rdf:resource="{concat($URI,'activite_',code_ogr)}" />
+						rdf:resource="{concat($URI,'activites/',code_ogr)}" />
 				</xsl:for-each>
 				<xsl:apply-templates
-					select="savoir_theorique_et_proceduraux/item" />
-				<!-- <xsl:for-each select="savoir_theorique_et_proceduraux/item"> <rome:competence 
-					rdf:resource="{concat('http://vocabs.sparna.fr/rome/competence_',code_ogr)}" 
-					/> </xsl:for-each> -->
+					select="savoir_theorique_et_proceduraux/item" />				
 			</rome:MobilisationCompetenceActivite>
 		</rome:activite>
 	</xsl:template>
