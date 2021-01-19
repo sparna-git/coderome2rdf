@@ -12,6 +12,13 @@
 	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 	xmlns:rome="http://data.sparna.fr">
 
+	<!--
+		- Mettre la racine de l'URI http://vocabs.sparna.fr/rome/ dans une variable globale en haut de la feuille de style
+		- supprimer les xsl:if redondant
+		- utiliser xsl:value-of select="."
+	-->
+
+
 	<!-- controls output style -->
 	<xsl:output method="xml" indent="yes" />
 

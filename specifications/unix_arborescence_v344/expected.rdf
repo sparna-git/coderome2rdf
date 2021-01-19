@@ -14,9 +14,9 @@
 <skos:ConceptScheme rdf:about="http://vocabs.sparna.fr/rome">
 	<skos:prefLabel xml:lang="fr">Code ROME</skos:prefLabel>
 	<!-- reference vers toutes les fichiers (codes Lettre-Chiffre-Chiffre-Chiffre-Chiffre), pas les premiers niveaux. Tout ce qui est déclaré skos:Concept, pas les skos:Collection -->
-	<skos:hasTopConept rdf:resource="http://vocabs.sparna.fr/rome/A1101" />
-	<skos:hasTopConept rdf:resource="http://vocabs.sparna.fr/rome/A1201" />
-	<skos:hasTopConept rdf:resource="http://vocabs.sparna.fr/rome/A1202" />
+	<skos:hasTopConcept rdf:resource="http://vocabs.sparna.fr/rome/A1101" />
+	<skos:hasTopConcept rdf:resource="http://vocabs.sparna.fr/rome/A1201" />
+	<skos:hasTopConcept rdf:resource="http://vocabs.sparna.fr/rome/A1202" />
 </skos:ConceptScheme>
 
 <!-- Catégorie "A" devient une skos:Collection -->
@@ -73,8 +73,6 @@
 	<skos:notation>A1202</skos:notation>
 	<skos:prefLabel xml:lang="fr">Entretien des espaces naturels</skos:prefLabel>
 	<dcterms:identifier>21168</dcterms:identifier>
-</skos:Concept>
-
 </skos:Concept>
 
 </rdf:RDF>
