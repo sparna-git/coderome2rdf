@@ -9,8 +9,8 @@
 	xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#"
 	xmlns:isothes="http://purl.org/iso25964/skos-thes#"
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
-	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-	xmlns:rome="http://data.sparna.fr">
+	xmlns:rome="http://data.sparna.fr/ontologies/rome#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
 
 	<!-- controls output style -->
 	<xsl:output method="xml" indent="yes" />
@@ -25,21 +25,34 @@
 
 	<xsl:template match="ogr">
 		<rdf:RDF>
+			<skos:ConceptScheme
+				rdf:about="{concat($URI,'competences')}">
+				<skos:prefLabel xml:lang="fr">
+					<xsl:value-of select="'CODE ROME - Compétences'" />
+				</skos:prefLabel>
+				<xsl:for-each select="item_referentiel_competence">
+					<skos:hasTopConcept
+						rdf:resource="{concat($URI,'competences/',code_ogr)}" />
+				</xsl:for-each>
+			</skos:ConceptScheme>
 			<xsl:apply-templates />
 		</rdf:RDF>
 	</xsl:template>
 
-	<xsl:template match="item_referentiel_code_rome">
-		<skos:Concept rdf:about="{concat($URI,code_rome)}">
-			<xsl:apply-templates />
-		</skos:Concept>
+	<xsl:template match="item_referentiel_competence">
+		<rome:Competence
+			rdf:about="{concat($URI,'competences/',code_ogr)}">
+			<rdf:type
+				rdf:resource="{concat('http://www.w3.org/2004/02/skos/core#','Concept')}" />
+			<skos:inScheme
+				rdf:resource="{concat($URI,'competences')}" />
+			<skos:prefLabel xml:lang="fr">
+				<xsl:value-of select="libelle" />
+			</skos:prefLabel>
+		</rome:Competence>
 	</xsl:template>
 
-	<xsl:template match="libelle">
-		<skos:prefLable>
-			<xsl:value-of select="." />
-		</skos:prefLable>
-	</xsl:template>
+
 
 	<!-- fin de format -->
 	<xsl:template match="text()"></xsl:template>
