@@ -1,0 +1,14 @@
+#
+# Les 100 compétences les plus utilisées dans des métiers
+#
+PREFIX rome: <http://data.sparna.fr/ontologies/rome#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+SELECT ?competence ?nomCompetence (COUNT(?metier) AS ?nombreMetier)
+WHERE {
+    ?competence a rome:Competence .
+    ?competence skos:prefLabel ?nomCompetence .
+    ?competence ^rome:competence/^(rome:composantePrincipale|rome:composante) ?metier .
+}
+GROUP BY ?competence ?nomCompetence
+ORDER BY DESC(?nombreMetier)
+LIMIT 100

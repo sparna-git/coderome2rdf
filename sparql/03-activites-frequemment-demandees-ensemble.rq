@@ -1,0 +1,18 @@
+#
+# Activités fréquemment faites ensemble : si on demande telle activité, alors
+# on est susceptible de demander telle autre
+#
+PREFIX rome: <http://data.sparna.fr/ontologies/rome#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+SELECT ?activite ?nomActivite ?autreActivite ?nomAutreActivite (COUNT(?autreActivite) AS ?nbAutreActivite)
+WHERE {
+    ?activite a rome:Activite .
+    ?activite skos:prefLabel ?nomActivite .
+    ?activite ^rome:activite/^(rome:composantePrincipale|rome:composante) ?metier .
+    ?metier (rome:composantePrincipale|rome:composante)/rome:activite ?autreActivite .
+    FILTER(?autreActivite != ?activite)
+    ?autreActivite skos:prefLabel ?nomAutreActivite .
+}
+GROUP BY ?activite ?nomActivite ?autreActivite ?nomAutreActivite
+ORDER BY ?activite DESC(?nbAutreActivite)
+LIMIT 100

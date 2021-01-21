@@ -79,7 +79,7 @@
 		<skos:Concept
 			rdf:about="{concat($URI,'metiers/',code_noeud)}">
 			<rdf:type
-				rdf:resource="{concat('http://data.sparna.fr/ontologies/rome#','FicheEmploiMetier')}" />
+				rdf:resource="{concat('http://data.sparna.fr/ontologies/rome#','Metier')}" />
 			<skos:inScheme rdf:resource="{concat($URI,'metiers')}" />
 			<xsl:value-of select="parent::code_noeud" />
 			<skos:notation>

@@ -10,7 +10,7 @@
 	xmlns:isothes="http://purl.org/iso25964/skos-thes#"
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
 	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-	xmlns:rome="http://data.sparna.fr/">
+	xmlns:rome="http://data.sparna.fr/ontologies/rome#">
 
 	<!-- - Mettre la racine de l'URI http://vocabs.sparna.fr/rome/ dans une 
 		variable globale en haut de la feuille de style - supprimer les xsl:if redondant 
@@ -26,9 +26,7 @@
 
 	<xsl:template match="ogr">
 		<rdf:RDF>
-			<skos:Concept>
-				<xsl:apply-templates />
-			</skos:Concept>
+			<xsl:apply-templates />
 		</rdf:RDF>
 	</xsl:template>
 
@@ -86,8 +84,14 @@
 	</xsl:template>
 
 	<xsl:template match="les_activites_de_base">
-		<rome:activitesDeBase>
-			<rome:MobilisationCompetenceActivite>
+		<rome:composantePrincipale>
+			<rome:ComposanteMetier rdf:about="{concat(
+				$URI,
+				'metiers/',
+				ancestor::fiche_emploi_metier/bloc_code_rome/code_rome,
+				'/composante/',
+				0
+				)}">
 				<xsl:for-each select="activite_de_base/item">
 					<rome:activite
 						rdf:resource="{concat($URI,'activites/',code_ogr)}" />
@@ -95,8 +99,8 @@
 
 				<xsl:apply-templates
 					select="savoir_theorique_et_proceduraux/item" />				
-			</rome:MobilisationCompetenceActivite>
-		</rome:activitesDeBase>
+			</rome:ComposanteMetier>
+		</rome:composantePrincipale>
 	</xsl:template>
 
 
@@ -106,16 +110,22 @@
 	</xsl:template>
 
 	<xsl:template match="les_activites_specifique/bloc">
-		<rome:activite>
-			<rome:MobilisationCompetenceActivite>
+		<rome:composante>
+			<rome:ComposanteMetier rdf:about="{concat(
+				$URI,
+				'metiers/',
+				ancestor::fiche_emploi_metier/bloc_code_rome/code_rome,
+				'/composante/',
+				normalize-space(position_bloc)
+				)}">
 				<xsl:for-each select="activite_specifique/item">
 					<rome:activite
 						rdf:resource="{concat($URI,'activites/',code_ogr)}" />
 				</xsl:for-each>
 				<xsl:apply-templates
 					select="savoir_theorique_et_proceduraux/item" />				
-			</rome:MobilisationCompetenceActivite>
-		</rome:activite>
+			</rome:ComposanteMetier>
+		</rome:composante>
 	</xsl:template>
 
 
