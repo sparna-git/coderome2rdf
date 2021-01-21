@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#"
+	xmlns:isothes="http://purl.org/iso25964/skos-thes#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:rome="http://data.sparna.fr/ontologies/rome#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+<!-- Conditions -->
+
+<skos:ConceptScheme rdf:about="http://vocabs.sparna.fr/rome/conditions">
+	<skos:prefLabel xml:lang="fr">Code ROME - Conditions</skos:prefLabel>
+	<skos:hasTopConcept rdf:resource="http://vocabs.sparna.fr/rome/conditions/23374" />
+	<skos:hasTopConcept rdf:resource="http://vocabs.sparna.fr/rome/conditions/23376" />
+</skos:ConceptScheme>
+
+<rome:Competence rdf:about="http://vocabs.sparna.fr/rome/conditions/23374">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+	<skos:inScheme rdf:resource="http://vocabs.sparna.fr/rome/conditions" />
+	<skos:prefLabel xml:lang="fr">Au domicile de l'intervenant</skos:prefLabel>
+</rome:Competence>
+
+<rome:Competence rdf:about="http://vocabs.sparna.fr/rome/conditions/23376">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+	<skos:inScheme rdf:resource="http://vocabs.sparna.fr/rome/conditions" />
+	<skos:prefLabel xml:lang="fr">Au pied des installations</skos:prefLabel>
+</rome:Competence>
+
+
+<!-- Secteurs -->
+
+<skos:ConceptScheme rdf:about="http://vocabs.sparna.fr/rome/secteurs">
+	<skos:prefLabel xml:lang="fr">Code ROME - Secteurs</skos:prefLabel>
+	<skos:hasTopConcept rdf:resource="http://vocabs.sparna.fr/rome/secteurs/23386" />
+	<skos:hasTopConcept rdf:resource="http://vocabs.sparna.fr/rome/secteurs/23376" />
+</skos:ConceptScheme>
+
+<rome:Competence rdf:about="http://vocabs.sparna.fr/rome/secteurs/23386">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+	<skos:inScheme rdf:resource="http://vocabs.sparna.fr/rome/secteurs" />
+	<skos:prefLabel xml:lang="fr">Accessoires de mode</skos:prefLabel>
+</rome:Competence>
+
+<rome:Competence rdf:about="http://vocabs.sparna.fr/rome/secteurs/23387">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+	<skos:inScheme rdf:resource="http://vocabs.sparna.fr/rome/secteurs" />
+	<skos:prefLabel xml:lang="fr">Activités maritimes spécialisées (recherche, avitaillement off-shore, ...)</skos:prefLabel>
+</rome:Competence>
+
+<!-- Structures -->
+
+<skos:ConceptScheme rdf:about="http://vocabs.sparna.fr/rome/structures">
+	<skos:prefLabel xml:lang="fr">Code ROME - Structures</skos:prefLabel>
+	<skos:hasTopConcept rdf:resource="http://vocabs.sparna.fr/rome/structures/23685" />
+	<skos:hasTopConcept rdf:resource="http://vocabs.sparna.fr/rome/structures/23686" />
+</skos:ConceptScheme>
+
+<rome:Competence rdf:about="http://vocabs.sparna.fr/rome/structures/23685">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+	<skos:inScheme rdf:resource="http://vocabs.sparna.fr/rome/structures" />
+	<skos:prefLabel xml:lang="fr">Agence de castings</skos:prefLabel>
+</rome:Competence>
+
+<rome:Competence rdf:about="http://vocabs.sparna.fr/rome/structures/23686">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+	<skos:inScheme rdf:resource="http://vocabs.sparna.fr/rome/structures" />
+	<skos:prefLabel xml:lang="fr">Agence de communication</skos:prefLabel>
+</rome:Competence>
+
+
+</skos:Concept>
+
+</rdf:RDF>
