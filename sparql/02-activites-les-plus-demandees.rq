@@ -1,0 +1,14 @@
+#
+# Les 100 activités les plus utilisées dans des métiers
+#
+PREFIX rome: <http://data.sparna.fr/ontologies/rome#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+SELECT ?activite ?nomActivite (COUNT(?activite) AS ?nombreMetier)
+WHERE {
+    ?activite a rome:Activite .
+    ?activite skos:prefLabel ?nomActivite .
+    ?activite ^rome:activite/^(rome:composantePrincipale|rome:composante) ?metier .
+}
+GROUP BY ?activite ?nomActivite
+ORDER BY DESC(?nombreMetier)
+LIMIT 100
