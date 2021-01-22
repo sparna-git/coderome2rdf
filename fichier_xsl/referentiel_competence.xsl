@@ -32,7 +32,7 @@
 				</skos:prefLabel>
 				<xsl:for-each select="item_referentiel_competence">
 					<skos:hasTopConcept
-						rdf:resource="{concat($URI,'competences/',code_ogr)}" />
+						rdf:resource="{concat($URI,'competence-',code_ogr)}" />
 				</xsl:for-each>
 			</skos:ConceptScheme>
 			<xsl:apply-templates />
@@ -41,7 +41,7 @@
 
 	<xsl:template match="item_referentiel_competence">
 		<rome:Competence
-			rdf:about="{concat($URI,'competences/',code_ogr)}">
+			rdf:about="{concat($URI,'competence-',code_ogr)}">
 			<rdf:type
 				rdf:resource="{concat('http://www.w3.org/2004/02/skos/core#','Concept')}" />
 			<skos:inScheme

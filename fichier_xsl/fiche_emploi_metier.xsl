@@ -32,7 +32,7 @@
 
 	<xsl:template match="fiche_emploi_metier">
 		<rdf:Description
-			rdf:about="{concat($URI,'metiers/',bloc_code_rome/code_rome)}">
+			rdf:about="{concat($URI,'metier-',bloc_code_rome/code_rome)}">
 			<xsl:apply-templates />
 		</rdf:Description>
 	</xsl:template>
@@ -75,26 +75,26 @@
 
 	<xsl:template match="les_mobilites/proche/mobilite">
 		<rome:mobiliteProche
-			rdf:resource="{concat($URI,'metiers/',substring(code_rome_cible,1,5))}" />
+			rdf:resource="{concat($URI,'metier-',substring(code_rome_cible,1,5))}" />
 	</xsl:template>
 
 	<xsl:template match="les_mobilites/si_evolution/mobilite">
 		<rome:mobiliteEvolution
-			rdf:resource="{concat($URI,'metiers/',substring(code_rome_cible,1,5))}" />
+			rdf:resource="{concat($URI,'metier-',substring(code_rome_cible,1,5))}" />
 	</xsl:template>
 
 	<xsl:template match="les_activites_de_base">
 		<rome:composantePrincipale>
 			<rome:ComposanteMetier rdf:about="{concat(
 				$URI,
-				'metiers/',
+				'metier-',
 				ancestor::fiche_emploi_metier/bloc_code_rome/code_rome,
 				'/composante/',
 				0
 				)}">
 				<xsl:for-each select="activite_de_base/item">
 					<rome:activite
-						rdf:resource="{concat($URI,'activites/',code_ogr)}" />
+						rdf:resource="{concat($URI,'activite-',code_ogr)}" />
 				</xsl:for-each>
 
 				<xsl:apply-templates
@@ -106,21 +106,21 @@
 
 	<xsl:template match="savoir_theorique_et_proceduraux/item">
 		<rome:competence
-			rdf:resource="{concat($URI,'competences/',code_ogr)}" />
+			rdf:resource="{concat($URI,'competence-',code_ogr)}" />
 	</xsl:template>
 
 	<xsl:template match="les_activites_specifique/bloc">
 		<rome:composante>
 			<rome:ComposanteMetier rdf:about="{concat(
 				$URI,
-				'metiers/',
+				'metier-',
 				ancestor::fiche_emploi_metier/bloc_code_rome/code_rome,
 				'/composante/',
 				normalize-space(position_bloc)
 				)}">
 				<xsl:for-each select="activite_specifique/item">
 					<rome:activite
-						rdf:resource="{concat($URI,'activites/',code_ogr)}" />
+						rdf:resource="{concat($URI,'activite-',code_ogr)}" />
 				</xsl:for-each>
 				<xsl:apply-templates
 					select="savoir_theorique_et_proceduraux/item" />				
