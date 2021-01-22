@@ -1,39 +1,40 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <ogr>
-  <item_referentiel_env_travail>
-    <code_ogr>23374</code_ogr>
-    <libelle_environnement>CONDITIONS</libelle_environnement>
-    <libelle>Au domicile de l'intervenant</libelle>
-    <statut1>1</statut1>
-  </item_referentiel_env_travail>
-  <item_referentiel_env_travail>
-    <code_ogr>23376</code_ogr>
-    <libelle_environnement>CONDITIONS</libelle_environnement>
-    <libelle>Au pied des installations</libelle>
-    <statut1>1</statut1>
-  </item_referentiel_env_travail>
-  <item_referentiel_env_travail>
-    <code_ogr>23386</code_ogr>
-    <libelle_environnement>SECTEURS</libelle_environnement>
-    <libelle>Accessoires de mode</libelle>
-    <statut1>1</statut1>
-  </item_referentiel_env_travail>
-  <item_referentiel_env_travail>
-    <code_ogr>23387</code_ogr>
-    <libelle_environnement>SECTEURS</libelle_environnement>
-    <libelle>Activités maritimes spécialisées (recherche, avitaillement off-shore, ...)</libelle>
-    <statut1>1</statut1>
-  </item_referentiel_env_travail>
-  <item_referentiel_env_travail>
-    <code_ogr>23685</code_ogr>
-    <libelle_environnement>STRUCTURES</libelle_environnement>
-    <libelle>Agence de castings</libelle>
-    <statut1>1</statut1>
-  </item_referentiel_env_travail>
-  <item_referentiel_env_travail>
-    <code_ogr>23686</code_ogr>
-    <libelle_environnement>STRUCTURES</libelle_environnement>
-    <libelle>Agence de communication</libelle>
-    <statut1>1</statut1>
-  </item_referentiel_env_travail>
+	<item_referentiel_env_travail>
+		<code_ogr>23374</code_ogr>
+		<libelle_environnement>CONDITIONS</libelle_environnement>
+		<libelle>Au domicile de l'intervenant</libelle>
+		<statut1>1</statut1>
+	</item_referentiel_env_travail>
+	<item_referentiel_env_travail>
+		<code_ogr>23376</code_ogr>
+		<libelle_environnement>CONDITIONS</libelle_environnement>
+		<libelle>Au pied des installations</libelle>
+		<statut1>1</statut1>
+	</item_referentiel_env_travail>
+	<item_referentiel_env_travail>
+		<code_ogr>23386</code_ogr>
+		<libelle_environnement>SECTEURS</libelle_environnement>
+		<libelle>Accessoires de mode</libelle>
+		<statut1>1</statut1>
+	</item_referentiel_env_travail>
+	<item_referentiel_env_travail>
+		<code_ogr>23387</code_ogr>
+		<libelle_environnement>SECTEURS</libelle_environnement>
+		<libelle>Activités maritimes spécialisées (recherche, avitaillement
+			off-shore, ...)</libelle>
+		<statut1>1</statut1>
+	</item_referentiel_env_travail>
+	<item_referentiel_env_travail>
+		<code_ogr>23685</code_ogr>
+		<libelle_environnement>STRUCTURES</libelle_environnement>
+		<libelle>Agence de castings</libelle>
+		<statut1>1</statut1>
+	</item_referentiel_env_travail>
+	<item_referentiel_env_travail>
+		<code_ogr>23686</code_ogr>
+		<libelle_environnement>STRUCTURES</libelle_environnement>
+		<libelle>Agence de communication</libelle>
+		<statut1>1</statut1>
+	</item_referentiel_env_travail>
 </ogr>
