@@ -51,6 +51,7 @@
 				<xsl:value-of select="code_noeud" />
 			</skos:notation>
 			<skos:prefLabel xml:lang="fr">
+				<!-- <xsl:value-of select="concat(code_noeud, ' - ', libelle)" /> -->
 				<xsl:value-of select="libelle" />
 			</skos:prefLabel>
 			<dcterms:identifier>
@@ -60,16 +61,37 @@
 			<xsl:variable name="code_noeud_id">
 				<xsl:value-of select="code_noeud" />
 			</xsl:variable>
-			<xsl:for-each select="following::code_noeud">
-				<xsl:variable name="code_pere_noeud">
-					<xsl:value-of select="parent::*/code_pere[1]" />
-				</xsl:variable>
-				<xsl:if test="$code_pere_noeud = $code_noeud_id">
-					<skos:member rdf:resource="{concat($URI,'metiers/',.)}" />
-				</xsl:if>
+			<xsl:for-each select="//item_arborescence[code_pere = $code_noeud_id]">
+				<skos:member rdf:resource="{concat($URI,'metiers/',code_noeud)}" />
 			</xsl:for-each>
 		</skos:Collection>
 	</xsl:template>
+
+
+	<xsl:template
+		match="item_arborescence[code_noeud = 'Racine AP' or code_noeud = 'Racine AR']">
+		<skos:Collection
+			rdf:about="{concat($URI,'metiers/',encode-for-uri(translate(code_noeud, ' ', '_')))}">
+			<skos:inScheme rdf:resource="{concat($URI,'metiers')}" />
+			<skos:notation>
+				<xsl:value-of select="code_noeud" />
+			</skos:notation>
+			<skos:prefLabel xml:lang="fr">
+				<xsl:value-of select="libelle" />
+			</skos:prefLabel>
+			<dcterms:identifier>
+				<xsl:value-of select="code_ogr" />
+			</dcterms:identifier>
+
+			<xsl:variable name="code_noeud_id">
+				<xsl:value-of select="code_noeud" />
+			</xsl:variable>
+			<xsl:for-each select="//item_arborescence[code_pere = $code_noeud_id]">
+				<skos:member rdf:resource="{concat($URI,'metiers/',code_noeud)}" />
+			</xsl:for-each>
+		</skos:Collection>
+	</xsl:template>
+
 
 
 	<!-- match chaque code noeud et ses fils -->
@@ -86,6 +108,7 @@
 				<xsl:value-of select="code_noeud" />
 			</skos:notation>
 			<skos:prefLabel xml:lang="fr">
+				<!-- <xsl:value-of select="concat(code_noeud, ' - ', libelle)" /> -->
 				<xsl:value-of select="libelle" />
 			</skos:prefLabel>
 			<dcterms:identifier>
