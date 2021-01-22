@@ -33,7 +33,7 @@
 					<xsl:for-each select="item_referentiel_env_travail">
 						<xsl:if test="libelle_environnement='CONDITIONS'">
 							<skos:hasTopConcept
-								rdf:resource="{concat($URI,lower-case(libelle_environnement),'/',code_ogr)}" />
+								rdf:resource="{concat($URI,substring(lower-case(libelle_environnement),1,string-length(libelle_environnement)-1),'-',code_ogr)}" />
 						</xsl:if>
 					</xsl:for-each>
 				</skos:ConceptScheme>
@@ -46,7 +46,7 @@
 					<xsl:for-each select="item_referentiel_env_travail">
 						<xsl:if test="libelle_environnement='SECTEURS'">
 							<skos:hasTopConcept
-								rdf:resource="{concat($URI,lower-case(libelle_environnement),'/',code_ogr)}" />
+								rdf:resource="{concat($URI,substring(lower-case(libelle_environnement),1,string-length(libelle_environnement)-1),'-',code_ogr)}" />
 						</xsl:if>
 					</xsl:for-each>
 				</skos:ConceptScheme>
@@ -59,7 +59,7 @@
 					<xsl:for-each select="item_referentiel_env_travail">
 						<xsl:if test="libelle_environnement='STRUCTURES'">
 							<skos:hasTopConcept
-								rdf:resource="{concat($URI,lower-case(libelle_environnement),'/',code_ogr)}" />
+								rdf:resource="{concat($URI,substring(lower-case(libelle_environnement),1,string-length(libelle_environnement)-1),'-',code_ogr)}" />
 						</xsl:if>
 					</xsl:for-each>
 				</skos:ConceptScheme>
@@ -73,7 +73,7 @@
 	<xsl:template
 		match="item_referentiel_env_travail/libelle_environnement">
 		<rome:Competence
-			rdf:about="{concat($URI,lower-case(../libelle_environnement),'/',../code_ogr)}">
+			rdf:about="{concat($URI,substring(lower-case(../libelle_environnement),1,string-length(../libelle_environnement)-1),'-',../code_ogr)}">
 			<rdf:type
 				rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
 			<skos:inScheme
