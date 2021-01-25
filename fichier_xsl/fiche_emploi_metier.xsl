@@ -76,10 +76,14 @@
 	<xsl:template match="les_mobilites/proche/mobilite">
 		<rome:mobiliteProche
 			rdf:resource="{concat($URI,'metier-',substring(code_rome_cible,1,5))}" />
+		<skos:related
+			rdf:resource="{concat($URI,'metier-',substring(code_rome_cible,1,5))}" />
 	</xsl:template>
 
 	<xsl:template match="les_mobilites/si_evolution/mobilite">
 		<rome:mobiliteEvolution
+			rdf:resource="{concat($URI,'metier-',substring(code_rome_cible,1,5))}" />
+		<skos:related
 			rdf:resource="{concat($URI,'metier-',substring(code_rome_cible,1,5))}" />
 	</xsl:template>
 
