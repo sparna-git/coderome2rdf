@@ -33,7 +33,7 @@
 					select="item_arborescence[string-length(code_noeud) 
 					> 3 and code_noeud != 'Racine AP' and code_noeud != 'Racine AR']">
 					<skos:hasTopConcept
-						rdf:resource="{concat($URI,'metiers/',code_noeud)}" />
+						rdf:resource="{concat($URI,'metier-',code_noeud)}" />
 				</xsl:for-each>
 			</skos:ConceptScheme>
 			<xsl:apply-templates />
@@ -45,7 +45,7 @@
 		match="item_arborescence[string-length(code_noeud) 
 		&lt;= 3]">
 		<skos:Collection
-			rdf:about="{concat($URI,'metiers/',code_noeud)}">
+			rdf:about="{concat($URI,'metier-',code_noeud)}">
 			<skos:inScheme rdf:resource="{concat($URI,'metiers')}" />
 			<skos:notation>
 				<xsl:value-of select="code_noeud" />
@@ -62,7 +62,7 @@
 				<xsl:value-of select="code_noeud" />
 			</xsl:variable>
 			<xsl:for-each select="//item_arborescence[code_pere = $code_noeud_id]">
-				<skos:member rdf:resource="{concat($URI,'metiers/',code_noeud)}" />
+				<skos:member rdf:resource="{concat($URI,'metier-',code_noeud)}" />
 			</xsl:for-each>
 		</skos:Collection>
 	</xsl:template>
@@ -71,7 +71,7 @@
 	<xsl:template
 		match="item_arborescence[code_noeud = 'Racine AP' or code_noeud = 'Racine AR']">
 		<skos:Collection
-			rdf:about="{concat($URI,'metiers/',encode-for-uri(translate(code_noeud, ' ', '_')))}">
+			rdf:about="{concat($URI,'metier-',encode-for-uri(translate(code_noeud, ' ', '_')))}">
 			<skos:inScheme rdf:resource="{concat($URI,'metiers')}" />
 			<skos:notation>
 				<xsl:value-of select="code_noeud" />
@@ -87,7 +87,7 @@
 				<xsl:value-of select="code_noeud" />
 			</xsl:variable>
 			<xsl:for-each select="//item_arborescence[code_pere = $code_noeud_id]">
-				<skos:member rdf:resource="{concat($URI,'metiers/',code_noeud)}" />
+				<skos:member rdf:resource="{concat($URI,'metier-',code_noeud)}" />
 			</xsl:for-each>
 		</skos:Collection>
 	</xsl:template>
@@ -99,7 +99,7 @@
 		match="item_arborescence[string-length(code_noeud) 
 		> 3 and code_noeud != 'Racine AP' and code_noeud != 'Racine AR']">
 		<skos:Concept
-			rdf:about="{concat($URI,'metiers/',code_noeud)}">
+			rdf:about="{concat($URI,'metier-',code_noeud)}">
 			<rdf:type
 				rdf:resource="{concat('http://data.sparna.fr/ontologies/rome#','Metier')}" />
 			<skos:inScheme rdf:resource="{concat($URI,'metiers')}" />
